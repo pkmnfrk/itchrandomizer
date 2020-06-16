@@ -28,7 +28,9 @@ function setGame() {
     $("#cover").attr("src", game.cover);
     $("#shorttext").text(game.short_text);
     $("#store").attr("href", game.url);
-
+    $("#author").attr("href", game.user.url);
+    $("#author").text(game.user.name);
+    
     let bundleUrl = getBundleUrl();
     if(bundleUrl) {
         bundleUrl += "?search=" + encodeURIComponent(game.title);
