@@ -9,27 +9,37 @@
         <link rel="stylesheet" href="./style.css" />
 
     </head>
-    <body>
-        <div class="container">
-            <h1>Bundle for Racial Justice and Equality Randomizer</h1>
-            <p>With 1700+ items in the <a href="https://itch.io/b/520/bundle-for-racial-justice-and-equality">Bundle for Racial Justice and Equality</a>, it's hard to find something you want to try without picking randomly. So, why not let us pick for you?</p>
-            <button id="randomGame" class="btn btn-primary">Pick Random Game</button>
-        </div>
-        <div class="container" id="game">
-            <img id="cover" src="https://placekitten.com/300/240" />
-            <h2 id="title">Name of Game</h2>
-            <p>Author: <a id="author" href="#">Author Name</a></p>
-            <p id="shorttext">A short description of this game</p>
-            <p><a id="store" target="itch" href="about:blank">Store page</a></p>
-            <p id="download_container"><a id="download" target="itch" href="about:blank">Your download page</a></p>
-        </div>
-        <div style="clear:both"></div>
-        <div class="container" id="bundle_container">
-            <p>Getting to the download page for these games can be hard, since it won't show up on the store page. Instead, paste in your bundle URL, and we will generate a link for you!</p>
-            <p>NOTE: This URL is private and specific to you. We do not capture or store this in any way, we promise!</p>
-            <input type="password" id="bundle_url" class="form-control" value="" />
-            <p>This will look like <code>https://itch.io/bundle/download/abunchof_characters</code></p>
-        </div>
+    <body class="bg-light">
+        <main role="main">
+            <section class="jumbotron text-center">
+                <div class="container">
+                    <h1>Bundle for Racial Justice and Equality Randomizer</h1>
+                    <p>With 1700+ items in the <a href="https://itch.io/b/520/bundle-for-racial-justice-and-equality">Bundle for Racial Justice and Equality</a>, it's hard to find something you want to try. So, why not let us pick randomly for you?</p>
+                    <button id="randomGame" class="btn btn-primary">Pick Random Game</button>
+                </div>
+            </section>
+            <div class="container" id="game">
+                <img class="float-left" id="cover" src="https://placekitten.com/300/240" />
+                <h2 id="title">Name of Game</h2>
+                <p>Author: <a id="author" href="#">Author Name</a></p>
+                <p id="shorttext">A short description of this game</p>
+                <p><a id="store" target="itch" href="about:blank">Store page</a></p>
+                <p id="download_container"><a id="download" target="itch" href="about:blank">Your download page</a></p>
+                <div style="clear:both"></div>
+            </div>
+            <div class="container" id="bundle_container">
+                <p>Getting to the download page for these games can be hard, since it won't show up on the store page. Instead, paste in your bundle URL, and we will generate a link for you!</p>
+                <p>NOTE: This URL is private and specific to you. We do not capture or store this in any way, we promise!</p>
+                <input type="password" id="bundle_url" class="form-control" value="" />
+                <p>This will look like <code>https://itch.io/bundle/download/abunchof_characters</code></p>
+            </div>
+        </main>
+        <footer class="text-muted text-center">
+            <div class="container">
+                <p>This website is &copy;2020 Mike Caron.</p>
+                <p>Neither <a href="https://itch.io">itch.io</a>, the games featured here or their authors are in any way associated with Mike Caron.</p>
+            </div>
+        </footer>
 
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
