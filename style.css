@@ -1,0 +1,11 @@
+#game, #bundle_container {
+    margin-top: 20px;
+}
+#cover {
+    float:left;
+    margin-right: 10px;
+}
+
+#download_container, #game {
+    display:none;
+}
