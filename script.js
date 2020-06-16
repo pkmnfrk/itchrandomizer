@@ -24,13 +24,13 @@ function setGame() {
     if(!game) return;
 
     $("#game").show();
-    $("#title").text(game.title);
-    $("#cover").attr("src", game.cover);
-    $("#shorttext").text(game.short_text);
-    $("#store").attr("href", game.url);
-    $("#author").attr("href", game.user.url);
-    $("#author").text(game.user.name);
-    
+    $("#title").text(game.title || "no title provided");
+    $("#cover").attr("src", game.cover || "https://placekitten.com/300/240");
+    $("#shorttext").text(game.short_text || "");
+    $("#store").attr("href", game.url || "");
+    $("#author").attr("href", game.user.url || "");
+    $("#author").text(game.user.name || "");
+
     let bundleUrl = getBundleUrl();
     if(bundleUrl) {
         bundleUrl += "?search=" + encodeURIComponent(game.title);
