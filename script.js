@@ -11,21 +11,29 @@ let games = null;
 
 let game = null;
 
-
+let settings = loadSettings();
 
 filterGames();
 
 $(() => {
+    $("#bundle_url").val(settings.bundleUrl);
+    $("#windows")[0].checked = settings.windows;
+    $("#osx")[0].checked = settings.osx;
+    $("#linux")[0].checked = settings.linux;
+    $("#other")[0].checked = settings.other;
+
     $("#randomGame").click(e => {
         getRandomGame();
         setGame();
     });
-    $("#bundle_url").val(localStorage.bundle_url);
     $("#bundle_url").on('change', () => {
-        localStorage.bundle_url = getBundleUrl();
+        settings.bundleUrl = getBundleUrl();
+        saveSettings(settings);
         setGame();
     });
-    $("#windows,#osx,#linux,#other").on('change', () => {
+    $("#windows,#osx,#linux,#other").on('change', function() {
+        settings[this.id] = this.checked;
+        saveSettings(settings);
         filterGames();
     });
 })
@@ -72,9 +80,44 @@ function platform(game) {
 }
 
 function matchesFilter(game) {
-    if($("#windows")[0].checked && game.platforms && game.platforms.indexOf("windows") !== -1) return true;
-    if($("#osx")[0].checked && game.platforms && game.platforms.indexOf("osx") !== -1) return true;
-    if($("#linux")[0].checked && game.platforms && game.platforms.indexOf("linux") !== -1) return true;
-    if($("#other")[0].checked && !game.platforms) return true;
+    if(settings.windows && game.platforms && game.platforms.indexOf("windows") !== -1) return true;
+    if(settings.osx && game.platforms && game.platforms.indexOf("osx") !== -1) return true;
+    if(settings.linux && game.platforms && game.platforms.indexOf("linux") !== -1) return true;
+    if(settings.other && !game.platforms) return true;
     return false;
+}
+
+function loadSettings() {
+    var settings = localStorage.itchRandomizerSettings;
+    if(settings) {
+        return JSON.parse(settings);
+    }
+
+    settings = localStorage.bundle_url;
+    if(settings) {
+        settings = {
+            ...defaultSettings(),
+            bundleUrl: settings
+        };
+        delete localStorage.bundle_url;
+        saveSettings(settings);
+        return settings;
+    }
+
+    return defaultSettings();
+}
+
+function saveSettings(settings) {
+    settings = JSON.stringify(settings);
+    localStorage.itchRandomizerSettings = settings;
+}
+
+function defaultSettings() {
+    return {
+        bundleUrl: "",
+        windows: true,
+        osx: true,
+        linux: true,
+        other: true
+    };
 }
