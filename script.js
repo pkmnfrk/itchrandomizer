@@ -13,6 +13,12 @@ let game = null;
 
 let settings = loadSettings();
 
+if(!settings) {
+    //sanity check
+    settings = defaultSettings();
+    saveSettings(settings);
+}
+
 filterGames();
 
 $(() => {
@@ -90,7 +96,10 @@ function matchesFilter(game) {
 function loadSettings() {
     var settings = localStorage.itchRandomizerSettings;
     if(settings) {
-        return JSON.parse(settings);
+        settings = JSON.parse(settings);
+        migrateSettings(settings);
+        saveSettings(settings);
+        return settings;
     }
 
     settings = localStorage.bundle_url;
@@ -112,12 +121,19 @@ function saveSettings(settings) {
     localStorage.itchRandomizerSettings = settings;
 }
 
+function migrateSettings(settings) {
+    if(!settings.played) {
+        settings.played = [];
+    }
+}
+
 function defaultSettings() {
     return {
         bundleUrl: "",
         windows: true,
         osx: true,
         linux: true,
-        other: true
+        other: true,
+        played: [],
     };
 }
