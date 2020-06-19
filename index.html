@@ -7,7 +7,6 @@
         <title>Bundle for Racial Justice and Equality Randomizer</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
         <link rel="stylesheet" href="./style.css" />
-
     </head>
     <body class="bg-light">
         <main role="main">
@@ -34,10 +33,15 @@
                             <label class="form-check-label" for="other">Other</label>
                         </div>
                     </div>
+                    <div class="form-group">
+                        <input type="checkbox" id="ignoreFilter" class="form-check-input" checked />
+                        <label class="form-check-label" for="ignoreFilter">Remove ignored items</label>
+                    </div>
                 </div>
             </section>
             <div class="container" id="game">
                 <img class="float-left" id="cover" src="" />
+                <button class="btn btn-secondary float-right" id="ignore">Ignore</button>
                 <h2 id="title">Name of Game</h2>
                 <p>Author: <a id="author" href="#">Author Name</a></p>
                 <p id="shorttext">A short description of this game</p>
@@ -47,16 +51,22 @@
                 <div style="clear:both"></div>
             </div>
             <div class="container" id="bundle_container">
-                <p>Getting to the download page for these games can be hard, since it won't show up on the store page. Instead, paste in your bundle URL, and we will generate a link for you!</p>
-                <p>NOTE: This URL is private and specific to you. We do not capture or store this in any way, we promise!</p>
-                <input type="password" id="bundle_url" class="form-control" value="" />
+                <p>Getting to the download page for these games can be hard, since it won't show up on the store page. Instead, paste in your bundle URL, and we will generate a link for you! NOTE: This URL is private and specific to you. We do not capture or store this in any way, we promise!</p>
                 <p>This will look like <code>https://itch.io/bundle/download/abunchof_characters</code></p>
+                <input type="password" id="bundle_url" class="form-control" value="" />
+                
+            </div>
+            <hr/>
+            <div class="container">
+                <p>Since there isn't a good way to manage ignored items, if you want to clear the ignored flag for everything and start over just press this button:</p>
+                <button class="btn btn-danger" id="resetIgnored">Reset Ignored</button>
             </div>
         </main>
         <footer class="text-muted text-center">
             <div class="container">
                 <p>This website is &copy;2020 Mike Caron. <a href="https://github.com/pkmnfrk/itchrandomizer">View on GitHub</a></p>
                 <p>Neither <a href="https://itch.io">itch.io</a>, the games featured here or their authors are in any way associated with Mike Caron.</p>
+                <p>This page was last modified on June 19, 2020.</p>
             </div>
         </footer>
 

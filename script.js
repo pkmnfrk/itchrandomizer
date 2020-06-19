@@ -42,6 +42,31 @@ $(() => {
         saveSettings(settings);
         filterGames();
     });
+    $("#ignore").on('click', function() {
+        if(!game) return;
+        if(settings.played.indexOf(game.id) !== -1) {
+            settings.played.splice(settings.played.indexOf(game.id), 1);
+        }
+        else {
+            settings.played.push(game.id);
+        }
+        saveSettings(settings);
+        setGame();
+        filterGames();
+    });
+    $("#ignoreFilter").on('change', function() {
+        settings.ignoreFilter = this.checked;
+        saveSettings(settings);
+        filterGames();
+    })
+    $("#resetIgnored").on('click', function() {
+        if(!confirm('Are you sure you want to clear your ignored item list?')) return;
+
+        settings.played = [];
+        saveSettings(settings);
+        filterGames();
+        setGame();
+    })
 })
 
 function getBundleUrl() {
@@ -59,6 +84,13 @@ function setGame() {
     $("#author").attr("href", game.user.url || "");
     $("#author").text(game.user.name || "");
     $("#platforms").text(platform(game));
+    
+    if(settings.played.indexOf(game.id) !== -1) {
+        $("#ignore").removeClass('btn-secondary').addClass('btn-success').text("Ignored");
+    }
+    else {
+        $("#ignore").removeClass('btn-success').addClass('btn-secondary').text("Ignore");
+    }
 
     let bundleUrl = getBundleUrl();
     if(bundleUrl) {
@@ -86,6 +118,7 @@ function platform(game) {
 }
 
 function matchesFilter(game) {
+    if(settings.ignoreFilter && settings.played.indexOf(game.id) !== -1) return false;
     if(settings.windows && game.platforms && game.platforms.indexOf("windows") !== -1) return true;
     if(settings.osx && game.platforms && game.platforms.indexOf("osx") !== -1) return true;
     if(settings.linux && game.platforms && game.platforms.indexOf("linux") !== -1) return true;
