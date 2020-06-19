@@ -135,7 +135,7 @@ function getRandomGame() {
         const i = Math.floor(Math.random() * games.length);
         newGame = games[i];
     } while(games.length > 1 && game === newGame);
-    
+
     game = newGame;
 }
 
@@ -198,18 +198,19 @@ function migrateSettings(settings) {
     if(!settings.played) {
         settings.played = [];
     }
-    if(typeof settings.android === "undefined")
-        settings.android = true;
-    if(typeof settings.web === "undefined")
-        settings.web = true;
+    if(settings.clas_game === "undefined") {
+        if(typeof settings.android === "undefined")
+            settings.android = true;
+        if(typeof settings.web === "undefined")
+            settings.web = true;
 
-    for(let platform in platforms) {
-        if(settings[platform]) {
-            settings[`plat_${platform}`] = true;
+        for(let platform in platforms) {
+            if(settings[platform]) {
+                settings[`plat_${platform}`] = true;
+            }
+            delete settings[platform];
         }
-        delete settings[platform];
-    }
-    if(typeof settings.clas_game === "undefined") {
+                
         for(let classification in classifications) {
             settings[`clas_${classification}`] = true;
         }
