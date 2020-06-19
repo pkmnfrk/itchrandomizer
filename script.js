@@ -75,8 +75,8 @@ $(() => {
             settings.played.push(game.id);
         }
         saveSettings(settings);
-        setGame();
         filterGames();
+        setGame();
     });
     $("#ignoreFilter").on('change', function() {
         settings.ignoreFilter = this.checked;
@@ -210,7 +210,7 @@ function migrateSettings(settings) {
             }
             delete settings[platform];
         }
-                
+
         for(let classification in classifications) {
             settings[`clas_${classification}`] = true;
         }
