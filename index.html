@@ -28,15 +28,24 @@
                 </div>
             </section>
             <div class="container" id="game">
-                <img class="float-left" id="cover" src="" />
-                <button class="btn btn-secondary float-right" id="ignore">Ignore</button>
-                <h2 id="title">Name of Game</h2>
-                <p>Author: <a id="author" href="#">Author Name</a></p>
-                <p id="shorttext">A short description of this game</p>
-                <p><a id="store" target="itch" href="about:blank">Store page</a></p>
-                <p>Platform(s): <span id="platforms">something</span></p>
-                <p id="download_container"><a id="download" target="itch" href="about:blank">Your download page</a></p>
+                <div class="row">
+                    <div class="" id="cover-container" style="min-width: 320px"> <!-- if there is a way to do this with pure bootstrap, please let me know! https://github.com/pkmnfrk/itchrandomizer -->
+                        <img id="cover" src="" />
+                    </div>
+                    <div class="col" style="min-width: 200px; max-width: 100%">
+                        <h2 id="title">Name of Game</h2>
+                        <button class="btn btn-secondary float-right" id="ignore">Ignore</button>
+                        <p>Author: <a id="author" href="#">Author Name</a></p>
+                        <p id="shorttext">A short description of this game</p>
+                        <p><a id="store" target="itch" href="about:blank">Store page</a></p>
+                        <p>Platform(s): <span id="platforms">something</span></p>
+                        <p id="download_container"><a id="download" target="itch" href="about:blank">Your download page</a></p>
+                    </div>
+                </div>
+                <!--
+                
                 <div style="clear:both"></div>
+                -->
             </div>
             <div class="container" id="bundle_container">
                 <p>Getting to the download page for these games can be hard, since it won't show up on the store page. Instead, paste in your bundle URL, and we will generate a link for you! NOTE: This URL is private and specific to you. We do not capture or store this in any way, we promise!</p>

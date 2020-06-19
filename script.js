@@ -52,6 +52,9 @@ $(() => {
     createPlatforms();
     createClassifications();
 
+    getRandomGame();
+    setGame();
+
     $("#bundle_url").val(settings.bundleUrl);
 
     $("#randomGame").click(e => {

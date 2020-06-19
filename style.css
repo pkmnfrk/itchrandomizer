@@ -10,3 +10,12 @@
 #download_container, #game {
     display:none;
 }
+
+@media only screen and (max-width: 540px) {
+    #game {
+        text-align: center;
+    }
+    #cover-container {
+        width: 100%;
+    }
+}
