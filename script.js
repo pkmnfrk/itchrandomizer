@@ -1,9 +1,26 @@
 import allGames from './games.js';
 
+//console.log(allGames.games.length);
+
+
+let allPlatforms = {};
+for(let game of allGames.games) {
+    if(!game.platforms) continue;
+   
+    for(let platform of game.platforms) {
+        if(!allPlatforms[platform]) {
+            allPlatforms[platform] = 0;
+        }
+        allPlatforms[platform]++;
+    }
+}
+
 const platforms = {
     windows: "Windows",
     osx: "OS X",
     linux: "Linux",
+    android: "Android",
+    web: "Web",
     other: "Other (pdf, image, etc)"
 }
 
@@ -26,6 +43,8 @@ $(() => {
     $("#windows")[0].checked = settings.windows;
     $("#osx")[0].checked = settings.osx;
     $("#linux")[0].checked = settings.linux;
+    $("#android")[0].checked = settings.android;
+    $("#web")[0].checked = settings.web;
     $("#other")[0].checked = settings.other;
 
     $("#randomGame").click(e => {
@@ -37,7 +56,7 @@ $(() => {
         saveSettings(settings);
         setGame();
     });
-    $("#windows,#osx,#linux,#other").on('change', function() {
+    $('#' + Object.keys(allPlatforms).join(",#") + ',#other').on('change', function() {
         settings[this.id] = this.checked;
         saveSettings(settings);
         filterGames();
@@ -122,7 +141,9 @@ function matchesFilter(game) {
     if(settings.windows && game.platforms && game.platforms.indexOf("windows") !== -1) return true;
     if(settings.osx && game.platforms && game.platforms.indexOf("osx") !== -1) return true;
     if(settings.linux && game.platforms && game.platforms.indexOf("linux") !== -1) return true;
-    if(settings.other && !game.platforms) return true;
+    if(settings.android && game.platforms && game.platforms.indexOf("android") !== -1) return true;
+    if(settings.web && game.platforms && game.platforms.indexOf("web") !== -1) return true;
+    if(settings.other && (!game.platforms || !game.platforms.length)) return true;
     return false;
 }
 
@@ -158,6 +179,10 @@ function migrateSettings(settings) {
     if(!settings.played) {
         settings.played = [];
     }
+    if(typeof settings.android === "undefined")
+        settings.android = true;
+    if(typeof settings.web === "undefined")
+        settings.web = true;
 }
 
 function defaultSettings() {
