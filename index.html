@@ -15,32 +15,12 @@
                     <h1>Bundle for Racial Justice and Equality Randomizer</h1>
                     <p>With 1700+ items in the <a href="https://itch.io/b/520/bundle-for-racial-justice-and-equality">Bundle for Racial Justice and Equality</a>, it's hard to find something you want to try. So, why not let us pick randomly for you?</p>
                     <p><button id="randomGame" class="btn btn-primary">Pick Random Game (<span id="numgames">0</span> items)</button></p>
-                    <div class="form-group">
-                        <div class="form-check form-check-inline">
-                            <input type="checkbox" id="windows" class="form-check-input" checked />
-                            <label class="form-check-label" for="windows">Windows</label>
-                        </div>
-                        <div class="form-check form-check-inline">
-                            <input type="checkbox" id="osx" class="form-check-input" checked />
-                            <label class="form-check-label" for="osx">OS X</label>
-                        </div>
-                        <div class="form-check form-check-inline">
-                            <input type="checkbox" id="linux" class="form-check-input" checked />
-                            <label class="form-check-label" for="linux">Linux</label>
-                        </div>
-                        <div class="form-check form-check-inline">
-                            <input type="checkbox" id="web" class="form-check-input" checked />
-                            <label class="form-check-label" for="web">Web</label>
-                        </div>
-                        <div class="form-check form-check-inline">
-                            <input type="checkbox" id="android" class="form-check-input" checked />
-                            <label class="form-check-label" for="android">Android</label>
-                        </div>
-                        <div class="form-check form-check-inline">
-                            <input type="checkbox" id="other" class="form-check-input" checked />
-                            <label class="form-check-label" for="other">Other (pdf, image, etc)</label>
-                        </div>
-                    </div>
+                    <ul class="form-group" id="platforms_container">
+                        <li class="form-check form-check-inline">Platforms:</li>
+                    </ul>
+                    <ul class="form-group" id="classifications_container">
+                        <li class="form-check form-check-inline">Types:</li>
+                    </ul>
                     <div class="form-group">
                         <input type="checkbox" id="ignoreFilter" class="form-check-input" checked />
                         <label class="form-check-label" for="ignoreFilter">Remove ignored items</label>

@@ -23,6 +23,16 @@ const platforms = {
     web: "Web",
     other: "Other (pdf, image, etc)"
 }
+const classifications = {
+    game: 'Video Games',
+    physical_game: 'Physical Games',
+    assets: 'Assets',
+    book: 'Books',
+    comic: 'Comics',
+    soundtrack: 'Soundtracks',
+    tool: 'Tools',
+    other: 'Other',
+}
 
 let games = null;
 
@@ -39,13 +49,10 @@ if(!settings) {
 filterGames();
 
 $(() => {
+    createPlatforms();
+    createClassifications();
+
     $("#bundle_url").val(settings.bundleUrl);
-    $("#windows")[0].checked = settings.windows;
-    $("#osx")[0].checked = settings.osx;
-    $("#linux")[0].checked = settings.linux;
-    $("#android")[0].checked = settings.android;
-    $("#web")[0].checked = settings.web;
-    $("#other")[0].checked = settings.other;
 
     $("#randomGame").click(e => {
         getRandomGame();
@@ -55,11 +62,6 @@ $(() => {
         settings.bundleUrl = getBundleUrl();
         saveSettings(settings);
         setGame();
-    });
-    $('#' + Object.keys(allPlatforms).join(",#") + ',#other').on('change', function() {
-        settings[this.id] = this.checked;
-        saveSettings(settings);
-        filterGames();
     });
     $("#ignore").on('click', function() {
         if(!game) return;
@@ -138,13 +140,22 @@ function platform(game) {
 
 function matchesFilter(game) {
     if(settings.ignoreFilter && settings.played.indexOf(game.id) !== -1) return false;
-    if(settings.windows && game.platforms && game.platforms.indexOf("windows") !== -1) return true;
-    if(settings.osx && game.platforms && game.platforms.indexOf("osx") !== -1) return true;
-    if(settings.linux && game.platforms && game.platforms.indexOf("linux") !== -1) return true;
-    if(settings.android && game.platforms && game.platforms.indexOf("android") !== -1) return true;
-    if(settings.web && game.platforms && game.platforms.indexOf("web") !== -1) return true;
-    if(settings.other && (!game.platforms || !game.platforms.length)) return true;
-    return false;
+    let platformFilter = false;
+    let classFilter = false;
+
+    for(let platform of Object.keys(platforms).filter(p => settings[`plat_${p}`])) {
+        if(platform === "other") {
+            if(!game.platforms) platformFilter = true;
+        }
+        else {
+            if(game.platforms && game.platforms.indexOf(platform) !== -1) platformFilter = true;
+        }
+    }
+    for(let classification of Object.keys(classifications).filter(c => settings[`clas_${c}`])) {
+        if(game.classification === classification) classFilter = true;
+    }
+
+    return platformFilter && classFilter;
 }
 
 function loadSettings() {
@@ -183,15 +194,77 @@ function migrateSettings(settings) {
         settings.android = true;
     if(typeof settings.web === "undefined")
         settings.web = true;
+
+    for(let platform in platforms) {
+        if(settings[platform]) {
+            settings[`plat_${platform}`] = true;
+        }
+        delete settings[platform];
+    }
+    if(typeof settings.clas_game === "undefined") {
+        for(let classification in classifications) {
+            settings[`clas_${classification}`] = true;
+        }
+    }
 }
 
 function defaultSettings() {
-    return {
+    let ret = {
         bundleUrl: "",
-        windows: true,
-        osx: true,
-        linux: true,
-        other: true,
         played: [],
     };
+    for(let platform in platforms) {
+        ret[`plat_${platform}`] = true;
+    }
+    for(let classification in classifications) {
+        ret[`clas_${classification}`] = true;
+    }
+    return ret;
+}
+
+function createPlatforms() {
+    for(let platform in platforms) {
+        let id = `plat_${platform}`;
+        let box = createCheckbox(id, platforms[platform]);
+        $("#platforms_container").append(box);
+        $("input", box)[0].checked = settings[id];
+        $("input", box).on('change', function() {
+            settings[id] = this.checked;
+            saveSettings(settings);
+            filterGames();
+        });
+
+    }
+}
+
+function createClassifications() {
+    for(let classification in classifications) {
+        let id = `clas_${classification}`;
+        let box = createCheckbox(id, classifications[classification]);
+        $("#classifications_container").append(box);
+        $("input", box)[0].checked = settings[id];
+        $("input", box).on('change', function() {
+            settings[id] = this.checked;
+            saveSettings(settings);
+            filterGames();
+        });
+    }
+}
+
+
+function createCheckbox(id, text) {
+    let div = document.createElement('li');
+    div.className = 'form-check form-check-inline';
+    let input = document.createElement('input');
+    input.className = 'form-check-input';
+    input.checked = true;
+    input.id = id;
+    input.type = 'checkbox';
+    let label = document.createElement('label');
+    label.htmlFor = id;
+    label.className = 'form-check-label';
+    label.innerText = text;
+    div.appendChild(input);
+    div.appendChild(label);
+    return div;
 }
