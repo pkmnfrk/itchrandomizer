@@ -15,15 +15,14 @@ https.get(url, res => {
     res.on('end', () => {
         json = json.replace(decodeURIComponent("%e2%80%a8"), ''); // the source json has a weird character that breaks things
         bundle = JSON.parse(json);
+        bundle.games = bundle.games.map(g => {
+            delete g.price;
+            delete g.bundle_game;
+            return g;
+        })
         json = JSONL.stringify(bundle, null, 2);
         let js = `// sourced from ${url}\r\n\r\nconst games = ${json};\r\n\r\n export default games;`;
         js = jsBeautify(js);
         fs.writeFileSync('games.js', js);
-
-        /*
-        let others = bundle.games.filter(g => !g.platforms);
-        json = JSON.stringify(others, null, 2);
-        fs.writeFileSync('others.json');
-        */
     });
 })
