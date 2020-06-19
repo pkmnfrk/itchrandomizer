@@ -215,6 +215,9 @@ function migrateSettings(settings) {
             settings[`clas_${classification}`] = true;
         }
     }
+    if(typeof settings.ignoreFilter === "undefined") {
+        settings.ignoreFilter = true;
+    }
 }
 
 function defaultSettings() {
