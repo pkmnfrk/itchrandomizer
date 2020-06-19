@@ -130,8 +130,13 @@ function filterGames() {
 }
 
 function getRandomGame() {
-    const i = Math.floor(Math.random() * games.length);
-    game = games[i];
+    let newGame;
+    do {
+        const i = Math.floor(Math.random() * games.length);
+        newGame = games[i];
+    } while(games.length > 1 && game === newGame);
+    
+    game = newGame;
 }
 
 function platform(game) {
