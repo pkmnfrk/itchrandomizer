@@ -40,6 +40,8 @@ let game = null;
 
 let settings = loadSettings();
 
+let shortcutsEnabled = true;
+
 if(!settings) {
     //sanity check
     settings = defaultSettings();
@@ -58,11 +60,13 @@ $(() => {
         getRandomGame();
         setGame();
     });
+
     $("#bundle_url").on('change', () => {
         settings.bundleUrl = getBundleUrl();
         saveSettings(settings);
         setGame();
-    });
+    })
+
     $("#ignore").on('click', function() {
         toggleIgnore();
     });
@@ -80,6 +84,8 @@ $(() => {
         setGame();
     });
     $(window).on('keypress', function(e) {
+        if(!shortcutsEnabled) return;
+
         switch(e.code) {
             case "KeyI":
                 toggleIgnore();
@@ -91,7 +97,12 @@ $(() => {
                 e.preventDefault();
                 break;
         }
-    })
+    });
+    $(document.body).delegate('input', 'focus', () => {
+        shortcutsEnabled = false;
+    }).delegate('input', 'blur', () => {
+        shortcutsEnabled = true;
+    });
 
     getRandomGame();
     setGame();

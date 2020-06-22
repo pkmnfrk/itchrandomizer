@@ -19,3 +19,13 @@
         width: 100%;
     }
 }
+
+.key {
+    border: 3px #444 outset;
+    color: white;
+    background-color: #888;
+    min-width: 2em;
+    display: inline-block;
+    text-align: center;
+    padding: 0px 5px;
+}
