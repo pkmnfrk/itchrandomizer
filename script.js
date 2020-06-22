@@ -52,9 +52,6 @@ $(() => {
     createPlatforms();
     createClassifications();
 
-    getRandomGame();
-    setGame();
-
     $("#bundle_url").val(settings.bundleUrl);
 
     $("#randomGame").click(e => {
@@ -67,22 +64,13 @@ $(() => {
         setGame();
     });
     $("#ignore").on('click', function() {
-        if(!game) return;
-        if(settings.played.indexOf(game.id) !== -1) {
-            settings.played.splice(settings.played.indexOf(game.id), 1);
-        }
-        else {
-            settings.played.push(game.id);
-        }
-        saveSettings(settings);
-        filterGames();
-        setGame();
+        toggleIgnore();
     });
     $("#ignoreFilter").on('change', function() {
         settings.ignoreFilter = this.checked;
         saveSettings(settings);
         filterGames();
-    })
+    });
     $("#resetIgnored").on('click', function() {
         if(!confirm('Are you sure you want to clear your ignored item list?')) return;
 
@@ -90,8 +78,37 @@ $(() => {
         saveSettings(settings);
         filterGames();
         setGame();
+    });
+    $(window).on('keypress', function(e) {
+        switch(e.code) {
+            case "KeyI":
+                toggleIgnore();
+                e.preventDefault();
+                break;
+            case "Space":
+                getRandomGame();
+                setGame();
+                e.preventDefault();
+                break;
+        }
     })
+
+    getRandomGame();
+    setGame();
 })
+
+function toggleIgnore() {
+    if(!game) return;
+    if(settings.played.indexOf(game.id) !== -1) {
+        settings.played.splice(settings.played.indexOf(game.id), 1);
+    }
+    else {
+        settings.played.push(game.id);
+    }
+    saveSettings(settings);
+    filterGames();
+    setGame();
+}
 
 function getBundleUrl() {
     return $("#bundle_url").val();
