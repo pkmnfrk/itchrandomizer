@@ -51,21 +51,23 @@ if(!settings) {
 filterGames();
 
 $(() => {
+    createBundles();
     createPlatforms();
     createClassifications();
 
-    $("#bundle_url").val(settings.bundleUrl);
+    for(const bundle of Object.keys(settings.bundleUrl)) {
+        $("#bundle_url_" + bundle).val(settings.bundleUrl[bundle]);
+        $("#bundle_url_" + bundle).on('change', function() {
+            settings.bundleUrl[bundle] = $("#bundle_url_" + bundle).val();
+            saveSettings(settings);
+            setGame();
+        })
+    }
 
     $("#randomGame").click(e => {
         getRandomGame();
         setGame();
     });
-
-    $("#bundle_url").on('change', () => {
-        settings.bundleUrl = getBundleUrl();
-        saveSettings(settings);
-        setGame();
-    })
 
     $("#ignore").on('click', function() {
         toggleIgnore();
@@ -121,8 +123,21 @@ function toggleIgnore() {
     setGame();
 }
 
-function getBundleUrl() {
-    return $("#bundle_url").val();
+function getBundleUrl(game) {
+    return settings.bundleUrl[game.bundles[0]];
+}
+
+function getTags(game) {
+    const ret = [];
+    for(const bundle of game.bundles) {
+        const tag = $("<span/>");
+        tag.text(allGames.bundles[bundle].abbr);
+        tag.addClass("tag");
+        tag.attr("title", allGames.bundles[bundle].name);
+        tag.css("background-color", allGames.bundles[bundle].color);
+        ret.push(tag);
+    }
+    return ret;
 }
 
 function setGame() {
@@ -136,6 +151,7 @@ function setGame() {
     $("#author").attr("href", game.user.url || "");
     $("#author").text(game.user.name || "");
     $("#platforms").text(platform(game));
+    $("#tags").html(getTags(game));
     
     if(settings.played.indexOf(game.id) !== -1) {
         $("#ignore").removeClass('btn-secondary').addClass('btn-success').text("Ignored");
@@ -144,11 +160,14 @@ function setGame() {
         $("#ignore").removeClass('btn-success').addClass('btn-secondary').text("Ignore");
     }
 
-    let bundleUrl = getBundleUrl();
+    let bundleUrl = getBundleUrl(game);
     if(bundleUrl) {
         bundleUrl += "?search=" + encodeURIComponent(game.title);
         $("#download").attr('href', bundleUrl);
         $("#download_container").show();
+    } else {
+        $("#download").attr("href", "#");
+        $("#download_container").hide();
     }
 }
 
@@ -177,11 +196,14 @@ function platform(game) {
 function matchesFilter(game) {
     if(settings.ignoreFilter && settings.played.indexOf(game.id) !== -1) return false;
     
-    if(game.bundles.indexOf("520") !== -1) return false;
-
+    // if(game.bundles.indexOf("520") !== -1) return false;
+    let bundleFilter = false;
     let platformFilter = false;
     let classFilter = false;
 
+    for(let bundle of Object.keys(allGames.bundles).filter(b => settings[`bundle_${b}`])) {
+        if(game.bundles.indexOf(bundle) !== -1) bundleFilter = true;
+    }
     for(let platform of Object.keys(platforms).filter(p => settings[`plat_${p}`])) {
         if(platform === "other") {
             if(!game.platforms) platformFilter = true;
@@ -194,7 +216,7 @@ function matchesFilter(game) {
         if(game.classification === classification) classFilter = true;
     }
 
-    return platformFilter && classFilter;
+    return platformFilter && classFilter && bundleFilter;
 }
 
 function loadSettings() {
@@ -202,17 +224,6 @@ function loadSettings() {
     if(settings) {
         settings = JSON.parse(settings);
         migrateSettings(settings);
-        saveSettings(settings);
-        return settings;
-    }
-
-    settings = localStorage.bundle_url;
-    if(settings) {
-        settings = {
-            ...defaultSettings(),
-            bundleUrl: settings
-        };
-        delete localStorage.bundle_url;
         saveSettings(settings);
         return settings;
     }
@@ -249,11 +260,19 @@ function migrateSettings(settings) {
     if(typeof settings.ignoreFilter === "undefined") {
         settings.ignoreFilter = true;
     }
+    if(typeof settings.bundles === "undefined") {
+        settings.bundles = ["520", "902"];
+    }
+    if(typeof settings.bundleUrl === "string") {
+        settings.bundleUrl = {
+            "520": settings.bundleUrl,
+        }
+    }
 }
 
 function defaultSettings() {
     let ret = {
-        bundleUrl: "",
+        bundleUrl: {},
         played: [],
     };
     for(let platform in platforms) {
@@ -262,7 +281,35 @@ function defaultSettings() {
     for(let classification in classifications) {
         ret[`clas_${classification}`] = true;
     }
+    for(let bundle in Object.keys(allGames.bundles)) {
+        ret[`bundle_${bundle}`] = true;
+    }
     return ret;
+}
+
+function createBundles() {
+    for(const bundle of Object.keys(allGames.bundles)) {
+        let id = `bundle_${bundle}`;
+        let box = createCheckbox(id, allGames.bundles[bundle].name);
+        $("#bundles_container").append(box);
+        $("input", box)[0].checked = settings[id];
+        $("input", box).on('change', function() {
+            settings[id] = this.checked;
+            saveSettings(settings);
+            filterGames();
+        });
+
+        let p = document.createElement("p");
+        let span = document.createElement("span");
+        $(span).text(allGames.bundles[bundle].name);
+        p.appendChild(span);
+        let url = document.createElement("input");
+        url.id = "bundle_url_" + bundle;
+        url.type = "password";
+        url.className = "form-control";
+        p.appendChild(url);
+        $("#bundle_urls")[0].appendChild(p);
+    }
 }
 
 function createPlatforms() {

@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>Bundle for Racial Justice and Equality Randomizer</title>
+        <title>Itch Superbundle Randomizer</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
         <link rel="stylesheet" href="./style.css" />
     </head>
@@ -12,9 +12,12 @@
         <main role="main">
             <section class="jumbotron text-center">
                 <div class="container">
-                    <h1>Bundle for Racial Justice and Equality Randomizer</h1>
-                    <p>With 1700+ items in the <a href="https://itch.io/b/520/bundle-for-racial-justice-and-equality">Bundle for Racial Justice and Equality</a>, it's hard to find something you want to try. So, why not let us pick randomly for you?</p>
+                    <h1>Itch Superbundle Randomizer</h1>
+                    <p>With 1700+ items in the <a href="https://itch.io/b/520/bundle-for-racial-justice-and-equality">Bundle for Racial Justice and Equality</a> and 1000+ in the <a href="https://itch.io/b/902/indie-bundle-for-palestinian-aid">Indie bundle for Palestinian Aid</a>, it's hard to find something you want to try. So, why not let us pick randomly for you?</p>
                     <p><button id="randomGame" class="btn btn-primary">Pick Random Game (<span id="numgames">0</span> items)</button></p>
+                    <ul class="form-group" id="bundles_container">
+                        <li class="form-check form-check-inline">Bundles:</li>
+                    </ul>
                     <ul class="form-group" id="platforms_container">
                         <li class="form-check form-check-inline">Platforms:</li>
                     </ul>
@@ -34,6 +37,7 @@
                     </div>
                     <div class="col" style="min-width: 200px; max-width: 100%">
                         <h2 id="title">Name of Game</h2>
+                        <span id="tags"><span class="tag">Tags</span></span>
                         <button class="btn btn-secondary float-right" id="ignore">Ignore</button>
                         <p>Author: <a id="author" href="#">Author Name</a></p>
                         <p id="shorttext">A short description of this game</p>
@@ -51,8 +55,9 @@
             <div class="container" id="bundle_container">
                 <p>Getting to the download page for these games can be hard, since it won't show up on the store page. Instead, paste in your bundle URL, and we will generate a link for you! NOTE: This URL is private and specific to you. We do not capture or store this in any way, we promise!</p>
                 <p>This will look like <code>https://itch.io/bundle/download/abunchof_characters</code></p>
-                <input type="password" id="bundle_url" class="form-control" value="" />
-                
+                <div id="bundle_urls">
+                    <!-- <p><input type="password" id="bundle_url" class="form-control" value="" /></p> -->
+                </div>
             </div>
             <hr/>
             <div class="container">
@@ -62,9 +67,9 @@
         </main>
         <footer class="text-muted text-center">
             <div class="container">
-                <p>This website is &copy;2020 Mike Caron. <a href="https://github.com/pkmnfrk/itchrandomizer">View on GitHub</a></p>
+                <p>This website is &copy;2021 Mike Caron. <a href="https://github.com/pkmnfrk/itchrandomizer">View on GitHub</a></p>
                 <p>Neither <a href="https://itch.io">itch.io</a>, the games featured here or their authors are in any way associated with Mike Caron.</p>
-                <p>This page was last modified on June 19, 2020.</p>
+                <p>This page was last modified on June 7, 2021.</p>
             </div>
         </footer>
 

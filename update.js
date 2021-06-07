@@ -12,6 +12,22 @@ const urls = {
 async function doStuff() {
     const games = {
         games: [],
+        bundles: {
+            "520": {
+                id: "520",
+                name: "Bundle for Racial Justice and Equality",
+                url: "https://itch.io/b/520/bundle-for-racial-justice-and-equality",
+                abbr: "RJE",
+                color: "#808000",
+            },
+            "902": {
+                id: "902",
+                name: "Indie bundle for Palestinian Aid",
+                url: "https://itch.io/b/902/indie-bundle-for-palestinian-aid",
+                abbr: "PA",
+                color: "#008000",
+            }
+        }
     };
     let attribution = "";
 

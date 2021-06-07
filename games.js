@@ -122,17 +122,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 51221,
-        platforms: ["windows", "osx", "linux"],
-        title: "MewnBase",
+        cover: "https://img.itch.zone/aW1hZ2UvNTEyMjEvNDY3NTcyLmdpZg==/300x240%23cm/SaqWkO.gif",
         user: {
             url: "https://cairn4.itch.io",
             name: "Cairn4",
             id: 34089
         },
-        url: "https://cairn4.itch.io/mewnbase",
-        cover: "https://img.itch.zone/aW1hZ2UvNTEyMjEvNDY3NTcyLmdpZg==/300x240%23cm/SaqWkO.gif",
-        "cover_color": "#281c17",
         classification: "game",
+        title: "MewnBase",
+        "cover_color": "#281c17",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://cairn4.itch.io/mewnbase",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTEyMjEvNDY3NTcyLmdpZg==/original/UnCSY8.gif",
         "short_text": "Planet exploration and survival game with base building.",
         bundles: ["520"]
     }, {
@@ -377,47 +378,50 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 58824,
-        platforms: ["windows", "osx", "linux"],
-        title: "One Night Stand",
+        cover: "https://img.itch.zone/aW1hZ2UvNTg4MjQvNDMyNDg2LmdpZg==/300x240%23cm/8z1kgt.gif",
         user: {
             url: "https://kinmoku.itch.io",
             name: "Kinmoku",
             id: 132233
         },
-        url: "https://kinmoku.itch.io/one-night-stand",
-        cover: "https://img.itch.zone/aW1hZ2UvNTg4MjQvNDMyNDg2LmdpZg==/300x240%23cm/8z1kgt.gif",
-        "cover_color": "#fff5de",
         classification: "game",
+        title: "One Night Stand",
+        "cover_color": "#fff5de",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://kinmoku.itch.io/one-night-stand",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTg4MjQvNDMyNDg2LmdpZg==/original/Sop3cK.gif",
         "short_text": "After a night of fun, passion, and one too many drinks, you awake the next morning to find a stranger lying beside you.",
         bundles: ["520"]
     }, {
         id: 11688,
-        platforms: ["windows", "osx"],
-        title: "LAZA KNITEZ!!",
+        cover: "https://img.itch.zone/aW1hZ2UvMTE2ODgvNDE2NTEuZ2lm/300x240%23cm/BqkTEx.gif",
         user: {
             url: "https://glitchnap.itch.io",
             name: "Glitchnap",
             id: 33044
         },
-        url: "https://glitchnap.itch.io/lazaknitez",
-        cover: "https://img.itch.zone/aW1hZ2UvMTE2ODgvNDE2NTEuZ2lm/300x240%23cm/BqkTEx.gif",
-        "cover_color": "#fa5cd5",
         classification: "game",
+        title: "LAZA KNITEZ!!",
+        "cover_color": "#fa5cd5",
+        platforms: ["windows", "osx"],
+        url: "https://glitchnap.itch.io/lazaknitez",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTE2ODgvNDE2NTEuZ2lm/original/uw8Czt.gif",
         "short_text": "LAZA KNITEZ!! is a fast-paced jousting deathmatch game for up to 4 players.",
         bundles: ["520", "902"]
     }, {
         id: 93543,
-        platforms: ["windows"],
-        title: "WitchWay",
+        cover: "https://img.itch.zone/aW1nLzE4NjIyMDUuZ2lm/300x240%23cm/7YPMNg.gif",
         user: {
             url: "https://gleeson.itch.io",
             name: "Andrew Gleeson",
             id: 833
         },
-        url: "https://gleeson.itch.io/witchway",
-        cover: "https://img.itch.zone/aW1nLzE4NjIyMDUuZ2lm/300x240%23cm/7YPMNg.gif",
-        "cover_color": "#ffffff",
         classification: "game",
+        title: "WitchWay",
+        "cover_color": "#ffffff",
+        platforms: ["windows"],
+        url: "https://gleeson.itch.io/witchway",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4NjIyMDUuZ2lm/original/2mRE3M.gif",
         "short_text": "A cute adventure full of puzzles!",
         bundles: ["520"]
     }, {
@@ -437,17 +441,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 429778,
-        platforms: ["windows", "osx"],
-        title: "No Delivery",
+        cover: "https://img.itch.zone/aW1nLzIxNDk0MjguZ2lm/300x240%23cm/yBd0X8.gif",
         user: {
             url: "https://horror-n-oates.itch.io",
             name: "oates",
             id: 1056053
         },
-        url: "https://horror-n-oates.itch.io/no-delivery",
-        cover: "https://img.itch.zone/aW1nLzIxNDk0MjguZ2lm/300x240%23cm/yBd0X8.gif",
-        "cover_color": "#e94243",
         classification: "game",
+        title: "No Delivery",
+        "cover_color": "#e94243",
+        platforms: ["windows", "osx"],
+        url: "https://horror-n-oates.itch.io/no-delivery",
+        "gif_cover": "https://img.itch.zone/aW1nLzIxNDk0MjguZ2lm/original/yfZ4jO.gif",
         "short_text": "An employee training video gone wrong.",
         bundles: ["520"]
     }, {
@@ -482,17 +487,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 66082,
-        platforms: ["windows", "osx"],
-        title: "Long Gone Days",
+        cover: "https://img.itch.zone/aW1hZ2UvNjYwODIvMjk5Mjg1LmdpZg==/300x240%23cm/DVhqYH.gif",
         user: {
             url: "https://laburatory.itch.io",
             name: "Camila Gormaz",
             id: 167107
         },
-        url: "https://laburatory.itch.io/lgd",
-        cover: "https://img.itch.zone/aW1hZ2UvNjYwODIvMjk5Mjg1LmdpZg==/300x240%23cm/DVhqYH.gif",
-        "cover_color": "#11111b",
         classification: "game",
+        title: "Long Gone Days",
+        "cover_color": "#11111b",
+        platforms: ["windows", "osx"],
+        url: "https://laburatory.itch.io/lgd",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNjYwODIvMjk5Mjg1LmdpZg==/original/mfU90a.gif",
         "short_text": "Modern-day RPG that imagines the world of war that's coming for us, with a focus on civilians and language barriers.",
         bundles: ["520", "902"]
     }, {
@@ -631,17 +637,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 107080,
-        platforms: ["windows"],
-        title: "Babysitter Bloodbath",
+        cover: "https://img.itch.zone/aW1hZ2UvMTA3MDgwLzQ5Nzk0OC5naWY=/300x240%23cm/Na1JcU.gif",
         user: {
             url: "https://puppetcombo.itch.io",
             name: "Puppet Combo",
             id: 86243
         },
-        url: "https://puppetcombo.itch.io/babysitter-bloodbath",
-        cover: "https://img.itch.zone/aW1hZ2UvMTA3MDgwLzQ5Nzk0OC5naWY=/300x240%23cm/Na1JcU.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Babysitter Bloodbath",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://puppetcombo.itch.io/babysitter-bloodbath",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTA3MDgwLzQ5Nzk0OC5naWY=/original/jSLD9P.gif",
         "short_text": "A simple night of babysitting turns into an unspeakable nightmare.. VHS era, low poly slasher. PS1 style survival horror",
         bundles: ["520"]
     }, {
@@ -661,17 +668,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 85289,
-        platforms: ["windows", "osx"],
-        title: "Diaries of a Spaceport Janitor",
+        cover: "https://img.itch.zone/aW1hZ2UvODUyODkvNDA0MDQzLmdpZg==/300x240%23cm/XwCOvS.gif",
         user: {
             url: "https://tinybuild.itch.io",
             name: "tinybuild",
             id: 173386
         },
-        url: "https://tinybuild.itch.io/diaries-of-a-spaceport-janitor",
-        cover: "https://img.itch.zone/aW1hZ2UvODUyODkvNDA0MDQzLmdpZg==/300x240%23cm/XwCOvS.gif",
-        "cover_color": "#03122b",
         classification: "game",
+        title: "Diaries of a Spaceport Janitor",
+        "cover_color": "#03122b",
+        platforms: ["windows", "osx"],
+        url: "https://tinybuild.itch.io/diaries-of-a-spaceport-janitor",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvODUyODkvNDA0MDQzLmdpZg==/original/5O2FAl.gif",
         "short_text": "Diaries of a Spaceport Janitor is an anti-adventure game about picking up trash in an alien bazaar.",
         bundles: ["520"]
     }, {
@@ -721,17 +729,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 280541,
-        platforms: ["windows", "osx", "linux"],
-        title: "Dungeons & Lesbians",
+        cover: "https://img.itch.zone/aW1hZ2UvMjgwNTQxLzEzNjI3NzcuZ2lm/300x240%23cm/iXxwjk.gif",
         user: {
             url: "https://noeybodys.itch.io",
             name: "Noeybodys",
             id: 982518
         },
-        url: "https://noeybodys.itch.io/dungeonsandlesbians",
-        cover: "https://img.itch.zone/aW1hZ2UvMjgwNTQxLzEzNjI3NzcuZ2lm/300x240%23cm/iXxwjk.gif",
-        "cover_color": "#ededed",
         classification: "game",
+        title: "Dungeons & Lesbians",
+        "cover_color": "#ededed",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://noeybodys.itch.io/dungeonsandlesbians",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjgwNTQxLzEzNjI3NzcuZ2lm/original/9azvFQ.gif",
         "short_text": "Mildly dating your BFFs in the midsts of a game of D&D",
         bundles: ["520"]
     }, {
@@ -782,17 +791,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 84840,
-        platforms: ["windows", "osx", "linux"],
-        title: "Beglitched",
+        cover: "https://img.itch.zone/aW1hZ2UvODQ4NDAvNDE2ODg0LmdpZg==/300x240%23cm/vf%2FC3G.gif",
         user: {
             url: "https://hexecutable.itch.io",
             name: "Hexecutable",
             id: 237058
         },
-        url: "https://hexecutable.itch.io/beglitched",
-        cover: "https://img.itch.zone/aW1hZ2UvODQ4NDAvNDE2ODg0LmdpZg==/300x240%23cm/vf%2FC3G.gif",
-        "cover_color": "#661fff",
         classification: "game",
+        title: "Beglitched",
+        "cover_color": "#661fff",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://hexecutable.itch.io/beglitched",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvODQ4NDAvNDE2ODg0LmdpZg==/original/80T5TO.gif",
         "short_text": "a Cyberpink Adventure",
         bundles: ["520", "902"]
     }, {
@@ -872,17 +882,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 166920,
-        platforms: ["windows", "osx", "linux"],
-        title: "Dujanah",
+        cover: "https://img.itch.zone/aW1hZ2UvMTY2OTIwLzc3NDQyOS5naWY=/300x240%23cm/zJ%2FjSF.gif",
         user: {
             url: "https://jackspinoza.itch.io",
             name: "jackspinoza",
             id: 306
         },
-        url: "https://jackspinoza.itch.io/dujanah",
-        cover: "https://img.itch.zone/aW1hZ2UvMTY2OTIwLzc3NDQyOS5naWY=/300x240%23cm/zJ%2FjSF.gif",
-        "cover_color": "#595959",
         classification: "game",
+        title: "Dujanah",
+        "cover_color": "#595959",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://jackspinoza.itch.io/dujanah",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTY2OTIwLzc3NDQyOS5naWY=/original/BWDFA7.gif",
         "short_text": "The cost of seeking impossible goals",
         bundles: ["520"]
     }, {
@@ -1034,17 +1045,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 26881,
-        platforms: ["windows", "osx", "linux"],
-        title: "Vilmonic",
+        cover: "https://img.itch.zone/aW1hZ2UvMjY4ODEvMTQ4NTE4NS5naWY=/300x240%23cm/rb1zS%2B.gif",
         user: {
             url: "https://bludgeonsoft.itch.io",
             name: "bludgeonsoft",
             id: 42103
         },
-        url: "https://bludgeonsoft.itch.io/vilmonic",
-        cover: "https://img.itch.zone/aW1hZ2UvMjY4ODEvMTQ4NTE4NS5naWY=/300x240%23cm/rb1zS%2B.gif",
-        "cover_color": "#303131",
         classification: "game",
+        title: "Vilmonic",
+        "cover_color": "#303131",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://bludgeonsoft.itch.io/vilmonic",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjY4ODEvMTQ4NTE4NS5naWY=/original/jY%2FkzK.gif",
         "short_text": "Artificial life and genetics evolution simulator sandbox game.",
         bundles: ["520"]
     }, {
@@ -1124,17 +1136,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 318140,
-        platforms: ["windows"],
-        title: "TAMASHII",
+        cover: "https://img.itch.zone/aW1nLzM1NzU2MDcuZ2lm/300x240%23cm/xDyPjJ.gif",
         user: {
             url: "https://vikintor.itch.io",
             name: "vikintor",
             id: 491009
         },
-        url: "https://vikintor.itch.io/tamashii",
-        cover: "https://img.itch.zone/aW1nLzM1NzU2MDcuZ2lm/300x240%23cm/xDyPjJ.gif",
-        "cover_color": "#261a1a",
         classification: "game",
+        title: "TAMASHII",
+        "cover_color": "#261a1a",
+        platforms: ["windows"],
+        url: "https://vikintor.itch.io/tamashii",
+        "gif_cover": "https://img.itch.zone/aW1nLzM1NzU2MDcuZ2lm/original/IJneG2.gif",
         "short_text": "Weird Luciferian Puzzle Platformer",
         bundles: ["520"]
     }, {
@@ -1288,17 +1301,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 217069,
-        platforms: ["windows"],
-        title: "Task Force Kampas",
+        cover: "https://img.itch.zone/aW1nLzE4NzEwMzMuZ2lm/300x240%23cm/myi2rs.gif",
         user: {
             url: "https://casiopea.itch.io",
             name: "ｃａｓｉｏｐｅａ",
             id: 89062
         },
-        url: "https://casiopea.itch.io/taskforcekampas",
-        cover: "https://img.itch.zone/aW1nLzE4NzEwMzMuZ2lm/300x240%23cm/myi2rs.gif",
-        "cover_color": "#eeeeee",
         classification: "game",
+        title: "Task Force Kampas",
+        "cover_color": "#eeeeee",
+        platforms: ["windows"],
+        url: "https://casiopea.itch.io/taskforcekampas",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4NzEwMzMuZ2lm/original/UstQgi.gif",
         "short_text": "A classic shoot em' up on steroids.",
         bundles: ["520"]
     }, {
@@ -1332,17 +1346,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 91014,
-        platforms: ["windows", "osx", "linux"],
-        title: "Pixel Fireplace",
+        cover: "https://img.itch.zone/aW1hZ2UvOTEwMTQvNDM5MzE0LmdpZg==/300x240%23cm/7AezOr.gif",
         user: {
             url: "https://hammertail.itch.io",
             name: "Ted Martens",
             id: 73929
         },
-        url: "https://hammertail.itch.io/pixel-fireplace",
-        cover: "https://img.itch.zone/aW1hZ2UvOTEwMTQvNDM5MzE0LmdpZg==/300x240%23cm/7AezOr.gif",
-        "cover_color": "#0C0715",
         classification: "game",
+        title: "Pixel Fireplace",
+        "cover_color": "#0C0715",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://hammertail.itch.io/pixel-fireplace",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvOTEwMTQvNDM5MzE0LmdpZg==/original/mmlbag.gif",
         "short_text": "Type commands, roast marshmallows, throw logs onto a crackling fire. Enjoy",
         bundles: ["520"]
     }, {
@@ -1376,17 +1391,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 24907,
-        platforms: ["windows", "osx"],
-        title: "Metamorphabet (2015)",
+        cover: "https://img.itch.zone/aW1hZ2UvMjQ5MDcvOTk5MjQuZ2lm/300x240%23cm/x9bKGq.gif",
         user: {
             url: "https://vectorpark.itch.io",
             name: "Vectorpark",
             id: 51141
         },
-        url: "https://vectorpark.itch.io/metamorphabet",
-        cover: "https://img.itch.zone/aW1hZ2UvMjQ5MDcvOTk5MjQuZ2lm/300x240%23cm/x9bKGq.gif",
-        "cover_color": "#1957A3",
         classification: "game",
+        title: "Metamorphabet (2015)",
+        "cover_color": "#1957A3",
+        platforms: ["windows", "osx"],
+        url: "https://vectorpark.itch.io/metamorphabet",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjQ5MDcvOTk5MjQuZ2lm/original/sj%2FGh4.gif",
         "short_text": "A playful, interactive alphabet.",
         bundles: ["520", "902"]
     }, {
@@ -1420,16 +1436,17 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 366915,
-        "cover_color": "#242234",
+        url: "https://iknowkingrabbit.itch.io/heroic-overworld",
         user: {
             url: "https://iknowkingrabbit.itch.io",
             name: "Aleksandr Makarov",
             id: 262757
         },
         title: "Heroic Asset Series: Overworld",
-        cover: "https://img.itch.zone/aW1nLzQ1NzI2MjMuZ2lm/300x240%23cm/TkyI7m.gif",
-        url: "https://iknowkingrabbit.itch.io/heroic-overworld",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzQ1NzI2MjMuZ2lm/300x240%23cm/TkyI7m.gif",
+        "cover_color": "#242234",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ1NzI2MjMuZ2lm/original/rqB00n.gif",
         "short_text": "Tiny animated 16x16 tileset with 64 colors!",
         bundles: ["520"]
     }, {
@@ -1447,17 +1464,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 289086,
-        platforms: ["windows"],
-        title: "10S",
+        cover: "https://img.itch.zone/aW1nLzQxNDgxNjIuZ2lm/300x240%23cm/55FTQL.gif",
         user: {
             url: "https://owch.itch.io",
             name: "owch",
             id: 1166
         },
-        url: "https://owch.itch.io/10s",
-        cover: "https://img.itch.zone/aW1nLzQxNDgxNjIuZ2lm/300x240%23cm/55FTQL.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "10S",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://owch.itch.io/10s",
+        "gif_cover": "https://img.itch.zone/aW1nLzQxNDgxNjIuZ2lm/original/fEJUni.gif",
         "short_text": "lift the veil",
         bundles: ["520"]
     }, {
@@ -1506,17 +1524,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 309634,
-        platforms: ["windows", "osx", "linux"],
-        title: "Sewer Rave",
+        cover: "https://img.itch.zone/aW1nLzE2MTk5MTUuZ2lm/300x240%23cm/IYN%2F7J.gif",
         user: {
             url: "https://slitherpunk.itch.io",
             name: "Autumn Rain",
             id: 120690
         },
-        url: "https://slitherpunk.itch.io/sewer-rave",
-        cover: "https://img.itch.zone/aW1nLzE2MTk5MTUuZ2lm/300x240%23cm/IYN%2F7J.gif",
-        "cover_color": "#220E24",
         classification: "game",
+        title: "Sewer Rave",
+        "cover_color": "#220E24",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://slitherpunk.itch.io/sewer-rave",
+        "gif_cover": "https://img.itch.zone/aW1nLzE2MTk5MTUuZ2lm/original/xhas3P.gif",
         "short_text": "PARTY WITH RATS",
         bundles: ["520"]
     }, {
@@ -1536,16 +1555,17 @@ const games = ({
     }, {
         id: 630457,
         "cover_color": "#141414",
-        url: "https://studiomutiny.itch.io/sai",
+        cover: "https://img.itch.zone/aW1nLzMzOTQ3MTAuZ2lm/300x240%23cm/DrvbG%2F.gif",
+        classification: "game",
         user: {
             url: "https://studiomutiny.itch.io",
             name: "Studio Mutiny",
             id: 2363669
         },
-        cover: "https://img.itch.zone/aW1nLzMzOTQ3MTAuZ2lm/300x240%23cm/DrvbG%2F.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://studiomutiny.itch.io/sai",
+        "gif_cover": "https://img.itch.zone/aW1nLzMzOTQ3MTAuZ2lm/original/ZbjkXP.gif",
         "short_text": "Stop the machines. Save the forest.",
         title: "SAI",
         bundles: ["520"]
@@ -1581,17 +1601,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 9155,
-        platforms: ["windows"],
-        title: "Drum Brain",
+        cover: "https://img.itch.zone/aW1hZ2UvOTE1NS8xMDIzOTIuZ2lm/300x240%23cm/2jKfXW.gif",
         user: {
             url: "https://arudson.itch.io",
             name: "Andrew Rudson",
             id: 29138
         },
-        url: "https://arudson.itch.io/drum-brain",
-        cover: "https://img.itch.zone/aW1hZ2UvOTE1NS8xMDIzOTIuZ2lm/300x240%23cm/2jKfXW.gif",
-        "cover_color": "#42a6ff",
         classification: "game",
+        title: "Drum Brain",
+        "cover_color": "#42a6ff",
+        platforms: ["windows"],
+        url: "https://arudson.itch.io/drum-brain",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvOTE1NS8xMDIzOTIuZ2lm/original/NjFiIP.gif",
         "short_text": "Play your Rockband™ or Guitar Hero® drumset on PC!",
         bundles: ["520"]
     }, {
@@ -1859,17 +1880,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 12355,
-        platforms: ["windows"],
-        title: "Halloween Forever",
+        cover: "https://img.itch.zone/aW1hZ2UvMTIzNTUvMTU5MDI3LmdpZg==/300x240%23cm/hHi1fg.gif",
         user: {
             url: "https://poppyworks.itch.io",
             name: "Poppy Works",
             id: 789274
         },
-        url: "https://poppyworks.itch.io/halloween-forever",
-        cover: "https://img.itch.zone/aW1hZ2UvMTIzNTUvMTU5MDI3LmdpZg==/300x240%23cm/hHi1fg.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Halloween Forever",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://poppyworks.itch.io/halloween-forever",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTIzNTUvMTU5MDI3LmdpZg==/original/vU8NRo.gif",
         "short_text": "Retro 8-bit spooky Halloween platformer",
         bundles: ["520", "902"]
     }, {
@@ -1888,47 +1910,50 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 17428,
-        platforms: ["windows", "osx", "linux"],
-        title: "Code 7 - Episodes 2 & 3 Available Now",
+        cover: "https://img.itch.zone/aW1nLzIwMTM4NDAuZ2lm/300x240%23cm/R0MULF.gif",
         user: {
             url: "https://goodwolfstudio.itch.io",
             name: "Goodwolf Studio",
             id: 40269
         },
-        url: "https://goodwolfstudio.itch.io/code-7",
-        cover: "https://img.itch.zone/aW1nLzIwMTM4NDAuZ2lm/300x240%23cm/R0MULF.gif",
-        "cover_color": "#1d242a",
         classification: "game",
+        title: "Code 7 - Episodes 2 & 3 Available Now",
+        "cover_color": "#1d242a",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://goodwolfstudio.itch.io/code-7",
+        "gif_cover": "https://img.itch.zone/aW1nLzIwMTM4NDAuZ2lm/original/QB1GhE.gif",
         "short_text": "What would you do if you found yourself trapped on an eerie space station with nothing but a computer?",
         bundles: ["520"]
     }, {
         id: 55125,
-        platforms: ["windows"],
-        title: "Space Station Architect",
+        cover: "https://img.itch.zone/aW1nLzE4MjMzMTUuZ2lm/300x240%23cm/C2KTo2.gif",
         user: {
             url: "https://wyvernindustries.itch.io",
             name: "AL Wyvern",
             id: 36483
         },
-        url: "https://wyvernindustries.itch.io/stationgen",
-        cover: "https://img.itch.zone/aW1nLzE4MjMzMTUuZ2lm/300x240%23cm/C2KTo2.gif",
-        "cover_color": "#000000",
         classification: "tool",
+        title: "Space Station Architect",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://wyvernindustries.itch.io/stationgen",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4MjMzMTUuZ2lm/original/Dj8mlF.gif",
         "short_text": "Space Station Map Generator and Editor",
         bundles: ["520", "902"]
     }, {
         id: 79620,
-        platforms: ["windows", "osx", "linux"],
-        title: "VEKTOR 2089",
+        cover: "https://img.itch.zone/aW1hZ2UvNzk2MjAvMzc5Mjk4LmdpZg==/300x240%23cm/RQdBVh.gif",
         user: {
             url: "https://impbox.itch.io",
             name: "Impbox Games",
             id: 32922
         },
-        url: "https://impbox.itch.io/vektor2089",
-        cover: "https://img.itch.zone/aW1hZ2UvNzk2MjAvMzc5Mjk4LmdpZg==/300x240%23cm/RQdBVh.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "VEKTOR 2089",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://impbox.itch.io/vektor2089",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNzk2MjAvMzc5Mjk4LmdpZg==/original/xUUEkq.gif",
         "short_text": "Futuristic Anti-Gravity Racing",
         bundles: ["520", "902"]
     }, {
@@ -2007,32 +2032,34 @@ const games = ({
     }, {
         id: 17951,
         "cover_color": "#000000",
-        url: "https://houseofwire.itch.io/trawl",
+        cover: "https://img.itch.zone/aW1hZ2UvMTc5NTEvMTA2MTkzLmdpZg==/300x240%23cm/uOWoBD.gif",
+        classification: "game",
         user: {
             url: "https://houseofwire.itch.io",
             name: "House Of Wire",
             id: 33506
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTc5NTEvMTA2MTkzLmdpZg==/300x240%23cm/uOWoBD.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://houseofwire.itch.io/trawl",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTc5NTEvMTA2MTkzLmdpZg==/original/CHjF%2BX.gif",
         "short_text": "​Trawl the sea to discover what secrets are hidden in its depths and record your findings on your typewriter.",
         title: "Trawl",
         bundles: ["520"]
     }, {
         id: 144873,
-        platforms: ["windows", "osx"],
-        title: "Old Man's Journey",
+        cover: "https://img.itch.zone/aW1hZ2UvMTQ0ODczLzY2NDEyMy5naWY=/300x240%23cm/FbZBq%2B.gif",
         user: {
             url: "https://brokenrules.itch.io",
             name: "Broken Rules",
             id: 71469
         },
-        url: "https://brokenrules.itch.io/old-mans-journey",
-        cover: "https://img.itch.zone/aW1hZ2UvMTQ0ODczLzY2NDEyMy5naWY=/300x240%23cm/FbZBq%2B.gif",
-        "cover_color": "#2f2c35",
         classification: "game",
+        title: "Old Man's Journey",
+        "cover_color": "#2f2c35",
+        platforms: ["windows", "osx"],
+        url: "https://brokenrules.itch.io/old-mans-journey",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTQ0ODczLzY2NDEyMy5naWY=/original/eHck8i.gif",
         "short_text": "A game about life, loss and hope.",
         bundles: ["520"]
     }, {
@@ -2067,17 +2094,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 624121,
-        platforms: ["windows", "osx", "linux"],
-        title: "a new life.",
+        cover: "https://img.itch.zone/aW1nLzMzOTUyMDguZ2lm/300x240%23cm/6ah8gC.gif",
         user: {
             url: "https://zephyo.itch.io",
             name: "Angela He",
             id: 120751
         },
-        url: "https://zephyo.itch.io/a-new-life",
-        cover: "https://img.itch.zone/aW1nLzMzOTUyMDguZ2lm/300x240%23cm/6ah8gC.gif",
-        "cover_color": "#f7f5e8",
         classification: "game",
+        title: "a new life.",
+        "cover_color": "#f7f5e8",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://zephyo.itch.io/a-new-life",
+        "gif_cover": "https://img.itch.zone/aW1nLzMzOTUyMDguZ2lm/original/9njfkJ.gif",
         "short_text": "When your loved one hurts you, what do you do? A classic love story about letting go.",
         bundles: ["520"]
     }, {
@@ -2097,17 +2125,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 413119,
-        platforms: ["windows", "osx"],
-        title: "Knights of the Card Table",
+        cover: "https://img.itch.zone/aW1nLzIwNTQ2MDUuZ2lm/300x240%23cm/NTFmS2.gif",
         user: {
             url: "https://ponywolf.itch.io",
             name: "Ponywolf",
             id: 82964
         },
-        url: "https://ponywolf.itch.io/kotct",
-        cover: "https://img.itch.zone/aW1nLzIwNTQ2MDUuZ2lm/300x240%23cm/NTFmS2.gif",
-        "cover_color": "#262525",
         classification: "game",
+        title: "Knights of the Card Table",
+        "cover_color": "#262525",
+        platforms: ["windows", "osx"],
+        url: "https://ponywolf.itch.io/kotct",
+        "gif_cover": "https://img.itch.zone/aW1nLzIwNTQ2MDUuZ2lm/original/8atKGc.gif",
         "short_text": "Master over 100 dungeons and 3 worlds in this dungeon crawler card game.",
         bundles: ["520"]
     }, {
@@ -2157,17 +2186,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 181186,
-        platforms: ["windows", "osx", "linux"],
-        title: "BIT RAT : Singularity",
+        cover: "https://img.itch.zone/aW1hZ2UvMTgxMTg2LzEwMTA3NDkuZ2lm/300x240%23cm/z3iV%2B8.gif",
         user: {
             url: "https://bucketdrumgames.itch.io",
             name: "[bucket drum games]",
             id: 810389
         },
-        url: "https://bucketdrumgames.itch.io/bitrat",
-        cover: "https://img.itch.zone/aW1hZ2UvMTgxMTg2LzEwMTA3NDkuZ2lm/300x240%23cm/z3iV%2B8.gif",
-        "cover_color": "#070d0d",
         classification: "game",
+        title: "BIT RAT : Singularity",
+        "cover_color": "#070d0d",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://bucketdrumgames.itch.io/bitrat",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTgxMTg2LzEwMTA3NDkuZ2lm/original/cLaPR%2F.gif",
         "short_text": "A hand-pixeled story-driven cyberpunk puzzler",
         bundles: ["520"]
     }, {
@@ -2188,17 +2218,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 148128,
-        platforms: ["windows", "osx", "linux"],
-        title: "Boa Retina",
+        cover: "https://img.itch.zone/aW1hZ2UvMTQ4MTI4LzcxMDYyNy5naWY=/300x240%23cm/Hj7Dw4.gif",
         user: {
             url: "https://jenniferraye.itch.io",
             name: "Jennifer Raye",
             id: 51633
         },
-        url: "https://jenniferraye.itch.io/boa-retina",
-        cover: "https://img.itch.zone/aW1hZ2UvMTQ4MTI4LzcxMDYyNy5naWY=/300x240%23cm/Hj7Dw4.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Boa Retina",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://jenniferraye.itch.io/boa-retina",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTQ4MTI4LzcxMDYyNy5naWY=/original/h%2Bolst.gif",
         "short_text": "messy gender uncertainty",
         bundles: ["520", "902"]
     }, {
@@ -2218,17 +2249,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 448615,
-        platforms: ["windows", "osx"],
-        title: "Gun Rounds",
+        cover: "https://img.itch.zone/aW1nLzMyMjQ3ODUuZ2lm/300x240%23cm/0qUHuU.gif",
         user: {
             url: "https://blabberf.itch.io",
             name: "blabberf",
             id: 1624738
         },
-        url: "https://blabberf.itch.io/gunrounds",
-        cover: "https://img.itch.zone/aW1nLzMyMjQ3ODUuZ2lm/300x240%23cm/0qUHuU.gif",
-        "cover_color": "#cf4459",
         classification: "game",
+        title: "Gun Rounds",
+        "cover_color": "#cf4459",
+        platforms: ["windows", "osx"],
+        url: "https://blabberf.itch.io/gunrounds",
+        "gif_cover": "https://img.itch.zone/aW1nLzMyMjQ3ODUuZ2lm/original/WGJcrp.gif",
         "short_text": "Fast paced, turn-based shooter with a cute attitude!",
         bundles: ["520"]
     }, {
@@ -2249,17 +2281,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 320479,
-        platforms: ["windows", "osx", "linux"],
-        title: "The Hex",
+        cover: "https://img.itch.zone/aW1nLzE2NjQzMjguZ2lm/300x240%23cm/s0zHo5.gif",
         user: {
             url: "https://danielmullinsgames.itch.io",
             name: "Daniel Mullins Games",
             id: 1318675
         },
-        url: "https://danielmullinsgames.itch.io/the-hex",
-        cover: "https://img.itch.zone/aW1nLzE2NjQzMjguZ2lm/300x240%23cm/s0zHo5.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "The Hex",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://danielmullinsgames.itch.io/the-hex",
+        "gif_cover": "https://img.itch.zone/aW1nLzE2NjQzMjguZ2lm/original/QDFKgh.gif",
         "short_text": "In a creaky old tavern, in a forgotten corner of the video-game universe, a storm is raging...",
         bundles: ["520"]
     }, {
@@ -2483,17 +2516,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 126098,
-        platforms: ["windows", "osx", "linux"],
-        title: "nullpointer",
+        cover: "https://img.itch.zone/aW1hZ2UvMTI2MDk4Lzc3OTE0Ni5naWY=/300x240%23cm/uiyXdW.gif",
         user: {
             url: "https://prophetgoddess.itch.io",
             name: "prophet goddess",
             id: 23559
         },
-        url: "https://prophetgoddess.itch.io/nullpointer",
-        cover: "https://img.itch.zone/aW1hZ2UvMTI2MDk4Lzc3OTE0Ni5naWY=/300x240%23cm/uiyXdW.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "nullpointer",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://prophetgoddess.itch.io/nullpointer",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTI2MDk4Lzc3OTE0Ni5naWY=/original/KRjtVG.gif",
         "short_text": "first-person cyberpunk arcade action",
         bundles: ["520"]
     }, {
@@ -2513,47 +2547,50 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 53305,
-        platforms: ["windows", "osx", "linux"],
-        title: "Steam Marines 2",
+        cover: "https://img.itch.zone/aW1nLzIwOTI2ODUuZ2lm/300x240%23cm/z%2BW5zt.gif",
         user: {
             url: "https://worthlessbums.itch.io",
             name: "WorthlessBums",
             id: 31074
         },
-        url: "https://worthlessbums.itch.io/steam-marines-2",
-        cover: "https://img.itch.zone/aW1nLzIwOTI2ODUuZ2lm/300x240%23cm/z%2BW5zt.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Steam Marines 2",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://worthlessbums.itch.io/steam-marines-2",
+        "gif_cover": "https://img.itch.zone/aW1nLzIwOTI2ODUuZ2lm/original/99ba5d.gif",
         "short_text": "Steam Marines 2 - a steampunk tactics game",
         bundles: ["520", "902"]
     }, {
         id: 83275,
-        platforms: ["windows", "osx", "linux"],
-        title: "Memoir En Code: Reissue",
+        cover: "https://img.itch.zone/aW1hZ2UvODMyNzUvMzkyMzMwLmdpZg==/300x240%23cm/PBYD%2BN.gif",
         user: {
             url: "https://alexkalopsia.itch.io",
             name: "Alex Camilleri",
             id: 673
         },
-        url: "https://alexkalopsia.itch.io/memoir-en-code-reissue",
-        cover: "https://img.itch.zone/aW1hZ2UvODMyNzUvMzkyMzMwLmdpZg==/300x240%23cm/PBYD%2BN.gif",
-        "cover_color": "#f5f4f1",
         classification: "game",
+        title: "Memoir En Code: Reissue",
+        "cover_color": "#f5f4f1",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://alexkalopsia.itch.io/memoir-en-code-reissue",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvODMyNzUvMzkyMzMwLmdpZg==/original/IjNGaE.gif",
         "short_text": "an · autobiographical · game · album",
         bundles: ["520"]
     }, {
         id: 92465,
-        platforms: ["windows", "osx", "linux"],
-        title: "Pixel Session Vol.1",
+        cover: "https://img.itch.zone/aW1hZ2UvOTI0NjUvNDM1MDIyLmdpZg==/300x240%23cm/gnDBb7.gif",
         user: {
             url: "https://trasevol-dog.itch.io",
             name: "Rémy 🍬 Devaux",
             id: 42552
         },
-        url: "https://trasevol-dog.itch.io/pixel-session-vol1",
-        cover: "https://img.itch.zone/aW1hZ2UvOTI0NjUvNDM1MDIyLmdpZg==/300x240%23cm/gnDBb7.gif",
-        "cover_color": "#1f1f1f",
         classification: "game",
+        title: "Pixel Session Vol.1",
+        "cover_color": "#1f1f1f",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://trasevol-dog.itch.io/pixel-session-vol1",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvOTI0NjUvNDM1MDIyLmdpZg==/original/7wQNLj.gif",
         "short_text": "Five Short Experimental Games",
         bundles: ["520", "902"]
     }, {
@@ -2629,17 +2666,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 123218,
-        platforms: ["windows", "linux"],
-        title: "Hyperspace Dogfights",
+        cover: "https://img.itch.zone/aW1nLzM1ODk5MjUuZ2lm/300x240%23cm/dFor13.gif",
         user: {
             url: "https://sleeper-games.itch.io",
             name: "sleeper_games",
             id: 505273
         },
-        url: "https://sleeper-games.itch.io/hyperspace-dogfights",
-        cover: "https://img.itch.zone/aW1nLzM1ODk5MjUuZ2lm/300x240%23cm/dFor13.gif",
-        "cover_color": "#ffa300",
         classification: "game",
+        title: "Hyperspace Dogfights",
+        "cover_color": "#ffa300",
+        platforms: ["windows", "linux"],
+        url: "https://sleeper-games.itch.io/hyperspace-dogfights",
+        "gif_cover": "https://img.itch.zone/aW1nLzM1ODk5MjUuZ2lm/original/BKBU7n.gif",
         "short_text": "Jet-combat roguelite, occasionally with swords and 300+ other items to strap onto your jet.",
         bundles: ["520"]
     }, {
@@ -2659,17 +2697,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 444443,
-        platforms: ["windows", "osx", "linux"],
-        title: "EAT GIRL",
+        cover: "https://img.itch.zone/aW1nLzI0ODM1NjMuZ2lm/300x240%23cm/eQXWnf.gif",
         user: {
             url: "https://tesselode.itch.io",
             name: "tesselode",
             id: 64931
         },
-        url: "https://tesselode.itch.io/eatgirl",
-        cover: "https://img.itch.zone/aW1nLzI0ODM1NjMuZ2lm/300x240%23cm/eQXWnf.gif",
-        "cover_color": "#2f7e83",
         classification: "game",
+        title: "EAT GIRL",
+        "cover_color": "#2f7e83",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://tesselode.itch.io/eatgirl",
+        "gif_cover": "https://img.itch.zone/aW1nLzI0ODM1NjMuZ2lm/original/GvXpkj.gif",
         "short_text": "Surreal top-down dot-eating game",
         bundles: ["520"]
     }, {
@@ -2734,17 +2773,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 244301,
-        platforms: ["windows", "osx"],
-        title: "Shrug Island - The Meeting",
+        cover: "https://img.itch.zone/aW1hZ2UvMjQ0MzAxLzEyMTAzMjQuZ2lm/300x240%23cm/SaiDpu.gif",
         user: {
             url: "https://tinyredcamel.itch.io",
             name: "Tiny Red Camel",
             id: 1044272
         },
-        url: "https://tinyredcamel.itch.io/shrug-island-the-meeting",
-        cover: "https://img.itch.zone/aW1hZ2UvMjQ0MzAxLzEyMTAzMjQuZ2lm/300x240%23cm/SaiDpu.gif",
-        "cover_color": "#ffffff",
         classification: "game",
+        title: "Shrug Island - The Meeting",
+        "cover_color": "#ffffff",
+        platforms: ["windows", "osx"],
+        url: "https://tinyredcamel.itch.io/shrug-island-the-meeting",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjQ0MzAxLzEyMTAzMjQuZ2lm/original/Ps2wOP.gif",
         "short_text": "A warmly wistful adventure about reconnecting nature, friendship and hidden pasts",
         bundles: ["520"]
     }, {
@@ -2764,17 +2804,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 304124,
-        platforms: ["windows", "osx", "linux"],
-        title: "Rebop Blasters",
+        cover: "https://img.itch.zone/aW1nLzIwMzMwMzAuZ2lm/300x240%23cm/6Ub5DB.gif",
         user: {
             url: "https://dean-sick.itch.io",
             name: "dean_sick",
             id: 339559
         },
-        url: "https://dean-sick.itch.io/rebop-blasters",
-        cover: "https://img.itch.zone/aW1nLzIwMzMwMzAuZ2lm/300x240%23cm/6Ub5DB.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Rebop Blasters",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://dean-sick.itch.io/rebop-blasters",
+        "gif_cover": "https://img.itch.zone/aW1nLzIwMzMwMzAuZ2lm/original/CdNiA6.gif",
         "short_text": "An overpowered platform fighter with destructible terrain and a procedurally generated jazz soundtrack.",
         bundles: ["520", "902"]
     }, {
@@ -2825,17 +2866,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 424197,
-        "cover_color": "#5BADE3",
+        platforms: ["windows", "osx", "linux"],
+        "gif_cover": "https://img.itch.zone/aW1nLzIxNTY5MDEuZ2lm/original/U13gt8.gif",
         user: {
             url: "https://cleancutgames.itch.io",
             name: "CleanCutGames",
             id: 1174074
         },
-        title: "Hair Dash",
-        cover: "https://img.itch.zone/aW1nLzIxNTY5MDEuZ2lm/300x240%23cm/p%2FR8eh.gif",
         url: "https://cleancutgames.itch.io/hair-dash",
+        cover: "https://img.itch.zone/aW1nLzIxNTY5MDEuZ2lm/300x240%23cm/p%2FR8eh.gif",
+        "cover_color": "#5BADE3",
         classification: "game",
-        platforms: ["windows", "osx", "linux"],
+        title: "Hair Dash",
         bundles: ["520"]
     }, {
         id: 181232,
@@ -2854,17 +2896,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 17697,
-        platforms: ["windows", "osx", "linux"],
-        title: "Visual Out",
+        cover: "https://img.itch.zone/aW1hZ2UvMTc2OTcvMTc5NzIzLmdpZg==/300x240%23cm/dNlPAM.gif",
         user: {
             url: "https://madameberry.itch.io",
             name: "madameberry",
             id: 39367
         },
-        url: "https://madameberry.itch.io/visual-out",
-        cover: "https://img.itch.zone/aW1hZ2UvMTc2OTcvMTc5NzIzLmdpZg==/300x240%23cm/dNlPAM.gif",
-        "cover_color": "#273431",
         classification: "game",
+        title: "Visual Out",
+        "cover_color": "#273431",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://madameberry.itch.io/visual-out",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTc2OTcvMTc5NzIzLmdpZg==/original/COOcPX.gif",
         "short_text": "Broken.  Abandoned.  Replaced.",
         bundles: ["520"]
     }, {
@@ -2929,32 +2972,34 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 43218,
-        platforms: ["windows", "osx"],
-        title: "BADBLOOD",
+        cover: "https://img.itch.zone/aW1hZ2UvNDMyMTgvMTg3MDEyLmdpZg==/300x240%23cm/iv33fV.gif",
         user: {
             url: "https://wsong.itch.io",
             name: "Winnie Song",
             id: 44432
         },
-        url: "https://wsong.itch.io/badblood",
-        cover: "https://img.itch.zone/aW1hZ2UvNDMyMTgvMTg3MDEyLmdpZg==/300x240%23cm/iv33fV.gif",
-        "cover_color": "#8a0000",
         classification: "game",
+        title: "BADBLOOD",
+        "cover_color": "#8a0000",
+        platforms: ["windows", "osx"],
+        url: "https://wsong.itch.io/badblood",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNDMyMTgvMTg3MDEyLmdpZg==/original/ZVVOuY.gif",
         "short_text": "a deadly game of hide and seek",
         bundles: ["520"]
     }, {
         id: 626019,
-        platforms: ["windows", "linux"],
-        title: "Boreal Tenebrae Act I: “I Stand Before You,  A Form Undone”",
+        cover: "https://img.itch.zone/aW1nLzM1Njk1ODguZ2lm/300x240%23cm/79RlX%2F.gif",
         user: {
             url: "https://boreal-tenebrae.itch.io",
             name: "Boreal Tenebrae",
             id: 2346814
         },
-        url: "https://boreal-tenebrae.itch.io/boreal-tales",
-        cover: "https://img.itch.zone/aW1nLzM1Njk1ODguZ2lm/300x240%23cm/79RlX%2F.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Boreal Tenebrae Act I: “I Stand Before You,  A Form Undone”",
+        "cover_color": "#000000",
+        platforms: ["windows", "linux"],
+        url: "https://boreal-tenebrae.itch.io/boreal-tales",
+        "gif_cover": "https://img.itch.zone/aW1nLzM1Njk1ODguZ2lm/original/X4xwMm.gif",
         "short_text": "Delve into the Dream of a Dying Town.",
         bundles: ["520"]
     }, {
@@ -3033,17 +3078,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 100273,
-        platforms: ["windows", "osx", "linux"],
-        title: "Cosmic Rochambo",
+        cover: "https://img.itch.zone/aW1hZ2UvMTAwMjczLzU4ODIyNy5naWY=/300x240%23cm/COvyeq.gif",
         user: {
             url: "https://dean-sick.itch.io",
             name: "dean_sick",
             id: 339559
         },
-        url: "https://dean-sick.itch.io/cosmic-rochambo",
-        cover: "https://img.itch.zone/aW1hZ2UvMTAwMjczLzU4ODIyNy5naWY=/300x240%23cm/COvyeq.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Cosmic Rochambo",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://dean-sick.itch.io/cosmic-rochambo",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTAwMjczLzU4ODIyNy5naWY=/original/rqH%2Bcz.gif",
         "short_text": "Ram people... in spaaaaace",
         bundles: ["520", "902"]
     }, {
@@ -3063,17 +3109,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 259564,
-        platforms: ["windows", "osx"],
-        title: "Sanguine Sanctum",
+        cover: "https://img.itch.zone/aW1hZ2UvMjU5NTY0LzEzMjMwNTkuZ2lm/300x240%23cm/JnVo%2FL.gif",
         user: {
             url: "https://modus-interactive.itch.io",
             name: "Modus Interactive",
             id: 948454
         },
-        url: "https://modus-interactive.itch.io/sanguine-sanctum",
-        cover: "https://img.itch.zone/aW1hZ2UvMjU5NTY0LzEzMjMwNTkuZ2lm/300x240%23cm/JnVo%2FL.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Sanguine Sanctum",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://modus-interactive.itch.io/sanguine-sanctum",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjU5NTY0LzEzMjMwNTkuZ2lm/original/WiC4Un.gif",
         "short_text": "It desires more. Feed It. Nourish It.",
         bundles: ["520"]
     }, {
@@ -3181,17 +3228,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 111969,
-        platforms: ["windows", "osx", "linux"],
-        title: "Puzzle Puppers",
+        cover: "https://img.itch.zone/aW1hZ2UvMTExOTY5LzUyODY1MC5naWY=/300x240%23cm/G61f9e.gif",
         user: {
             url: "https://cardboardkeep.itch.io",
             name: "Cardboard Keep",
             id: 28968
         },
-        url: "https://cardboardkeep.itch.io/puzzle-puppers",
-        cover: "https://img.itch.zone/aW1hZ2UvMTExOTY5LzUyODY1MC5naWY=/300x240%23cm/G61f9e.gif",
-        "cover_color": "#0e67dd",
         classification: "game",
+        title: "Puzzle Puppers",
+        "cover_color": "#0e67dd",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://cardboardkeep.itch.io/puzzle-puppers",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTExOTY5LzUyODY1MC5naWY=/original/Tf%2Fywn.gif",
         "short_text": "A game about draggin' out doggos.",
         bundles: ["520"]
     }, {
@@ -3240,31 +3288,33 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 268825,
-        "cover_color": "#f1f0f9",
+        url: "https://lowscope.itch.io/rpg-farming-kit",
         user: {
             url: "https://lowscope.itch.io",
             name: "Lowscope",
             id: 879158
         },
         title: "RPG Farming Kit",
-        cover: "https://img.itch.zone/aW1hZ2UvMjY4ODI1LzEyOTcxODcuZ2lm/300x240%23cm/JRoxzj.gif",
-        url: "https://lowscope.itch.io/rpg-farming-kit",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1hZ2UvMjY4ODI1LzEyOTcxODcuZ2lm/300x240%23cm/JRoxzj.gif",
+        "cover_color": "#f1f0f9",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjY4ODI1LzEyOTcxODcuZ2lm/original/96wcn7.gif",
         "short_text": "Project template to make farming RPG games.",
         bundles: ["520"]
     }, {
         id: 26170,
-        platforms: ["windows", "osx", "linux"],
-        title: "Astæria",
+        cover: "https://img.itch.zone/aW1hZ2UvMjYxNzAvMTA1NTYzLmdpZg==/300x240%23cm/5%2FjGGI.gif",
         user: {
             url: "https://prophetgoddess.itch.io",
             name: "prophet goddess",
             id: 23559
         },
-        url: "https://prophetgoddess.itch.io/astaeria",
-        cover: "https://img.itch.zone/aW1hZ2UvMjYxNzAvMTA1NTYzLmdpZg==/300x240%23cm/5%2FjGGI.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Astæria",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://prophetgoddess.itch.io/astaeria",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjYxNzAvMTA1NTYzLmdpZg==/original/AWaHyq.gif",
         "short_text": "first-person poetry visualizer",
         bundles: ["520"]
     }, {
@@ -3402,48 +3452,51 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 491813,
-        platforms: ["windows"],
-        title: "RESPITE 2.0",
+        cover: "https://img.itch.zone/aW1nLzI1NDY1NzEuZ2lm/300x240%23cm/y7jnlI.gif",
         user: {
             url: "https://modus-interactive.itch.io",
             name: "Modus Interactive",
             id: 948454
         },
-        url: "https://modus-interactive.itch.io/respite",
-        cover: "https://img.itch.zone/aW1nLzI1NDY1NzEuZ2lm/300x240%23cm/y7jnlI.gif",
-        "cover_color": "#eeeeee",
         classification: "game",
+        title: "RESPITE 2.0",
+        "cover_color": "#eeeeee",
+        platforms: ["windows"],
+        url: "https://modus-interactive.itch.io/respite",
+        "gif_cover": "https://img.itch.zone/aW1nLzI1NDY1NzEuZ2lm/original/EdAYu4.gif",
         "short_text": "Virtual Relaxation Software",
         bundles: ["520"]
     }, {
         id: 459619,
-        platforms: ["windows"],
-        title: "Once Upon A Crime in the West",
+        cover: "https://img.itch.zone/aW1nLzIzNDM3NjAuZ2lm/300x240%23cm/LwLQna.gif",
         user: {
             url: "https://nationalinsecurities.itch.io",
             name: "National Insecurities",
             id: 140972
         },
-        url: "https://nationalinsecurities.itch.io/once-upon-a-crime-in-the-west",
-        cover: "https://img.itch.zone/aW1nLzIzNDM3NjAuZ2lm/300x240%23cm/LwLQna.gif",
-        "cover_color": "#edeff2",
         classification: "game",
+        title: "Once Upon A Crime in the West",
+        "cover_color": "#edeff2",
+        platforms: ["windows"],
+        url: "https://nationalinsecurities.itch.io/once-upon-a-crime-in-the-west",
+        "gif_cover": "https://img.itch.zone/aW1nLzIzNDM3NjAuZ2lm/original/gnbjgZ.gif",
         "short_text": "Somewhere in the Old West, there lies a cabin full of corpses...",
         bundles: ["520", "902"]
     }, {
         id: 371877,
-        title: "Mobius",
-        "cover_color": "#1a1c2c",
-        url: "https://papercookies.itch.io/mobius",
         user: {
             url: "https://papercookies.itch.io",
             name: "papercookies",
             id: 121925
         },
-        cover: "https://img.itch.zone/aW1nLzE4NjQ2NzUuZ2lm/300x240%23cm/JdieoG.gif",
-        platforms: ["web"],
-        flag: "web",
+        url: "https://papercookies.itch.io/mobius",
         classification: "game",
+        flag: "web",
+        title: "Mobius",
+        platforms: ["web"],
+        cover: "https://img.itch.zone/aW1nLzE4NjQ2NzUuZ2lm/300x240%23cm/JdieoG.gif",
+        "cover_color": "#1a1c2c",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4NjQ2NzUuZ2lm/original/JPlRbS.gif",
         "short_text": "The only game played entirely on a Mobius strip. Play the FREE DEMO!",
         bundles: ["520"]
     }, {
@@ -3625,17 +3678,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 310266,
-        platforms: ["windows", "osx"],
-        title: "Ollie & Bollie: Outdoor Estate",
+        cover: "https://img.itch.zone/aW1nLzIyODkxNjYuZ2lm/300x240%23cm/fERWxU.gif",
         user: {
             url: "https://sokpop.itch.io",
             name: "Sokpop Collective",
             id: 351435
         },
-        url: "https://sokpop.itch.io/ollie-bollie",
-        cover: "https://img.itch.zone/aW1nLzIyODkxNjYuZ2lm/300x240%23cm/fERWxU.gif",
-        "cover_color": "#CAC675",
         classification: "game",
+        title: "Ollie & Bollie: Outdoor Estate",
+        "cover_color": "#CAC675",
+        platforms: ["windows", "osx"],
+        url: "https://sokpop.itch.io/ollie-bollie",
+        "gif_cover": "https://img.itch.zone/aW1nLzIyODkxNjYuZ2lm/original/DvE1CN.gif",
         "short_text": "a cute sandbox game",
         bundles: ["520"]
     }, {
@@ -3687,16 +3741,17 @@ const games = ({
     }, {
         id: 14578,
         "cover_color": "#878d55",
-        url: "https://ben-m.itch.io/erth",
+        cover: "https://img.itch.zone/aW1hZ2UvMTQ1NzgvNzI0MjguZ2lm/300x240%23cm/JoiMnw.gif",
+        classification: "game",
         user: {
             url: "https://ben-m.itch.io",
             name: "Benjamin Mastripolito",
             id: 36427
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTQ1NzgvNzI0MjguZ2lm/300x240%23cm/JoiMnw.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://ben-m.itch.io/erth",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTQ1NzgvNzI0MjguZ2lm/original/pRyL79.gif",
         "short_text": "A challenging infinite top-down sandbox RPG with crafting and exploring elements.",
         title: "Erth",
         bundles: ["520"]
@@ -3986,16 +4041,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 573360,
-        "cover_color": "#2ce8f4",
+        url: "https://vectorhat.itch.io/radsol",
         user: {
             url: "https://vectorhat.itch.io",
             name: "Vector Hat",
             id: 215457
         },
         title: "Radical Solitaire",
-        cover: "https://img.itch.zone/aW1nLzMwNDAyNDEuZ2lm/300x240%23cm/pKrp1u.gif",
-        url: "https://vectorhat.itch.io/radsol",
         classification: "game",
+        cover: "https://img.itch.zone/aW1nLzMwNDAyNDEuZ2lm/300x240%23cm/pKrp1u.gif",
+        "cover_color": "#2ce8f4",
+        "gif_cover": "https://img.itch.zone/aW1nLzMwNDAyNDEuZ2lm/original/tP8ujZ.gif",
         "short_text": "Never a bad deal. Always a RAD DEAL!",
         bundles: ["520"]
     }, {
@@ -4074,46 +4130,49 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 256792,
-        platforms: ["windows"],
-        title: "WATER'S FINE",
+        cover: "https://img.itch.zone/aW1nLzIxMzUyODUuZ2lm/300x240%23cm/meFBui.gif",
         user: {
             url: "https://owch.itch.io",
             name: "owch",
             id: 1166
         },
-        url: "https://owch.itch.io/watersfine",
-        cover: "https://img.itch.zone/aW1nLzIxMzUyODUuZ2lm/300x240%23cm/meFBui.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "WATER'S FINE",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://owch.itch.io/watersfine",
+        "gif_cover": "https://img.itch.zone/aW1nLzIxMzUyODUuZ2lm/original/rLWYiL.gif",
         "short_text": "come on in",
         bundles: ["520"]
     }, {
         id: 589382,
-        "cover_color": "#249fde",
+        url: "https://iknowkingrabbit.itch.io/heroic-building-pack",
         user: {
             url: "https://iknowkingrabbit.itch.io",
             name: "Aleksandr Makarov",
             id: 262757
         },
         title: "Heroic Asset Series: Buildings Pack",
-        cover: "https://img.itch.zone/aW1nLzMxMTYxMDEuZ2lm/300x240%23cm/yBqjT8.gif",
-        url: "https://iknowkingrabbit.itch.io/heroic-building-pack",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzMxMTYxMDEuZ2lm/300x240%23cm/yBqjT8.gif",
+        "cover_color": "#249fde",
+        "gif_cover": "https://img.itch.zone/aW1nLzMxMTYxMDEuZ2lm/original/gFSVtG.gif",
         "short_text": "Tiny animated buildings pack with 64 colors!",
         bundles: ["520"]
     }, {
         id: 455721,
-        platforms: ["windows", "osx"],
-        title: "Headliner: NoviNews",
+        cover: "https://img.itch.zone/aW1nLzIzOTA3NDkuZ2lm/300x240%23cm/RCsXdu.gif",
         user: {
             url: "https://unboundcreations.itch.io",
             name: "Unbound Creations",
             id: 993782
         },
-        url: "https://unboundcreations.itch.io/headliner-novinews",
-        cover: "https://img.itch.zone/aW1nLzIzOTA3NDkuZ2lm/300x240%23cm/RCsXdu.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Headliner: NoviNews",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://unboundcreations.itch.io/headliner-novinews",
+        "gif_cover": "https://img.itch.zone/aW1nLzIzOTA3NDkuZ2lm/original/pqTZqf.gif",
         "short_text": "Award-winning adventure where you control the news and its impact on society, your friends and career.",
         bundles: ["520"]
     }, {
@@ -4190,17 +4249,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 183811,
-        platforms: ["windows", "osx"],
-        title: "Monster Pub Chapter 1",
+        cover: "https://img.itch.zone/aW1hZ2UvMTgzODExLzg1OTc1NC5naWY=/300x240%23cm/235DWD.gif",
         user: {
             url: "https://isoplod.itch.io",
             name: "alex ilitchev",
             id: 162121
         },
-        url: "https://isoplod.itch.io/monster-pub-1",
-        cover: "https://img.itch.zone/aW1hZ2UvMTgzODExLzg1OTc1NC5naWY=/300x240%23cm/235DWD.gif",
-        "cover_color": "#d73c91",
         classification: "game",
+        title: "Monster Pub Chapter 1",
+        "cover_color": "#d73c91",
+        platforms: ["windows", "osx"],
+        url: "https://isoplod.itch.io/monster-pub-1",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTgzODExLzg1OTc1NC5naWY=/original/ezr2Rd.gif",
         "short_text": "A casual narrative game about making friends!",
         bundles: ["520"]
     }, {
@@ -4325,17 +4385,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 518472,
-        platforms: ["windows", "osx", "linux"],
-        title: "Please Follow",
+        cover: "https://img.itch.zone/aW1nLzI2OTUwNjkuZ2lm/300x240%23cm/cQaZ4%2F.gif",
         user: {
             url: "https://somewhat.itch.io",
             name: "somewhat",
             id: 172599
         },
-        url: "https://somewhat.itch.io/pleasefollow",
-        cover: "https://img.itch.zone/aW1nLzI2OTUwNjkuZ2lm/300x240%23cm/cQaZ4%2F.gif",
-        "cover_color": "#090e0f",
         classification: "game",
+        title: "Please Follow",
+        "cover_color": "#090e0f",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://somewhat.itch.io/pleasefollow",
+        "gif_cover": "https://img.itch.zone/aW1nLzI2OTUwNjkuZ2lm/original/91RIcd.gif",
         "short_text": "A horror short",
         bundles: ["520"]
     }, {
@@ -4369,48 +4430,51 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 10039,
-        platforms: ["windows", "osx", "linux"],
-        title: "Steam Marines",
+        cover: "https://img.itch.zone/aW1nLzIwOTI2NzQuZ2lm/300x240%23cm/S75USl.gif",
         user: {
             url: "https://worthlessbums.itch.io",
             name: "WorthlessBums",
             id: 31074
         },
-        url: "https://worthlessbums.itch.io/steammarines",
-        cover: "https://img.itch.zone/aW1nLzIwOTI2NzQuZ2lm/300x240%23cm/S75USl.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Steam Marines",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://worthlessbums.itch.io/steammarines",
+        "gif_cover": "https://img.itch.zone/aW1nLzIwOTI2NzQuZ2lm/original/PS4WTC.gif",
         "short_text": "Squad-based roguelike - marines on a steampunk spaceship.",
         bundles: ["520", "902"]
     }, {
         id: 56468,
         "cover_color": "#000000",
-        url: "https://smugames.itch.io/brkout",
+        cover: "https://img.itch.zone/aW1hZ2UvNTY0NjgvNDg5MzkxLmdpZg==/300x240%23cm/pYKcFj.gif",
+        classification: "game",
         user: {
             url: "https://smugames.itch.io",
             name: "Fisher",
             id: 113811
         },
-        cover: "https://img.itch.zone/aW1hZ2UvNTY0NjgvNDg5MzkxLmdpZg==/300x240%23cm/pYKcFj.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://smugames.itch.io/brkout",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTY0NjgvNDg5MzkxLmdpZg==/original/9%2FhAzZ.gif",
         "short_text": "Discover a terrible secret hidden inside your computer.",
         title: "BRKÖUT",
         bundles: ["520"]
     }, {
         id: 128115,
-        platforms: ["windows"],
-        title: "Silver Grapple",
+        cover: "https://img.itch.zone/aW1hZ2UvMTI4MTE1Lzc5OTU4NS5naWY=/300x240%23cm/7g5cil.gif",
         user: {
             url: "https://jamie-rollo.itch.io",
             name: "Jamie Rollo",
             id: 41223
         },
-        url: "https://jamie-rollo.itch.io/silver-grapple",
-        cover: "https://img.itch.zone/aW1hZ2UvMTI4MTE1Lzc5OTU4NS5naWY=/300x240%23cm/7g5cil.gif",
-        "cover_color": "#0c0913",
         classification: "game",
+        title: "Silver Grapple",
+        "cover_color": "#0c0913",
+        platforms: ["windows"],
+        url: "https://jamie-rollo.itch.io/silver-grapple",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTI4MTE1Lzc5OTU4NS5naWY=/original/%2BE34az.gif",
         "short_text": "A fast paced platformer about swinging through the air at the speed of sound!",
         bundles: ["520", "902"]
     }, {
@@ -4520,17 +4584,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 3634,
-        platforms: ["windows"],
-        title: "PARTICLE MACE",
+        cover: "https://img.itch.zone/aW1hZ2UvMzYzNC82NzA0Mi5naWY=/300x240%23cm/3JXOia.gif",
         user: {
             url: "https://andymakes.itch.io",
             name: "AndyMakes",
             id: 6930
         },
-        url: "https://andymakes.itch.io/particlemace",
-        cover: "https://img.itch.zone/aW1hZ2UvMzYzNC82NzA0Mi5naWY=/300x240%23cm/3JXOia.gif",
-        "cover_color": "#b02196",
         classification: "game",
+        title: "PARTICLE MACE",
+        "cover_color": "#b02196",
+        platforms: ["windows"],
+        url: "https://andymakes.itch.io/particlemace",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzYzNC82NzA0Mi5naWY=/original/DyKg63.gif",
         "short_text": "A space game about swinging trash into things and dying",
         bundles: ["520"]
     }, {
@@ -4565,16 +4630,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 267417,
-        "cover_color": "#3b324a",
+        url: "https://greebles.itch.io/pixel-plebes",
         user: {
             url: "https://greebles.itch.io",
             name: "Greebles",
             id: 250020
         },
         title: "Pixel Plebes Digital Card Deck",
-        cover: "https://img.itch.zone/aW1nLzI5MzIxNDYuZ2lm/300x240%23cm/co1yEp.gif",
-        url: "https://greebles.itch.io/pixel-plebes",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzI5MzIxNDYuZ2lm/300x240%23cm/co1yEp.gif",
+        "cover_color": "#3b324a",
+        "gif_cover": "https://img.itch.zone/aW1nLzI5MzIxNDYuZ2lm/original/esUnk8.gif",
         "short_text": "Artistic themed Poker deck for your games.",
         bundles: ["520"]
     }, {
@@ -4637,17 +4703,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 437264,
-        platforms: ["windows"],
-        title: "PALACE OF WOE",
+        cover: "https://img.itch.zone/aW1nLzI2NjQzMzguZ2lm/300x240%23cm/Q9e4xJ.gif",
         user: {
             url: "https://owch.itch.io",
             name: "owch",
             id: 1166
         },
-        url: "https://owch.itch.io/palace-of-woe",
-        cover: "https://img.itch.zone/aW1nLzI2NjQzMzguZ2lm/300x240%23cm/Q9e4xJ.gif",
-        "cover_color": "#7db8f3",
         classification: "game",
+        title: "PALACE OF WOE",
+        "cover_color": "#7db8f3",
+        platforms: ["windows"],
+        url: "https://owch.itch.io/palace-of-woe",
+        "gif_cover": "https://img.itch.zone/aW1nLzI2NjQzMzguZ2lm/original/hot8IB.gif",
         "short_text": "sort your self out",
         bundles: ["520"]
     }, {
@@ -4666,32 +4733,34 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 120391,
-        platforms: ["windows", "osx"],
-        title: "Flux",
+        cover: "https://img.itch.zone/aW1nLzI0MTQ4NDcuZ2lm/300x240%23cm/xO%2FJcM.gif",
         user: {
             url: "https://nujakujata.itch.io",
             name: "Mars Ashton",
             id: 274783
         },
-        url: "https://nujakujata.itch.io/flux",
-        cover: "https://img.itch.zone/aW1nLzI0MTQ4NDcuZ2lm/300x240%23cm/xO%2FJcM.gif",
-        "cover_color": "#CE8EC0",
         classification: "game",
+        title: "Flux",
+        "cover_color": "#CE8EC0",
+        platforms: ["windows", "osx"],
+        url: "https://nujakujata.itch.io/flux",
+        "gif_cover": "https://img.itch.zone/aW1nLzI0MTQ4NDcuZ2lm/original/KZGvhz.gif",
         "short_text": "A cyberpunk-themed minigame-packed adventure/beatemup/typing/rhythm game with a soundtrack you can customize!",
         bundles: ["520"]
     }, {
         id: 567444,
-        platforms: ["windows", "osx", "linux"],
-        title: "DATA LOSS",
+        cover: "https://img.itch.zone/aW1nLzQ0MjQ0ODUuZ2lm/300x240%23cm/gveX9A.gif",
         user: {
             url: "https://celechii.itch.io",
             name: "Noé",
             id: 259154
         },
-        url: "https://celechii.itch.io/data-loss",
-        cover: "https://img.itch.zone/aW1nLzQ0MjQ0ODUuZ2lm/300x240%23cm/gveX9A.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "DATA LOSS",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://celechii.itch.io/data-loss",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ0MjQ0ODUuZ2lm/original/GS4o5H.gif",
         "short_text": "Anti-Capitalist Hacking Minigame",
         bundles: ["520", "902"]
     }, {
@@ -4756,31 +4825,33 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 120532,
-        "cover_color": "#ffffff",
+        url: "https://edermunizz.itch.io/pixel-art-plataformer-painted-style",
         user: {
             url: "https://edermunizz.itch.io",
             name: "edermunizz",
             id: 436800
         },
         title: "Pixel Art Platformer Painted Style",
-        cover: "https://img.itch.zone/aW1hZ2UvMTIwNTMyLzU1NTUzNC5naWY=/300x240%23cm/bhH8Mn.gif",
-        url: "https://edermunizz.itch.io/pixel-art-plataformer-painted-style",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1hZ2UvMTIwNTMyLzU1NTUzNC5naWY=/300x240%23cm/bhH8Mn.gif",
+        "cover_color": "#ffffff",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTIwNTMyLzU1NTUzNC5naWY=/original/zEsQsy.gif",
         "short_text": "A live painting in Pixel Art!",
         bundles: ["520"]
     }, {
         id: 40431,
-        platforms: ["windows", "osx", "linux"],
-        title: "Orion Trail",
+        cover: "https://img.itch.zone/aW1hZ2UvNDA0MzEvMTgwNTEyLmdpZg==/300x240%23cm/IjISCJ.gif",
         user: {
             url: "https://schellgames.itch.io",
             name: "Schell Games",
             id: 42019
         },
-        url: "https://schellgames.itch.io/orion-trail",
-        cover: "https://img.itch.zone/aW1hZ2UvNDA0MzEvMTgwNTEyLmdpZg==/300x240%23cm/IjISCJ.gif",
-        "cover_color": "#0c272e",
         classification: "game",
+        title: "Orion Trail",
+        "cover_color": "#0c272e",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://schellgames.itch.io/orion-trail",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNDA0MzEvMTgwNTEyLmdpZg==/original/hMas0l.gif",
         "short_text": "Become famously incredible or incredibly dead in this choose-your-own-space-adventure!",
         bundles: ["520"]
     }, {
@@ -4814,32 +4885,34 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 68521,
-        platforms: ["windows", "osx", "linux"],
-        title: "Realm of the Ghost King",
+        cover: "https://img.itch.zone/aW1hZ2UvNjg1MjEvMTI5NjAwMS5naWY=/300x240%23cm/DDT2LJ.gif",
         user: {
             url: "https://mantiseyelabs.itch.io",
             name: "Mantis-Eye Labs",
             id: 5667
         },
-        url: "https://mantiseyelabs.itch.io/rotgk",
-        cover: "https://img.itch.zone/aW1hZ2UvNjg1MjEvMTI5NjAwMS5naWY=/300x240%23cm/DDT2LJ.gif",
-        "cover_color": "#FFFFFF",
         classification: "game",
+        title: "Realm of the Ghost King",
+        "cover_color": "#FFFFFF",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://mantiseyelabs.itch.io/rotgk",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNjg1MjEvMTI5NjAwMS5naWY=/original/jtTY4l.gif",
         "short_text": "A quick-play roguelike",
         bundles: ["520"]
     }, {
         id: 107364,
-        "cover_color": "#130310",
+        platforms: ["windows", "osx"],
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTA3MzY0Lzc5MjQ1Ni5naWY=/original/rgA3%2B9.gif",
         user: {
             url: "https://froachclub.itch.io",
             name: "Froach Club",
             id: 49169
         },
-        title: "Fish Fly Fever",
-        cover: "https://img.itch.zone/aW1hZ2UvMTA3MzY0Lzc5MjQ1Ni5naWY=/300x240%23cm/Smg4AG.gif",
         url: "https://froachclub.itch.io/fish-fly-fever",
+        cover: "https://img.itch.zone/aW1hZ2UvMTA3MzY0Lzc5MjQ1Ni5naWY=/300x240%23cm/Smg4AG.gif",
+        "cover_color": "#130310",
         classification: "game",
-        platforms: ["windows", "osx"],
+        title: "Fish Fly Fever",
         bundles: ["520"]
     }, {
         id: 467924,
@@ -4872,17 +4945,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 241890,
-        platforms: ["windows"],
-        title: "DERE EVIL .EXE",
+        cover: "https://img.itch.zone/aW1hZ2UvMjQxODkwLzEzNDMyNjYuZ2lm/300x240%23cm/drCLns.gif",
         user: {
             url: "https://appsir.itch.io",
             name: "AppSir, Inc.",
             id: 761268
         },
-        url: "https://appsir.itch.io/dere-evil-exe",
-        cover: "https://img.itch.zone/aW1hZ2UvMjQxODkwLzEzNDMyNjYuZ2lm/300x240%23cm/drCLns.gif",
-        "cover_color": "#1b2632",
         classification: "game",
+        title: "DERE EVIL .EXE",
+        "cover_color": "#1b2632",
+        platforms: ["windows"],
+        url: "https://appsir.itch.io/dere-evil-exe",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjQxODkwLzEzNDMyNjYuZ2lm/original/jZyxBg.gif",
         "short_text": "Meta Horror Pixel Platformer",
         bundles: ["520"]
     }, {
@@ -4917,17 +4991,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 544102,
-        platforms: ["windows", "osx"],
-        title: "PARANOIHELL",
+        cover: "https://img.itch.zone/aW1nLzI4Mzc0ODIuZ2lm/300x240%23cm/QGkAYl.gif",
         user: {
             url: "https://lum-scum.itch.io",
             name: "lum",
             id: 36792
         },
-        url: "https://lum-scum.itch.io/paranoihell",
-        cover: "https://img.itch.zone/aW1nLzI4Mzc0ODIuZ2lm/300x240%23cm/QGkAYl.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "PARANOIHELL",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://lum-scum.itch.io/paranoihell",
+        "gif_cover": "https://img.itch.zone/aW1nLzI4Mzc0ODIuZ2lm/original/c0X4Q5.gif",
         "short_text": "It's a long walk home...",
         bundles: ["520", "902"]
     }, {
@@ -4960,17 +5035,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 36931,
-        platforms: ["windows", "osx", "linux"],
-        title: "Aerannis",
+        cover: "https://img.itch.zone/aW1hZ2UvMzY5MzEvMTYxMDQzLmdpZg==/300x240%23cm/Tvl%2Fe%2B.gif",
         user: {
             url: "https://ff.itch.io",
             name: "ff",
             id: 29850
         },
-        url: "https://ff.itch.io/aerannis",
-        cover: "https://img.itch.zone/aW1hZ2UvMzY5MzEvMTYxMDQzLmdpZg==/300x240%23cm/Tvl%2Fe%2B.gif",
-        "cover_color": "#0c000f",
         classification: "game",
+        title: "Aerannis",
+        "cover_color": "#0c000f",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://ff.itch.io/aerannis",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzY5MzEvMTYxMDQzLmdpZg==/original/Sa7ynK.gif",
         "short_text": "A stealth-action metroidvania",
         bundles: ["520"]
     }, {
@@ -5049,17 +5125,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 28048,
-        platforms: ["windows", "osx", "linux"],
-        title: "CHESTO - At the Checkout",
+        cover: "https://img.itch.zone/aW1hZ2UvMjgwNDgvNjE4NjY0LmdpZg==/300x240%23cm/ry5qCV.gif",
         user: {
             url: "https://josefwho.itch.io",
             name: "Josef Who?",
             id: 50034
         },
-        url: "https://josefwho.itch.io/chesto",
-        cover: "https://img.itch.zone/aW1hZ2UvMjgwNDgvNjE4NjY0LmdpZg==/300x240%23cm/ry5qCV.gif",
-        "cover_color": "#ffff87",
         classification: "game",
+        title: "CHESTO - At the Checkout",
+        "cover_color": "#ffff87",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://josefwho.itch.io/chesto",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjgwNDgvNjE4NjY0LmdpZg==/original/vqSuxt.gif",
         "short_text": "Hypercritical checkout simulator.",
         bundles: ["520"]
     }, {
@@ -5137,16 +5214,17 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 345201,
-        "cover_color": "#000000",
+        url: "https://sandwich-generation.itch.io/lazergrrl",
         user: {
             url: "https://sandwich-generation.itch.io",
             name: "Sandwich_Generation",
             id: 960814
         },
         title: "LazerGrrl",
-        cover: "https://img.itch.zone/aW1nLzE3MTQ0NjUuZ2lm/300x240%23cm/Sxz3uf.gif",
-        url: "https://sandwich-generation.itch.io/lazergrrl",
         classification: "game",
+        cover: "https://img.itch.zone/aW1nLzE3MTQ0NjUuZ2lm/300x240%23cm/Sxz3uf.gif",
+        "cover_color": "#000000",
+        "gif_cover": "https://img.itch.zone/aW1nLzE3MTQ0NjUuZ2lm/original/LBXcoA.gif",
         "short_text": "The fury of Bomberman with the strategic depth of an RTS",
         bundles: ["520"]
     }, {
@@ -5211,17 +5289,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 84261,
-        platforms: ["windows", "osx"],
-        title: "Hellenica",
+        cover: "https://img.itch.zone/aW1hZ2UvODQyNjEvNDk1NzE1LmdpZg==/300x240%23cm/lKYUTF.gif",
         user: {
             url: "https://thedragonloft.itch.io",
             name: "thedragonloft",
             id: 234284
         },
-        url: "https://thedragonloft.itch.io/hellenica",
-        cover: "https://img.itch.zone/aW1hZ2UvODQyNjEvNDk1NzE1LmdpZg==/300x240%23cm/lKYUTF.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Hellenica",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://thedragonloft.itch.io/hellenica",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvODQyNjEvNDk1NzE1LmdpZg==/original/eFXMHr.gif",
         "short_text": "Explore steam-powered ancient Greece as Diona, Artemis' chosen bear warrior, on an epic quest of technology and magic.",
         bundles: ["520"]
     }, {
@@ -5374,17 +5453,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 156522,
-        platforms: ["windows", "osx", "linux"],
-        title: "cityglitch",
+        cover: "https://img.itch.zone/aW1hZ2UvMTU2NTIyLzczOTI0MS5naWY=/300x240%23cm/Yt7xdn.gif",
         user: {
             url: "https://mindfungus.itch.io",
             name: "mindfungus",
             id: 71268
         },
-        url: "https://mindfungus.itch.io/cityglitch",
-        cover: "https://img.itch.zone/aW1hZ2UvMTU2NTIyLzczOTI0MS5naWY=/300x240%23cm/Yt7xdn.gif",
-        "cover_color": "#000",
         classification: "game",
+        title: "cityglitch",
+        "cover_color": "#000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://mindfungus.itch.io/cityglitch",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU2NTIyLzczOTI0MS5naWY=/original/WgYwI%2F.gif",
         "short_text": "Solve turn-based puzzles on haunted city rooftops.",
         bundles: ["520", "902"]
     }, {
@@ -5404,17 +5484,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 224477,
-        platforms: ["windows", "osx"],
-        title: "Go Morse Go! Arcade Edition",
+        cover: "https://img.itch.zone/aW1hZ2UvMjI0NDc3LzEwNjAyMjYuZ2lm/300x240%23cm/dHB%2B7h.gif",
         user: {
             url: "https://kyatt7.itch.io",
             name: "Kyatt/Impostor Cat Games",
             id: 32144
         },
-        url: "https://kyatt7.itch.io/go-morse-go-arcade-edition",
-        cover: "https://img.itch.zone/aW1hZ2UvMjI0NDc3LzEwNjAyMjYuZ2lm/300x240%23cm/dHB%2B7h.gif",
-        "cover_color": "#eeeeee",
         classification: "game",
+        title: "Go Morse Go! Arcade Edition",
+        "cover_color": "#eeeeee",
+        platforms: ["windows", "osx"],
+        url: "https://kyatt7.itch.io/go-morse-go-arcade-edition",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjI0NDc3LzEwNjAyMjYuZ2lm/original/VsoK2O.gif",
         "short_text": "1-4 Player Cheerleading via Telegraph, Remastered",
         bundles: ["520"]
     }, {
@@ -5463,32 +5544,34 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 74468,
-        platforms: ["windows", "osx"],
-        title: "Vienna Automobile Society",
+        cover: "https://img.itch.zone/aW1hZ2UvNzQ0NjgvNzQ5MTYxLmdpZg==/300x240%23cm/FM0oDn.gif",
         user: {
             url: "https://royalpolygon.itch.io",
             name: "Royal Polygon",
             id: 80869
         },
-        url: "https://royalpolygon.itch.io/vienna-automobile-society",
-        cover: "https://img.itch.zone/aW1hZ2UvNzQ0NjgvNzQ5MTYxLmdpZg==/300x240%23cm/FM0oDn.gif",
-        "cover_color": "#303030",
         classification: "game",
+        title: "Vienna Automobile Society",
+        "cover_color": "#303030",
+        platforms: ["windows", "osx"],
+        url: "https://royalpolygon.itch.io/vienna-automobile-society",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNzQ0NjgvNzQ5MTYxLmdpZg==/original/aqX%2BNC.gif",
         "short_text": "An arcade racing game of strategy and reflexes",
         bundles: ["520", "902"]
     }, {
         id: 54754,
-        platforms: ["windows", "linux"],
-        title: "Brushwood Buddies",
+        cover: "https://img.itch.zone/aW1hZ2UvNTQ3NTQvMjQ0NTU3LmdpZg==/300x240%23cm/cSL5OJ.gif",
         user: {
             url: "https://stevencolling.itch.io",
             name: "Steven Colling",
             id: 2272
         },
-        url: "https://stevencolling.itch.io/brushwood-buddies",
-        cover: "https://img.itch.zone/aW1hZ2UvNTQ3NTQvMjQ0NTU3LmdpZg==/300x240%23cm/cSL5OJ.gif",
-        "cover_color": "#00766a",
         classification: "game",
+        title: "Brushwood Buddies",
+        "cover_color": "#00766a",
+        platforms: ["windows", "linux"],
+        url: "https://stevencolling.itch.io/brushwood-buddies",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTQ3NTQvMjQ0NTU3LmdpZg==/original/Le7T7b.gif",
         "short_text": "An unusual puzzle game about crafting with a lovely atmosphere and some adorable creatures stabbing rabbits. For real.",
         bundles: ["520"]
     }, {
@@ -5581,17 +5664,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 655168,
-        platforms: ["windows", "osx"],
-        title: "The Night Fisherman",
+        cover: "https://img.itch.zone/aW1nLzQ1OTEyNDYuZ2lm/300x240%23cm/lOtnHX.gif",
         user: {
             url: "https://farfewgiants.itch.io",
             name: "Far Few Giants",
             id: 2232
         },
-        url: "https://farfewgiants.itch.io/night-fisherman",
-        cover: "https://img.itch.zone/aW1nLzQ1OTEyNDYuZ2lm/300x240%23cm/lOtnHX.gif",
-        "cover_color": "#16101c",
         classification: "game",
+        title: "The Night Fisherman",
+        "cover_color": "#16101c",
+        platforms: ["windows", "osx"],
+        url: "https://farfewgiants.itch.io/night-fisherman",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ1OTEyNDYuZ2lm/original/3Z6YXV.gif",
         "short_text": "A tense, thought-provoking encounter",
         bundles: ["520", "902"]
     }, {
@@ -5699,17 +5783,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 53242,
-        platforms: ["windows"],
-        title: "Death's Life",
+        cover: "https://img.itch.zone/aW1hZ2UvNTMyNDIvMjQ3NDQ3LmdpZg==/300x240%23cm/q5p210.gif",
         user: {
             url: "https://umbugames.itch.io",
             name: "Umbu Games",
             id: 124703
         },
-        url: "https://umbugames.itch.io/deaths-life",
-        cover: "https://img.itch.zone/aW1hZ2UvNTMyNDIvMjQ3NDQ3LmdpZg==/300x240%23cm/q5p210.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Death's Life",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://umbugames.itch.io/deaths-life",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTMyNDIvMjQ3NDQ3LmdpZg==/original/ihNjoQ.gif",
         "short_text": "Now you’re the new apprentice for Death. And it's your job to help gather souls.",
         bundles: ["520"]
     }, {
@@ -5803,17 +5888,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 19731,
-        platforms: ["windows", "osx", "android"],
-        title: "Inkanians",
+        cover: "https://img.itch.zone/aW1hZ2UvMTk3MzEvNDM4NzA2LmdpZg==/300x240%23cm/HsL6v6.gif",
         user: {
             url: "https://kronbits.itch.io",
             name: "Kronbits",
             id: 34008
         },
-        url: "https://kronbits.itch.io/inkanians",
-        cover: "https://img.itch.zone/aW1hZ2UvMTk3MzEvNDM4NzA2LmdpZg==/300x240%23cm/HsL6v6.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Inkanians",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "android"],
+        url: "https://kronbits.itch.io/inkanians",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk3MzEvNDM4NzA2LmdpZg==/original/m1AM2G.gif",
         "short_text": "Puzzle game on you control a squared-incas moving boxes, slide blocks, teleport...",
         bundles: ["520"]
     }, {
@@ -5949,17 +6035,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 183826,
-        platforms: ["windows", "osx"],
-        title: "Monster Pub Chapter 2",
+        cover: "https://img.itch.zone/aW1hZ2UvMTgzODI2Lzg2MDc3NC5naWY=/300x240%23cm/hHXk8g.gif",
         user: {
             url: "https://isoplod.itch.io",
             name: "alex ilitchev",
             id: 162121
         },
-        url: "https://isoplod.itch.io/monster-pub-2",
-        cover: "https://img.itch.zone/aW1hZ2UvMTgzODI2Lzg2MDc3NC5naWY=/300x240%23cm/hHXk8g.gif",
-        "cover_color": "#e38631",
         classification: "game",
+        title: "Monster Pub Chapter 2",
+        "cover_color": "#e38631",
+        platforms: ["windows", "osx"],
+        url: "https://isoplod.itch.io/monster-pub-2",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTgzODI2Lzg2MDc3NC5naWY=/original/cEBYaW.gif",
         "short_text": "A casual narrative game about making friends!",
         bundles: ["520"]
     }, {
@@ -5993,32 +6080,34 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 59852,
-        platforms: ["windows", "osx", "linux"],
-        title: "Thou Shalt Be Brave",
+        cover: "https://img.itch.zone/aW1hZ2UvNTk4NTIvMjc5MjYwLmdpZg==/300x240%23cm/1kNrxK.gif",
         user: {
             url: "https://nettleflap.itch.io",
             name: "Anil Demir",
             id: 31915
         },
-        url: "https://nettleflap.itch.io/thou-shalt-be-brave",
-        cover: "https://img.itch.zone/aW1hZ2UvNTk4NTIvMjc5MjYwLmdpZg==/300x240%23cm/1kNrxK.gif",
-        "cover_color": "#323f40",
         classification: "game",
+        title: "Thou Shalt Be Brave",
+        "cover_color": "#323f40",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://nettleflap.itch.io/thou-shalt-be-brave",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTk4NTIvMjc5MjYwLmdpZg==/original/TFGtO0.gif",
         "short_text": "Mini-RPG in 64x64",
         bundles: ["520"]
     }, {
         id: 231767,
-        platforms: ["windows", "linux"],
-        title: "Flufftopia",
+        cover: "https://img.itch.zone/aW1nLzI2MjMwMTkuZ2lm/300x240%23cm/KsmmyL.gif",
         user: {
             url: "https://smokesomefrogs.itch.io",
             name: "SmokeSomeFrogs",
             id: 421001
         },
-        url: "https://smokesomefrogs.itch.io/flufftopia",
-        cover: "https://img.itch.zone/aW1nLzI2MjMwMTkuZ2lm/300x240%23cm/KsmmyL.gif",
-        "cover_color": "#eeeeee",
         classification: "game",
+        title: "Flufftopia",
+        "cover_color": "#eeeeee",
+        platforms: ["windows", "linux"],
+        url: "https://smokesomefrogs.itch.io/flufftopia",
+        "gif_cover": "https://img.itch.zone/aW1nLzI2MjMwMTkuZ2lm/original/3lh0qm.gif",
         "short_text": "Clicker Game with Story",
         bundles: ["520"]
     }, {
@@ -6067,17 +6156,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 32996,
-        platforms: ["windows", "osx"],
-        title: "Circa Infinity",
+        cover: "https://img.itch.zone/aW1hZ2UvMzI5OTYvMTQzMjU4LmdpZg==/300x240%23cm/VeaOOn.gif",
         user: {
             url: "https://kennysun.itch.io",
             name: "KennySun",
             id: 49471
         },
-        url: "https://kennysun.itch.io/circa-infinity",
-        cover: "https://img.itch.zone/aW1hZ2UvMzI5OTYvMTQzMjU4LmdpZg==/300x240%23cm/VeaOOn.gif",
-        "cover_color": "#2C2B2B",
         classification: "game",
+        title: "Circa Infinity",
+        "cover_color": "#2C2B2B",
+        platforms: ["windows", "osx"],
+        url: "https://kennysun.itch.io/circa-infinity",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzI5OTYvMTQzMjU4LmdpZg==/original/jyWpNF.gif",
         "short_text": "A Brain-Melting Platformer",
         bundles: ["520", "902"]
     }, {
@@ -6202,17 +6292,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 11970,
-        platforms: ["windows", "osx", "linux"],
-        title: "Spell Casting",
+        cover: "https://img.itch.zone/aW1hZ2UvMTE5NzAvMzQxNDY4LmdpZg==/300x240%23cm/41Bc2f.gif",
         user: {
             url: "https://gordgames.itch.io",
             name: "Gord Games",
             id: 1722
         },
-        url: "https://gordgames.itch.io/spell-casting",
-        cover: "https://img.itch.zone/aW1hZ2UvMTE5NzAvMzQxNDY4LmdpZg==/300x240%23cm/41Bc2f.gif",
-        "cover_color": "#ad8d7b",
         classification: "game",
+        title: "Spell Casting",
+        "cover_color": "#ad8d7b",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://gordgames.itch.io/spell-casting",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTE5NzAvMzQxNDY4LmdpZg==/original/KmNzif.gif",
         "short_text": "Cast spells by tracing shapes!",
         bundles: ["520", "902"]
     }, {
@@ -6246,17 +6337,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 117361,
-        platforms: ["windows", "linux"],
-        title: "Zone of Lacryma",
+        cover: "https://img.itch.zone/aW1nLzM1OTYyNTUuZ2lm/300x240%23cm/nsAfFC.gif",
         user: {
             url: "https://oophok.itch.io",
             name: "oophok",
             id: 56317
         },
-        url: "https://oophok.itch.io/zoneoflacryma",
-        cover: "https://img.itch.zone/aW1nLzM1OTYyNTUuZ2lm/300x240%23cm/nsAfFC.gif",
-        "cover_color": "#160c23",
         classification: "game",
+        title: "Zone of Lacryma",
+        "cover_color": "#160c23",
+        platforms: ["windows", "linux"],
+        url: "https://oophok.itch.io/zoneoflacryma",
+        "gif_cover": "https://img.itch.zone/aW1nLzM1OTYyNTUuZ2lm/original/JGc6HN.gif",
         "short_text": "A story driven vertical shmup.",
         bundles: ["520"]
     }, {
@@ -6334,17 +6426,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 333016,
-        platforms: ["windows", "osx", "linux"],
-        title: "Puzlogic",
+        cover: "https://img.itch.zone/aW1nLzE2NDkyMjYuZ2lm/300x240%23cm/tnW3cR.gif",
         user: {
             url: "https://ejbarreto.itch.io",
             name: "Eduardo Barreto",
             id: 172881
         },
-        url: "https://ejbarreto.itch.io/puzlogic",
-        cover: "https://img.itch.zone/aW1nLzE2NDkyMjYuZ2lm/300x240%23cm/tnW3cR.gif",
-        "cover_color": "#4dc3b7",
         classification: "game",
+        title: "Puzlogic",
+        "cover_color": "#4dc3b7",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://ejbarreto.itch.io/puzlogic",
+        "gif_cover": "https://img.itch.zone/aW1nLzE2NDkyMjYuZ2lm/original/XeclM6.gif",
         "short_text": "Unique puzzle game inspired by sudoku and kakuro (cross sums).",
         bundles: ["520"]
     }, {
@@ -6409,17 +6502,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 174495,
-        platforms: ["windows", "osx"],
-        title: "Six Match",
+        cover: "https://img.itch.zone/aW1hZ2UvMTc0NDk1LzgxNDQxNi5naWY=/300x240%23cm/nVfjHk.gif",
         user: {
             url: "https://st33d.itch.io",
             name: "st33d",
             id: 44864
         },
-        url: "https://st33d.itch.io/six-match",
-        cover: "https://img.itch.zone/aW1hZ2UvMTc0NDk1LzgxNDQxNi5naWY=/300x240%23cm/nVfjHk.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Six Match",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://st33d.itch.io/six-match",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTc0NDk1LzgxNDQxNi5naWY=/original/Gf04pu.gif",
         "short_text": "Match 3 in 6 moves or less",
         bundles: ["520"]
     }, {
@@ -6661,17 +6755,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 411633,
-        platforms: ["windows", "osx"],
-        title: "FLAT FORM FIGHTER",
+        cover: "https://img.itch.zone/aW1nLzIzNzE1NTMuZ2lm/300x240%23cm/nIRkZ1.gif",
         user: {
             url: "https://j-a-i-l.itch.io",
             name: "𝙅𝘼𝙄𝙇",
             id: 1271341
         },
-        url: "https://j-a-i-l.itch.io/fff",
-        cover: "https://img.itch.zone/aW1nLzIzNzE1NTMuZ2lm/300x240%23cm/nIRkZ1.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "FLAT FORM FIGHTER",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://j-a-i-l.itch.io/fff",
+        "gif_cover": "https://img.itch.zone/aW1nLzIzNzE1NTMuZ2lm/original/7wetZL.gif",
         "short_text": "chaotic slapdown in a dark universe",
         bundles: ["520"]
     }, {
@@ -6703,17 +6798,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 65969,
-        platforms: ["windows", "osx"],
-        title: "Crystal Control II",
+        cover: "https://img.itch.zone/aW1hZ2UvNjU5NjkvMzE0ODI5LmdpZg==/300x240%23cm/dginow.gif",
         user: {
             url: "https://virtually-competent.itch.io",
             name: "Virtually Competent",
             id: 4828
         },
-        url: "https://virtually-competent.itch.io/crystal-control-ii",
-        cover: "https://img.itch.zone/aW1hZ2UvNjU5NjkvMzE0ODI5LmdpZg==/300x240%23cm/dginow.gif",
-        "cover_color": "#222034",
         classification: "game",
+        title: "Crystal Control II",
+        "cover_color": "#222034",
+        platforms: ["windows", "osx"],
+        url: "https://virtually-competent.itch.io/crystal-control-ii",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNjU5NjkvMzE0ODI5LmdpZg==/original/tXfdnG.gif",
         "short_text": "Crystal Control II is the expanded sequel to our original competitive bullet hell shoot 'em up for two players!",
         bundles: ["520", "902"]
     }, {
@@ -6837,16 +6933,17 @@ const games = ({
     }, {
         id: 446484,
         "cover_color": "#111111",
-        url: "https://ghastly.itch.io/skeletris",
+        cover: "https://img.itch.zone/aW1nLzI5MDkwMzguZ2lm/300x240%23cm/8o%2F34B.gif",
+        classification: "game",
         user: {
             url: "https://ghastly.itch.io",
             name: "Ghast",
             id: 1140485
         },
-        cover: "https://img.itch.zone/aW1nLzI5MDkwMzguZ2lm/300x240%23cm/8o%2F34B.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://ghastly.itch.io/skeletris",
+        "gif_cover": "https://img.itch.zone/aW1nLzI5MDkwMzguZ2lm/original/%2BVnckH.gif",
         "short_text": "A casual roguelike with Tetris vibes",
         title: "Skeletris",
         bundles: ["520"]
@@ -6941,17 +7038,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 90154,
-        platforms: ["windows", "osx", "linux"],
-        title: "Cube Rampage",
+        cover: "https://img.itch.zone/aW1hZ2UvOTAxNTQvNDQzNTc1LmdpZg==/300x240%23cm/AKXPTU.gif",
         user: {
             url: "https://kronbits.itch.io",
             name: "Kronbits",
             id: 34008
         },
-        url: "https://kronbits.itch.io/cube-rampage",
-        cover: "https://img.itch.zone/aW1hZ2UvOTAxNTQvNDQzNTc1LmdpZg==/300x240%23cm/AKXPTU.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Cube Rampage",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://kronbits.itch.io/cube-rampage",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvOTAxNTQvNDQzNTc1LmdpZg==/original/PSoqAE.gif",
         "short_text": "Hit the cube to get all the items on the levels",
         bundles: ["520"]
     }, {
@@ -7030,33 +7128,35 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 53022,
-        platforms: ["windows", "osx"],
-        title: "Apollo Visualizer Kit",
+        cover: "https://img.itch.zone/aW1nLzI3NzUwNTAuZ2lm/300x240%23cm/U4RtaE.gif",
         user: {
             url: "https://kichex.itch.io",
             name: "Kichex",
             id: 124133
         },
-        url: "https://kichex.itch.io/apollovisualizer",
-        cover: "https://img.itch.zone/aW1nLzI3NzUwNTAuZ2lm/300x240%23cm/U4RtaE.gif",
-        "cover_color": "#000000",
         classification: "tool",
+        title: "Apollo Visualizer Kit",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://kichex.itch.io/apollovisualizer",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3NzUwNTAuZ2lm/original/irgnAb.gif",
         "short_text": "Tool for music visualizations without writing code",
         bundles: ["520"]
     }, {
         id: 14531,
-        title: "FORGET THE BRAKES!",
-        "cover_color": "#114368",
-        url: "https://fonserbc.itch.io/forget-the-brakes",
         user: {
             url: "https://fonserbc.itch.io",
             name: "Ferran Bertomeu",
             id: 36367
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTQ1MzEvMTE3MDMzLmdpZg==/300x240%23cm/J79WEE.gif",
-        platforms: ["web"],
-        flag: "web",
+        url: "https://fonserbc.itch.io/forget-the-brakes",
         classification: "game",
+        flag: "web",
+        title: "FORGET THE BRAKES!",
+        platforms: ["web"],
+        cover: "https://img.itch.zone/aW1hZ2UvMTQ1MzEvMTE3MDMzLmdpZg==/300x240%23cm/J79WEE.gif",
+        "cover_color": "#114368",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTQ1MzEvMTE3MDMzLmdpZg==/original/tuV5dp.gif",
         "short_text": "We'll be Multi-Track Drifting",
         bundles: ["520"]
     }, {
@@ -7194,32 +7294,34 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 157862,
-        platforms: ["windows", "osx", "linux"],
-        title: "Shn!p",
+        cover: "https://img.itch.zone/aW1hZ2UvMTU3ODYyLzcyNDYyMC5naWY=/300x240%23cm/5DDcyj.gif",
         user: {
             url: "https://horsed.itch.io",
             name: "flatbutton",
             id: 40870
         },
-        url: "https://horsed.itch.io/shnip",
-        cover: "https://img.itch.zone/aW1hZ2UvMTU3ODYyLzcyNDYyMC5naWY=/300x240%23cm/5DDcyj.gif",
-        "cover_color": "#38092F",
         classification: "game",
+        title: "Shn!p",
+        "cover_color": "#38092F",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://horsed.itch.io/shnip",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU3ODYyLzcyNDYyMC5naWY=/original/PihrdC.gif",
         "short_text": "Original puzzle with satisfying explosions",
         bundles: ["520", "902"]
     }, {
         id: 610114,
-        platforms: ["windows"],
-        title: "Xenogunner",
+        cover: "https://img.itch.zone/aW1nLzMyNDM4NjQuZ2lm/300x240%23cm/jJTaUm.gif",
         user: {
             url: "https://clickteam.itch.io",
             name: "Clickteam",
             id: 2902
         },
-        url: "https://clickteam.itch.io/xenogunner",
-        cover: "https://img.itch.zone/aW1nLzMyNDM4NjQuZ2lm/300x240%23cm/jJTaUm.gif",
-        "cover_color": "#1f1818",
         classification: "game",
+        title: "Xenogunner",
+        "cover_color": "#1f1818",
+        platforms: ["windows"],
+        url: "https://clickteam.itch.io/xenogunner",
+        "gif_cover": "https://img.itch.zone/aW1nLzMyNDM4NjQuZ2lm/original/LCEOGP.gif",
         "short_text": "Blast your way past a large variety of bosses in this intense boss-focused run-and-gun platformer!",
         bundles: ["520"]
     }, {
@@ -7253,17 +7355,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 73625,
-        platforms: ["windows", "osx"],
-        title: "Picky Pop",
+        cover: "https://img.itch.zone/aW1hZ2UvNzM2MjUvNDE5NDY5LmdpZg==/300x240%23cm/PYwqD6.gif",
         user: {
             url: "https://froachclub.itch.io",
             name: "Froach Club",
             id: 49169
         },
-        url: "https://froachclub.itch.io/picky-pop",
-        cover: "https://img.itch.zone/aW1hZ2UvNzM2MjUvNDE5NDY5LmdpZg==/300x240%23cm/PYwqD6.gif",
-        "cover_color": "#30161a",
         classification: "game",
+        title: "Picky Pop",
+        "cover_color": "#30161a",
+        platforms: ["windows", "osx"],
+        url: "https://froachclub.itch.io/picky-pop",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNzM2MjUvNDE5NDY5LmdpZg==/original/tppsCd.gif",
         "short_text": "Pick & Pop with the best of 'em",
         bundles: ["520"]
     }, {
@@ -7298,16 +7401,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 510233,
-        "cover_color": "#0b0403",
+        url: "https://itchabop.itch.io/8bit-overworld-adventure",
         user: {
             url: "https://itchabop.itch.io",
             name: "itchabop",
             id: 149667
         },
         title: "8bit Overworld Tileset",
-        cover: "https://img.itch.zone/aW1nLzMzNjQwODMuZ2lm/300x240%23cm/3cL2T6.gif",
-        url: "https://itchabop.itch.io/8bit-overworld-adventure",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzMzNjQwODMuZ2lm/300x240%23cm/3cL2T6.gif",
+        "cover_color": "#0b0403",
+        "gif_cover": "https://img.itch.zone/aW1nLzMzNjQwODMuZ2lm/original/PgQK60.gif",
         "short_text": "A retro flavoured topdown tileset with focus on ease of use.",
         bundles: ["520"]
     }, {
@@ -7459,30 +7563,32 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 233448,
-        platforms: ["windows", "osx", "linux"],
-        title: "Spectres of the Cold",
+        cover: "https://img.itch.zone/aW1hZ2UvMjMzNDQ4LzEyMDI3NDAuZ2lm/300x240%23cm/lV3f2S.gif",
         user: {
             url: "https://danbolt.itch.io",
             name: "Daniel Savage",
             id: 100642
         },
-        url: "https://danbolt.itch.io/spectres-of-the-cold",
-        cover: "https://img.itch.zone/aW1hZ2UvMjMzNDQ4LzEyMDI3NDAuZ2lm/300x240%23cm/lV3f2S.gif",
-        "cover_color": "#507459",
         classification: "game",
+        title: "Spectres of the Cold",
+        "cover_color": "#507459",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://danbolt.itch.io/spectres-of-the-cold",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjMzNDQ4LzEyMDI3NDAuZ2lm/original/1NPWcG.gif",
         "short_text": "Here I felt my flesh become the food of my fears.",
         bundles: ["520"]
     }, {
         id: 543110,
-        "cover_color": "#611bff",
+        platforms: ["windows", "osx", "linux"],
+        title: "RPG Monsters & Minions HUGE Pack",
         user: {
             url: "https://beowulf.itch.io",
             name: "Beowulf",
             id: 139566
         },
-        title: "RPG Monsters & Minions HUGE Pack",
-        cover: "https://img.itch.zone/aW1nLzI4MzA0MTYucG5n/300x240%23c/0VCFdU.png",
         url: "https://beowulf.itch.io/rpg-boss-monsters-minions-huge-pack",
+        cover: "https://img.itch.zone/aW1nLzI4MzA0MTYucG5n/300x240%23c/0VCFdU.png",
+        "cover_color": "#611bff",
         classification: "assets",
         "short_text": "RETRO-Styled Pixel Monsters Sprites!",
         bundles: ["520"]
@@ -7664,12 +7770,13 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 646317,
+        "cover_color": "#131313",
         user: {
             url: "https://retrocademedia.itch.io",
             name: "Retrocade Media",
             id: 373477
         },
-        "cover_color": "#131313",
+        "gif_cover": "https://img.itch.zone/aW1nLzM0NjI3MjQuZ2lm/original/nxghGy.gif",
         cover: "https://img.itch.zone/aW1nLzM0NjI3MjQuZ2lm/300x240%23cm/ngFwzT.gif",
         url: "https://retrocademedia.itch.io/buttonprompts4",
         classification: "assets",
@@ -7723,17 +7830,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 372637,
-        platforms: ["windows", "osx"],
-        title: "Word Forward",
+        cover: "https://img.itch.zone/aW1nLzI0Mzc4MzAuZ2lm/300x240%23cm/M7WBFb.gif",
         user: {
             url: "https://rocketshippark.itch.io",
             name: "Rocketship Park",
             id: 852441
         },
-        url: "https://rocketshippark.itch.io/word-forward",
-        cover: "https://img.itch.zone/aW1nLzI0Mzc4MzAuZ2lm/300x240%23cm/M7WBFb.gif",
-        "cover_color": "#eeeeee",
         classification: "game",
+        title: "Word Forward",
+        "cover_color": "#eeeeee",
+        platforms: ["windows", "osx"],
+        url: "https://rocketshippark.itch.io/word-forward",
+        "gif_cover": "https://img.itch.zone/aW1nLzI0Mzc4MzAuZ2lm/original/bg0EyG.gif",
         "short_text": "Beautifully simple. Endlessly challenging.",
         bundles: ["520"]
     }, {
@@ -7975,17 +8083,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 283050,
-        platforms: ["windows", "osx", "linux"],
-        title: "Nine Nines",
+        cover: "https://img.itch.zone/aW1nLzE2MDU2OTIuZ2lm/300x240%23cm/i27YrX.gif",
         user: {
             url: "https://badjano.itch.io",
             name: "Badjano Entertainment",
             id: 1084801
         },
-        url: "https://badjano.itch.io/nine-nines",
-        cover: "https://img.itch.zone/aW1nLzE2MDU2OTIuZ2lm/300x240%23cm/i27YrX.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Nine Nines",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://badjano.itch.io/nine-nines",
+        "gif_cover": "https://img.itch.zone/aW1nLzE2MDU2OTIuZ2lm/original/94fd%2B3.gif",
         "short_text": "Voronoi Procedural Tower Defense",
         bundles: ["520"]
     }, {
@@ -8149,32 +8258,34 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 208156,
-        platforms: ["windows", "osx"],
-        title: "GourMelee",
+        cover: "https://img.itch.zone/aW1hZ2UvMjA4MTU2Lzk5NTM1NC5naWY=/300x240%23cm/bm2ztH.gif",
         user: {
             url: "https://antontesh.itch.io",
             name: "Anthony Tesija",
             id: 224477
         },
-        url: "https://antontesh.itch.io/gourmelee",
-        cover: "https://img.itch.zone/aW1hZ2UvMjA4MTU2Lzk5NTM1NC5naWY=/300x240%23cm/bm2ztH.gif",
-        "cover_color": "#1f1f1f",
         classification: "game",
+        title: "GourMelee",
+        "cover_color": "#1f1f1f",
+        platforms: ["windows", "osx"],
+        url: "https://antontesh.itch.io/gourmelee",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjA4MTU2Lzk5NTM1NC5naWY=/original/%2FycTZ7.gif",
         "short_text": "A 2-8 player local multiplayer party game where friends share controllers to become the best chef in the kitchen",
         bundles: ["520", "902"]
     }, {
         id: 309881,
-        platforms: ["windows", "osx", "linux"],
-        title: "Miles Infernum",
+        cover: "https://img.itch.zone/aW1nLzE2MjE3NDUuZ2lm/300x240%23cm/U7AbvG.gif",
         user: {
             url: "https://badjano.itch.io",
             name: "Badjano Entertainment",
             id: 1084801
         },
-        url: "https://badjano.itch.io/miles-infernum",
-        cover: "https://img.itch.zone/aW1nLzE2MjE3NDUuZ2lm/300x240%23cm/U7AbvG.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Miles Infernum",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://badjano.itch.io/miles-infernum",
+        "gif_cover": "https://img.itch.zone/aW1nLzE2MjE3NDUuZ2lm/original/99MO1X.gif",
         "short_text": "There’s no rest in Hell. There’s no peace in Hell.",
         bundles: ["520"]
     }, {
@@ -8252,17 +8363,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 517092,
-        platforms: ["windows", "osx", "linux"],
-        title: "10 in 1 game-a-week bundle!",
+        cover: "https://img.itch.zone/aW1nLzI4MzIwMjAuZ2lm/300x240%23cm/e0v7Xf.gif",
         user: {
             url: "https://andrewkaralis.itch.io",
             name: "Andrew Karalis",
             id: 49358
         },
-        url: "https://andrewkaralis.itch.io/10-in-1-game-a-week-bundle",
-        cover: "https://img.itch.zone/aW1nLzI4MzIwMjAuZ2lm/300x240%23cm/e0v7Xf.gif",
-        "cover_color": "#e72449",
         classification: "game",
+        title: "10 in 1 game-a-week bundle!",
+        "cover_color": "#e72449",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://andrewkaralis.itch.io/10-in-1-game-a-week-bundle",
+        "gif_cover": "https://img.itch.zone/aW1nLzI4MzIwMjAuZ2lm/original/3cLX2a.gif",
         "short_text": "A bunch of games! With varying levels of good-ness!",
         bundles: ["520", "902"]
     }, {
@@ -8369,16 +8481,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 39511,
-        "cover_color": "#000000",
+        url: "https://derekcaelin.itch.io/the-captains-log",
         user: {
             url: "https://derekcaelin.itch.io",
             name: "Derek Caelin",
             id: 82579
         },
         title: "The Captain's Log",
-        cover: "https://img.itch.zone/aW1hZ2UvMzk1MTEvMTcwNzMyLmdpZg==/300x240%23cm/kC1HMj.gif",
-        url: "https://derekcaelin.itch.io/the-captains-log",
         classification: "game",
+        cover: "https://img.itch.zone/aW1hZ2UvMzk1MTEvMTcwNzMyLmdpZg==/300x240%23cm/kC1HMj.gif",
+        "cover_color": "#000000",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzk1MTEvMTcwNzMyLmdpZg==/original/e8WAEe.gif",
         "short_text": "Find Your Way Home",
         bundles: ["520"]
     }, {
@@ -8428,16 +8541,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 65341,
-        cover: "https://img.itch.zone/aW1hZ2UvNjUzNDEvMjk1NTY3LmdpZg==/300x240%23cm/XeZliW.gif",
+        platforms: ["android"],
         user: {
             url: "https://marumari.itch.io",
             name: "Crescent Moon Games",
             id: 1093
         },
         title: "Hammer Bomb",
-        platforms: ["android"],
-        url: "https://marumari.itch.io/hammer-bomb",
         classification: "game",
+        cover: "https://img.itch.zone/aW1hZ2UvNjUzNDEvMjk1NTY3LmdpZg==/300x240%23cm/XeZliW.gif",
+        url: "https://marumari.itch.io/hammer-bomb",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNjUzNDEvMjk1NTY3LmdpZg==/original/ixslr7.gif",
         "short_text": "Old school arcade dungeon crawler",
         bundles: ["520"]
     }, {
@@ -8457,17 +8571,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 179024,
-        platforms: ["windows"],
-        title: "Splodey Vaders",
+        cover: "https://img.itch.zone/aW1hZ2UvMTc5MDI0LzgzNzcwNC5naWY=/300x240%23cm/ToVeku.gif",
         user: {
             url: "https://scared-square-games.itch.io",
             name: "Scared Square Games",
             id: 29795
         },
-        url: "https://scared-square-games.itch.io/splodey-vaders",
-        cover: "https://img.itch.zone/aW1hZ2UvMTc5MDI0LzgzNzcwNC5naWY=/300x240%23cm/ToVeku.gif",
-        "cover_color": "#343044",
         classification: "game",
+        title: "Splodey Vaders",
+        "cover_color": "#343044",
+        platforms: ["windows"],
+        url: "https://scared-square-games.itch.io/splodey-vaders",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTc5MDI0LzgzNzcwNC5naWY=/original/RDa8pe.gif",
         "short_text": "An explosive twist on an arcade classic.",
         bundles: ["520"]
     }, {
@@ -8487,17 +8602,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 8134,
-        platforms: ["windows", "osx", "linux"],
-        title: "Warden: Melody of the Undergrowth",
+        cover: "https://img.itch.zone/aW1hZ2UvODEzNC8yMTM3MDcuZ2lm/300x240%23cm/B8NByN.gif",
         user: {
             url: "https://cardboardkeep.itch.io",
             name: "Cardboard Keep",
             id: 28968
         },
-        url: "https://cardboardkeep.itch.io/warden",
-        cover: "https://img.itch.zone/aW1hZ2UvODEzNC8yMTM3MDcuZ2lm/300x240%23cm/B8NByN.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Warden: Melody of the Undergrowth",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://cardboardkeep.itch.io/warden",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvODEzNC8yMTM3MDcuZ2lm/original/pdMvmE.gif",
         "short_text": "3rd person action-adventure inspired by genre classics of the N64-era.",
         bundles: ["520"]
     }, {
@@ -8516,16 +8632,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 513385,
-        "cover_color": "#333d4f",
+        url: "https://playmedusa.itch.io/american-werewolf-en",
         user: {
             url: "https://playmedusa.itch.io",
             name: "PlayMedusa",
             id: 768046
         },
         title: "An American Werewolf in LA (EN)",
-        cover: "https://img.itch.zone/aW1nLzI2NjczODAuZ2lm/300x240%23cm/YkN9uM.gif",
-        url: "https://playmedusa.itch.io/american-werewolf-en",
         classification: "game",
+        cover: "https://img.itch.zone/aW1nLzI2NjczODAuZ2lm/300x240%23cm/YkN9uM.gif",
+        "cover_color": "#333d4f",
+        "gif_cover": "https://img.itch.zone/aW1nLzI2NjczODAuZ2lm/original/hr8guJ.gif",
         "short_text": "Spiritual successor to the 80s classic “An American Werewolf in London”",
         bundles: ["520"]
     }, {
@@ -8718,17 +8835,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 333678,
-        platforms: ["windows"],
-        title: "Toaster Jam",
+        cover: "https://img.itch.zone/aW1nLzE2NTMzMDEuZ2lm/300x240%23cm/uhi26s.gif",
         user: {
             url: "https://snoutup.itch.io",
             name: "SnoutUp",
             id: 28651
         },
-        url: "https://snoutup.itch.io/toaster-jam",
-        cover: "https://img.itch.zone/aW1nLzE2NTMzMDEuZ2lm/300x240%23cm/uhi26s.gif",
-        "cover_color": "#edbb66",
         classification: "game",
+        title: "Toaster Jam",
+        "cover_color": "#edbb66",
+        platforms: ["windows"],
+        url: "https://snoutup.itch.io/toaster-jam",
+        "gif_cover": "https://img.itch.zone/aW1nLzE2NTMzMDEuZ2lm/original/FGzyxg.gif",
         "short_text": "Breakfast themed arcade with quirky puzzle elements",
         bundles: ["520"]
     }, {
@@ -8837,17 +8955,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 599506,
-        platforms: ["windows"],
-        title: "Self.destroy()",
+        cover: "https://img.itch.zone/aW1nLzMxODU1NzEuZ2lm/300x240%23cm/nwVwe0.gif",
         user: {
             url: "https://maxine-red.itch.io",
             name: "Maxine Red",
             id: 461263
         },
-        url: "https://maxine-red.itch.io/selfdestroy",
-        cover: "https://img.itch.zone/aW1nLzMxODU1NzEuZ2lm/300x240%23cm/nwVwe0.gif",
-        "cover_color": "#000052",
         classification: "game",
+        title: "Self.destroy()",
+        "cover_color": "#000052",
+        platforms: ["windows"],
+        url: "https://maxine-red.itch.io/selfdestroy",
+        "gif_cover": "https://img.itch.zone/aW1nLzMxODU1NzEuZ2lm/original/NLEb0%2F.gif",
         "short_text": "A game about hope and saving life.",
         bundles: ["520", "902"]
     }, {
@@ -9103,16 +9222,17 @@ const games = ({
     }, {
         id: 126647,
         "cover_color": "#222",
-        url: "https://chiptune.itch.io/zepton",
+        cover: "https://img.itch.zone/aW1hZ2UvMTI2NjQ3LzU4NDMzNS5naWY=/300x240%23cm/bnrkh2.gif",
+        classification: "game",
         user: {
             url: "https://chiptune.itch.io",
             name: "REZ",
             id: 460091
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTI2NjQ3LzU4NDMzNS5naWY=/300x240%23cm/bnrkh2.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://chiptune.itch.io/zepton",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTI2NjQ3LzU4NDMzNS5naWY=/original/q7MmsC.gif",
         "short_text": "a pico-8 voxel shmup",
         title: "ZEPTON",
         bundles: ["520"]
@@ -9147,17 +9267,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 97292,
-        platforms: ["windows", "osx", "linux", "android"],
-        title: "Idioctopus",
+        cover: "https://img.itch.zone/aW1hZ2UvOTcyOTIvNDU2MDc2LmdpZg==/300x240%23cm/WNYGVy.gif",
         user: {
             url: "https://badgerhammer.itch.io",
             name: "BadgerHammer",
             id: 315508
         },
-        url: "https://badgerhammer.itch.io/idioctopus",
-        cover: "https://img.itch.zone/aW1hZ2UvOTcyOTIvNDU2MDc2LmdpZg==/300x240%23cm/WNYGVy.gif",
-        "cover_color": "#8d0000",
         classification: "game",
+        title: "Idioctopus",
+        "cover_color": "#8d0000",
+        platforms: ["windows", "osx", "linux", "android"],
+        url: "https://badgerhammer.itch.io/idioctopus",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvOTcyOTIvNDU2MDc2LmdpZg==/original/aekloC.gif",
         "short_text": "Guide brainless lovestruck octopus couples safely to their romantic rendezvous in increasingly deadly date spots.",
         bundles: ["520"]
     }, {
@@ -9267,32 +9388,34 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 81384,
-        platforms: ["windows"],
-        title: "Four Sided Fantasy",
+        cover: "https://img.itch.zone/aW1hZ2UvODEzODQvMzgzMjgyLmdpZg==/300x240%23cm/96ThJ%2F.gif",
         user: {
             url: "https://serenity-forge.itch.io",
             name: "Serenity Forge",
             id: 1647
         },
-        url: "https://serenity-forge.itch.io/four-sided-fantasy",
-        cover: "https://img.itch.zone/aW1hZ2UvODEzODQvMzgzMjgyLmdpZg==/300x240%23cm/96ThJ%2F.gif",
-        "cover_color": "#233e25",
         classification: "game",
+        title: "Four Sided Fantasy",
+        "cover_color": "#233e25",
+        platforms: ["windows"],
+        url: "https://serenity-forge.itch.io/four-sided-fantasy",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvODEzODQvMzgzMjgyLmdpZg==/original/8lgmXw.gif",
         "short_text": "Four Sided Fantasy uses screen-wrap to break the limits of your screen.",
         bundles: ["520"]
     }, {
         id: 11215,
-        platforms: ["windows"],
-        title: "Toto Temple Deluxe",
+        cover: "https://img.itch.zone/aW1hZ2UvMTEyMTUvMTgxNzczLmdpZg==/300x240%23cm/R%2B8JgA.gif",
         user: {
             url: "https://juicybeast.itch.io",
             name: "Juicy Beast",
             id: 26698
         },
-        url: "https://juicybeast.itch.io/toto-temple-deluxe",
-        cover: "https://img.itch.zone/aW1hZ2UvMTEyMTUvMTgxNzczLmdpZg==/300x240%23cm/R%2B8JgA.gif",
-        "cover_color": "#d69d75",
         classification: "game",
+        title: "Toto Temple Deluxe",
+        "cover_color": "#d69d75",
+        platforms: ["windows"],
+        url: "https://juicybeast.itch.io/toto-temple-deluxe",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTEyMTUvMTgxNzczLmdpZg==/original/nRLVyf.gif",
         "short_text": "A frenzied multiplayer party game about colorful characters battling for an egg-laying goat!",
         bundles: ["520"]
     }, {
@@ -9529,17 +9652,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 142307,
-        platforms: ["windows"],
-        title: "Atomic Heist",
+        cover: "https://img.itch.zone/aW1hZ2UvMTQyMzA3LzExNDA5OTAuZ2lm/300x240%23cm/%2FLYOYd.gif",
         user: {
             url: "https://tojabr.itch.io",
             name: "Live Aliens",
             id: 37014
         },
-        url: "https://tojabr.itch.io/atomic-heist",
-        cover: "https://img.itch.zone/aW1hZ2UvMTQyMzA3LzExNDA5OTAuZ2lm/300x240%23cm/%2FLYOYd.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Atomic Heist",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://tojabr.itch.io/atomic-heist",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTQyMzA3LzExNDA5OTAuZ2lm/original/SdkHAD.gif",
         "short_text": "Grab the atomic core and fight to escape…if you can.",
         bundles: ["520"]
     }, {
@@ -9603,17 +9727,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 210768,
-        platforms: ["windows"],
-        title: "Concentric",
+        cover: "https://img.itch.zone/aW1hZ2UvMjEwNzY4Lzk5NDk4OC5naWY=/300x240%23cm/Uc7Ogs.gif",
         user: {
             url: "https://zerofiftyone.itch.io",
             name: "zerofiftyone",
             id: 24318
         },
-        url: "https://zerofiftyone.itch.io/concentric",
-        cover: "https://img.itch.zone/aW1hZ2UvMjEwNzY4Lzk5NDk4OC5naWY=/300x240%23cm/Uc7Ogs.gif",
-        "cover_color": "#f29137",
         classification: "game",
+        title: "Concentric",
+        "cover_color": "#f29137",
+        platforms: ["windows"],
+        url: "https://zerofiftyone.itch.io/concentric",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjEwNzY4Lzk5NDk4OC5naWY=/original/BhfvmS.gif",
         "short_text": "Concentric is a minimalist action game about gracefully moving in circles",
         bundles: ["520", "902"]
     }, {
@@ -9723,18 +9848,19 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 501922,
-        title: "Bunny Hill Horror",
-        "cover_color": "#000000",
-        url: "https://krunchyfriedgames.itch.io/bunny-hill-horror",
         user: {
             url: "https://krunchyfriedgames.itch.io",
             name: "Krunchy Fried Games",
             id: 679551
         },
-        cover: "https://img.itch.zone/aW1nLzI1OTc3MzcuZ2lm/300x240%23cm/3furw3.gif",
-        platforms: ["web"],
-        flag: "web",
+        url: "https://krunchyfriedgames.itch.io/bunny-hill-horror",
         classification: "game",
+        flag: "web",
+        title: "Bunny Hill Horror",
+        platforms: ["web"],
+        cover: "https://img.itch.zone/aW1nLzI1OTc3MzcuZ2lm/300x240%23cm/3furw3.gif",
+        "cover_color": "#000000",
+        "gif_cover": "https://img.itch.zone/aW1nLzI1OTc3MzcuZ2lm/original/qH2c4T.gif",
         "short_text": "A Bizarro Horror Visual Novel Adventure",
         bundles: ["520"]
     }, {
@@ -9848,16 +9974,17 @@ const games = ({
     }, {
         id: 203044,
         "cover_color": "#eeeeee",
-        url: "https://sbds.itch.io/makeitlast",
+        cover: "https://img.itch.zone/aW1hZ2UvMjAzMDQ0Lzk0OTExMC5naWY=/300x240%23cm/PWI3OH.gif",
+        classification: "game",
         user: {
             url: "https://sbds.itch.io",
             name: "Strawberry Dagger Studio",
             id: 1281
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjAzMDQ0Lzk0OTExMC5naWY=/300x240%23cm/PWI3OH.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://sbds.itch.io/makeitlast",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjAzMDQ0Lzk0OTExMC5naWY=/original/2dMzL7.gif",
         "short_text": "A sweet story about how Harvey and Jordan have spent their lives together.",
         title: "Make It Last",
         bundles: ["520"]
@@ -9880,32 +10007,34 @@ const games = ({
     }, {
         id: 471871,
         "cover_color": "#FF9B91",
-        url: "https://sebastianscaini.itch.io/bird-bakery",
+        cover: "https://img.itch.zone/aW1nLzI0MjQ5NTguZ2lm/300x240%23cm/QuBMZm.gif",
+        classification: "tool",
         user: {
             url: "https://sebastianscaini.itch.io",
             name: "Sebastian Scaini",
             id: 31163
         },
-        cover: "https://img.itch.zone/aW1nLzI0MjQ5NTguZ2lm/300x240%23cm/QuBMZm.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "tool",
+        platforms: ["web"],
+        url: "https://sebastianscaini.itch.io/bird-bakery",
+        "gif_cover": "https://img.itch.zone/aW1nLzI0MjQ5NTguZ2lm/original/Qwcn5%2F.gif",
         "short_text": "Make your own bird!",
         title: "Bird Bakery",
         bundles: ["520", "902"]
     }, {
         id: 469760,
         "cover_color": "#0e0010",
-        url: "https://rbatistadelima.itch.io/dawndusk-dream-sewer",
+        cover: "https://img.itch.zone/aW1nLzI3MTg5NDUuZ2lm/300x240%23cm/ayAbgF.gif",
+        classification: "game",
         user: {
             url: "https://rbatistadelima.itch.io",
             name: "rbatistadelima",
             id: 482209
         },
-        cover: "https://img.itch.zone/aW1nLzI3MTg5NDUuZ2lm/300x240%23cm/ayAbgF.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://rbatistadelima.itch.io/dawndusk-dream-sewer",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3MTg5NDUuZ2lm/original/5KBE9a.gif",
         "short_text": "Come forth mortal, the sewers beckon!!",
         title: "Dawndusk Dream Sewer",
         bundles: ["520"]
@@ -9928,16 +10057,17 @@ const games = ({
     }, {
         id: 255412,
         "cover_color": "#1e1009",
-        url: "https://siegfriedcroes.itch.io/nonsense-at-nightfall",
+        cover: "https://img.itch.zone/aW1nLzE3MjI2OTIuZ2lm/300x240%23cm/ScW3g7.gif",
+        classification: "game",
         user: {
             url: "https://siegfriedcroes.itch.io",
             name: "Siegfried Croes",
             id: 159384
         },
-        cover: "https://img.itch.zone/aW1nLzE3MjI2OTIuZ2lm/300x240%23cm/ScW3g7.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://siegfriedcroes.itch.io/nonsense-at-nightfall",
+        "gif_cover": "https://img.itch.zone/aW1nLzE3MjI2OTIuZ2lm/original/AgiBx%2B.gif",
         "short_text": "One night you can't sleep and decide to take a sleeping pill. What happens next is unexpected...",
         title: "Nonsense at Nightfall",
         bundles: ["520"]
@@ -9975,16 +10105,17 @@ const games = ({
     }, {
         id: 467899,
         "cover_color": "#000000",
-        url: "https://baku.itch.io/satan-loves-cake",
+        cover: "https://img.itch.zone/aW1nLzIzOTAyOTIuZ2lm/300x240%23cm/uNhUvJ.gif",
+        classification: "game",
         user: {
             url: "https://baku.itch.io",
             name: "baku",
             id: 41429
         },
-        cover: "https://img.itch.zone/aW1nLzIzOTAyOTIuZ2lm/300x240%23cm/uNhUvJ.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://baku.itch.io/satan-loves-cake",
+        "gif_cover": "https://img.itch.zone/aW1nLzIzOTAyOTIuZ2lm/original/kJfQ9f.gif",
         "short_text": "A delicious quest through Hell - to get all of the Cake!",
         title: "Satan Loves Cake",
         bundles: ["520"]
@@ -10130,16 +10261,17 @@ const games = ({
     }, {
         id: 170564,
         "cover_color": "#4d0438",
-        url: "https://lorenschmidt.itch.io/luminous-corridor-0",
+        cover: "https://img.itch.zone/aW1hZ2UvMTcwNTY0Lzc5MjE1OS5naWY=/300x240%23cm/xcDwC1.gif",
+        classification: "game",
         user: {
             url: "https://lorenschmidt.itch.io",
             name: "loren schmidt",
             id: 39474
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTcwNTY0Lzc5MjE1OS5naWY=/300x240%23cm/xcDwC1.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://lorenschmidt.itch.io/luminous-corridor-0",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTcwNTY0Lzc5MjE1OS5naWY=/original/ZcItrx.gif",
         "short_text": "the psi crystals have been stolen. a pall of evil hangs over the realm.",
         title: "luminous corridor 0",
         bundles: ["520"]
@@ -10162,32 +10294,34 @@ const games = ({
     }, {
         id: 168365,
         "cover_color": "#1c142b",
-        url: "https://timkrief.itch.io/life-the-game-of-chance",
+        cover: "https://img.itch.zone/aW1hZ2UvMTY4MzY1Lzc4MjQ5My5naWY=/300x240%23cm/b7Mtxb.gif",
+        classification: "game",
         user: {
             url: "https://timkrief.itch.io",
             name: "Tim Krief",
             id: 684923
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTY4MzY1Lzc4MjQ5My5naWY=/300x240%23cm/b7Mtxb.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://timkrief.itch.io/life-the-game-of-chance",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTY4MzY1Lzc4MjQ5My5naWY=/original/fhleZe.gif",
         "short_text": "25 diferent life paths, choose carefully.",
         title: "Life: the game of chance",
         bundles: ["520"]
     }, {
         id: 167714,
         "cover_color": "#18647e",
-        url: "https://grey2scale.itch.io/pet-the-pup",
+        cover: "https://img.itch.zone/aW1hZ2UvMTY3NzE0Lzc3NjkzMC5naWY=/300x240%23cm/wvmRnz.gif",
+        classification: "game",
         user: {
             url: "https://grey2scale.itch.io",
             name: "Will Herring",
             id: 52362
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTY3NzE0Lzc3NjkzMC5naWY=/300x240%23cm/wvmRnz.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://grey2scale.itch.io/pet-the-pup",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTY3NzE0Lzc3NjkzMC5naWY=/original/WW5vSm.gif",
         "short_text": "you are at a house party. you do not know anybody. the clock is ticking... can you find the pup at the party??",
         title: "Pet the Pup at the Party",
         bundles: ["520"]
@@ -10255,16 +10389,17 @@ const games = ({
     }, {
         id: 153415,
         "cover_color": "#ffffff",
-        url: "https://nationalinsecurities.itch.io/2000to1-a-space-felony",
+        cover: "https://img.itch.zone/aW1hZ2UvMTUzNDE1LzkxOTAxMi5naWY=/300x240%23cm/%2B9e%2Bli.gif",
+        classification: "game",
         user: {
             url: "https://nationalinsecurities.itch.io",
             name: "National Insecurities",
             id: 140972
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTUzNDE1LzkxOTAxMi5naWY=/300x240%23cm/%2B9e%2Bli.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://nationalinsecurities.itch.io/2000to1-a-space-felony",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTUzNDE1LzkxOTAxMi5naWY=/original/PIlmI0.gif",
         "short_text": "Murder mystery courtroom drama set on an interplanetary spacecraft.",
         title: "2000:1: A Space Felony",
         bundles: ["520", "902"]
@@ -10365,16 +10500,17 @@ const games = ({
     }, {
         id: 563985,
         "cover_color": "#eeeeee",
-        url: "https://pablodap.itch.io/night-in-the-storm",
+        cover: "https://img.itch.zone/aW1nLzI5Njc4OTAuZ2lm/300x240%23cm/aZoBlK.gif",
+        classification: "game",
         user: {
             url: "https://pablodap.itch.io",
             name: "Pablo Dapena",
             id: 147729
         },
-        cover: "https://img.itch.zone/aW1nLzI5Njc4OTAuZ2lm/300x240%23cm/aZoBlK.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://pablodap.itch.io/night-in-the-storm",
+        "gif_cover": "https://img.itch.zone/aW1nLzI5Njc4OTAuZ2lm/original/sEL1l5.gif",
         "short_text": "Repair an old lighthouse during a storm to keep ships away from the rocks!!",
         title: "Night in the Storm",
         bundles: ["520"]
@@ -10397,16 +10533,17 @@ const games = ({
     }, {
         id: 138527,
         "cover_color": "#003270",
-        url: "https://whalesandgames.itch.io/petty-puny-planet",
+        cover: "https://img.itch.zone/aW1nLzE5NTc0MTguZ2lm/300x240%23cm/DAIm08.gif",
+        classification: "game",
         user: {
             url: "https://whalesandgames.itch.io",
             name: "Whales And Games",
             id: 101429
         },
-        cover: "https://img.itch.zone/aW1nLzE5NTc0MTguZ2lm/300x240%23cm/DAIm08.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://whalesandgames.itch.io/petty-puny-planet",
+        "gif_cover": "https://img.itch.zone/aW1nLzE5NTc0MTguZ2lm/original/ymK3HF.gif",
         "short_text": "Why have a pet rock when you can have a pet planet? Micromanage this cosmic rock to places never thought possible!",
         title: "Petty Puny Planet",
         bundles: ["520"]
@@ -10459,16 +10596,17 @@ const games = ({
     }, {
         id: 129113,
         "cover_color": "#9191FF",
-        url: "https://auroriax.itch.io/mobility",
+        cover: "https://img.itch.zone/aW1hZ2UvMTI5MTEzLzEwNzQxMTYuZ2lm/300x240%23cm/Qzap7Y.gif",
+        classification: "game",
         user: {
             url: "https://auroriax.itch.io",
             name: "Auroriax (Tom H.)",
             id: 4049
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTI5MTEzLzEwNzQxMTYuZ2lm/300x240%23cm/Qzap7Y.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://auroriax.itch.io/mobility",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTI5MTEzLzEwNzQxMTYuZ2lm/original/MdzZmU.gif",
         "short_text": "Jump, spin and flip to fix broken spaceships!",
         title: "Mobility! Accessible precision platformer",
         bundles: ["520"]
@@ -10614,16 +10752,17 @@ const games = ({
     }, {
         id: 303062,
         "cover_color": "#000000",
-        url: "https://megamini009.itch.io/fidelity",
+        cover: "https://img.itch.zone/aW1nLzE5MDQ1NjkuZ2lm/300x240%23cm/%2FeYY0G.gif",
+        classification: "game",
         user: {
             url: "https://megamini009.itch.io",
             name: "megamini009",
             id: 1089505
         },
-        cover: "https://img.itch.zone/aW1nLzE5MDQ1NjkuZ2lm/300x240%23cm/%2FeYY0G.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://megamini009.itch.io/fidelity",
+        "gif_cover": "https://img.itch.zone/aW1nLzE5MDQ1NjkuZ2lm/original/cXm3Cj.gif",
         "short_text": "An atmospheric puzzle game based around losing touch with reality,",
         title: "Fidelity",
         bundles: ["520"]
@@ -10673,16 +10812,17 @@ const games = ({
     }, {
         id: 435145,
         "cover_color": "#eeeeee",
-        url: "https://mjm.itch.io/paintgame",
+        cover: "https://img.itch.zone/aW1nLzIzNDc5MTkuZ2lm/300x240%23cm/hMDl6H.gif",
+        classification: "game",
         user: {
             url: "https://mjm.itch.io",
             name: "Max",
             id: 1196
         },
-        cover: "https://img.itch.zone/aW1nLzIzNDc5MTkuZ2lm/300x240%23cm/hMDl6H.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://mjm.itch.io/paintgame",
+        "gif_cover": "https://img.itch.zone/aW1nLzIzNDc5MTkuZ2lm/original/Y96rIa.gif",
         "short_text": "walk around and paint on everything in an interactive coloring book",
         title: "Paint Game",
         bundles: ["520", "902"]
@@ -10703,16 +10843,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 585954,
-        "cover_color": "#45283c",
+        url: "https://like100bears.itch.io/bearfx-explosions",
         user: {
             url: "https://like100bears.itch.io",
             name: "like, a hundred bears",
             id: 31529
         },
         title: "BearFX Explosions | Pixel Effect Pack",
-        cover: "https://img.itch.zone/aW1nLzMxMzgzMjkuZ2lm/300x240%23cm/zXwo0%2F.gif",
-        url: "https://like100bears.itch.io/bearfx-explosions",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzMxMzgzMjkuZ2lm/300x240%23cm/zXwo0%2F.gif",
+        "cover_color": "#45283c",
+        "gif_cover": "https://img.itch.zone/aW1nLzMxMzgzMjkuZ2lm/original/2cvdkZ.gif",
         "short_text": "High quality pixel art explosion effects",
         bundles: ["520"]
     }, {
@@ -10778,33 +10919,35 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 426461,
-        title: "Peckin' Pixels",
-        "cover_color": "#5f995e",
-        url: "https://wavingwalrus.itch.io/peckin-pixels",
         user: {
             url: "https://wavingwalrus.itch.io",
             name: "Waving Walrus Games",
             id: 1629871
         },
-        cover: "https://img.itch.zone/aW1nLzI3MTUwNjEuZ2lm/300x240%23cm/PNVq7Y.gif",
-        platforms: ["web"],
-        flag: "web",
+        url: "https://wavingwalrus.itch.io/peckin-pixels",
         classification: "game",
+        flag: "web",
+        title: "Peckin' Pixels",
+        platforms: ["web"],
+        cover: "https://img.itch.zone/aW1nLzI3MTUwNjEuZ2lm/300x240%23cm/PNVq7Y.gif",
+        "cover_color": "#5f995e",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3MTUwNjEuZ2lm/original/lLh8R9.gif",
         "short_text": "Cute pixel-art chicken farm simulator.",
         bundles: ["520"]
     }, {
         id: 589785,
         "cover_color": "#dc6c2a",
-        url: "https://aaa.itch.io/utopias",
+        cover: "https://img.itch.zone/aW1nLzMzOTIwMTcuZ2lm/300x240%23cm/NcSA%2F8.gif",
+        classification: "game",
         user: {
             url: "https://aaa.itch.io",
             name: "AAA",
             id: 268937
         },
-        cover: "https://img.itch.zone/aW1nLzMzOTIwMTcuZ2lm/300x240%23cm/NcSA%2F8.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://aaa.itch.io/utopias",
+        "gif_cover": "https://img.itch.zone/aW1nLzMzOTIwMTcuZ2lm/original/qd2FyV.gif",
         "short_text": "A utopian planetary system of nine worlds, a collective hallucination woven by AAA",
         title: "Utopias: Navigating Without Coordinates",
         bundles: ["520"]
@@ -10855,32 +10998,34 @@ const games = ({
     }, {
         id: 420407,
         "cover_color": "#b98049",
-        url: "https://cheeseness.itch.io/hive-time",
+        cover: "https://img.itch.zone/aW1nLzU0NDg5NzAuZ2lm/300x240%23cm/7ZNEeO.gif",
+        classification: "game",
         user: {
             url: "https://cheeseness.itch.io",
             name: "Cheeseness",
             id: 35151
         },
-        cover: "https://img.itch.zone/aW1nLzU0NDg5NzAuZ2lm/300x240%23cm/7ZNEeO.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://cheeseness.itch.io/hive-time",
+        "gif_cover": "https://img.itch.zone/aW1nLzU0NDg5NzAuZ2lm/original/0kTsih.gif",
         "short_text": "A cute and zany bee themed management sim/base builder.",
         title: "Hive Time",
         bundles: ["520"]
     }, {
         id: 319093,
-        platforms: ["windows"],
-        title: "Predicate",
+        cover: "https://img.itch.zone/aW1nLzE1NzI1NTcuZ2lm/300x240%23cm/sxO08P.gif",
         user: {
             url: "https://boboto.itch.io",
             name: "Boboto",
             id: 91589
         },
-        url: "https://boboto.itch.io/predicate",
-        cover: "https://img.itch.zone/aW1nLzE1NzI1NTcuZ2lm/300x240%23cm/sxO08P.gif",
-        "cover_color": "#30124a",
         classification: "game",
+        title: "Predicate",
+        "cover_color": "#30124a",
+        platforms: ["windows"],
+        url: "https://boboto.itch.io/predicate",
+        "gif_cover": "https://img.itch.zone/aW1nLzE1NzI1NTcuZ2lm/original/MS8%2B8S.gif",
         "short_text": "Ensnare enemies and dodge bullets in this colourful bullet-hell",
         bundles: ["520"]
     }, {
@@ -10918,16 +11063,17 @@ const games = ({
     }, {
         id: 321557,
         "cover_color": "#232225",
-        url: "https://managore.itch.io/breaker",
+        cover: "https://img.itch.zone/aW1nLzE1ODc3NTAuZ2lm/300x240%23cm/9yTHIp.gif",
+        classification: "game",
         user: {
             url: "https://managore.itch.io",
             name: "Daniel Linssen",
             id: 3996
         },
-        cover: "https://img.itch.zone/aW1nLzE1ODc3NTAuZ2lm/300x240%23cm/9yTHIp.gif",
-        platforms: ["windows", "android"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "android"],
+        url: "https://managore.itch.io/breaker",
+        "gif_cover": "https://img.itch.zone/aW1nLzE1ODc3NTAuZ2lm/original/sAVZ%2FM.gif",
         "short_text": "a blend of breakout, space invaders and ikaruga",
         title: "BREAKER",
         bundles: ["520"]
@@ -10948,16 +11094,17 @@ const games = ({
     }, {
         id: 417793,
         "cover_color": "#eeeeee",
-        url: "https://alienmelon.itch.io/electric-zine-maker",
+        cover: "https://img.itch.zone/aW1nLzIwNzkxNTcuZ2lm/300x240%23cm/W9jK08.gif",
+        classification: "tool",
         user: {
             url: "https://alienmelon.itch.io",
             name: "alienmelon",
             id: 39822
         },
-        cover: "https://img.itch.zone/aW1nLzIwNzkxNTcuZ2lm/300x240%23cm/W9jK08.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "tool",
+        platforms: ["windows", "osx"],
+        url: "https://alienmelon.itch.io/electric-zine-maker",
+        "gif_cover": "https://img.itch.zone/aW1nLzIwNzkxNTcuZ2lm/original/Zmc7TN.gif",
         "short_text": "The Electric Zine Maker (⚡️📝✂️) is a printshop and art tool for making zines.",
         title: "Electric Zine Maker (a work in progress, be gentle, hug it often)",
         bundles: ["520"]
@@ -10978,48 +11125,51 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 58594,
-        platforms: ["windows", "osx", "linux"],
-        title: "Lieve Oma",
+        cover: "https://img.itch.zone/aW1hZ2UvNTg1OTQvMjYzNTYyLmdpZg==/300x240%23cm/FA4kCD.gif",
         user: {
             url: "https://vltmn.itch.io",
             name: "Florian Veltman",
             id: 35649
         },
-        url: "https://vltmn.itch.io/lieve-oma",
-        cover: "https://img.itch.zone/aW1hZ2UvNTg1OTQvMjYzNTYyLmdpZg==/300x240%23cm/FA4kCD.gif",
-        "cover_color": "#FFA391",
         classification: "game",
+        title: "Lieve Oma",
+        "cover_color": "#FFA391",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://vltmn.itch.io/lieve-oma",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTg1OTQvMjYzNTYyLmdpZg==/original/Cm4%2BCD.gif",
         "short_text": "It's the season for penny buns, Grandma forced you to come along a bit. But deep down you know it'll do you good.",
         bundles: ["520", "902"]
     }, {
         id: 618864,
         "cover_color": "#a5cdda",
-        url: "https://toukana.itch.io/dorfromantik-prototype",
+        cover: "https://img.itch.zone/aW1nLzU1NTk2OTUuZ2lm/300x240%23cm/mLcIpu.gif",
+        classification: "game",
         user: {
             url: "https://toukana.itch.io",
             name: "Toukana",
             id: 2278698
         },
-        cover: "https://img.itch.zone/aW1nLzU1NTk2OTUuZ2lm/300x240%23cm/mLcIpu.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://toukana.itch.io/dorfromantik-prototype",
+        "gif_cover": "https://img.itch.zone/aW1nLzU1NTk2OTUuZ2lm/original/sTatM%2B.gif",
         "short_text": "A soft-strategy village building game, pure \"Dorfromantik\"!",
         title: "Dorfromantik (Prototype)",
         bundles: ["520"]
     }, {
         id: 622174,
         "cover_color": "#63c64d",
-        url: "https://samperson.itch.io/meadow",
+        cover: "https://img.itch.zone/aW1nLzMzMTgyMjMuZ2lm/300x240%23cm/Sb2gRs.gif",
+        classification: "game",
         user: {
             url: "https://samperson.itch.io",
             name: "samperson",
             id: 2022914
         },
-        cover: "https://img.itch.zone/aW1nLzMzMTgyMjMuZ2lm/300x240%23cm/Sb2gRs.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://samperson.itch.io/meadow",
+        "gif_cover": "https://img.itch.zone/aW1nLzMzMTgyMjMuZ2lm/original/02aFnD.gif",
         "short_text": "Your computer is a beautiful garden",
         title: "Desktop Meadow",
         bundles: ["520"]
@@ -11042,16 +11192,17 @@ const games = ({
     }, {
         id: 623217,
         "cover_color": "#000000",
-        url: "https://christopherlee.itch.io/timeout",
+        cover: "https://img.itch.zone/aW1nLzM0MDU2NTkuZ2lm/300x240%23cm/evEMwk.gif",
+        classification: "game",
         user: {
             url: "https://christopherlee.itch.io",
             name: "Christopher Lee",
             id: 1604006
         },
-        cover: "https://img.itch.zone/aW1nLzM0MDU2NTkuZ2lm/300x240%23cm/evEMwk.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://christopherlee.itch.io/timeout",
+        "gif_cover": "https://img.itch.zone/aW1nLzM0MDU2NTkuZ2lm/original/GVAx7x.gif",
         "short_text": "Film noir 2.5D pixel art narrative game in a time based currency system.",
         title: "TimeOut",
         bundles: ["520"]
@@ -11163,16 +11314,17 @@ const games = ({
     }, {
         id: 33700,
         "cover_color": "#21414e",
-        url: "https://rilem.itch.io/cuckoo-castle",
+        cover: "https://img.itch.zone/aW1hZ2UvMzM3MDAvMTQ1MDIxLmdpZg==/300x240%23cm/jCODDf.gif",
+        classification: "game",
         user: {
             url: "https://rilem.itch.io",
             name: "Richard Lems",
             id: 4296
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMzM3MDAvMTQ1MDIxLmdpZg==/300x240%23cm/jCODDf.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://rilem.itch.io/cuckoo-castle",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzM3MDAvMTQ1MDIxLmdpZg==/original/3L26Ws.gif",
         "short_text": "A mini-metroidvania.",
         title: "Cuckoo Castle",
         bundles: ["520", "902"]
@@ -11209,16 +11361,17 @@ const games = ({
     }, {
         id: 29373,
         "cover_color": "#ff0000",
-        url: "https://lorenschmidt.itch.io/strawberrycubes",
+        cover: "https://img.itch.zone/aW1hZ2UvMjkzNzMvMTIyNTY4LmdpZg==/300x240%23cm/QUChEU.gif",
+        classification: "game",
         user: {
             url: "https://lorenschmidt.itch.io",
             name: "loren schmidt",
             id: 39474
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjkzNzMvMTIyNTY4LmdpZg==/300x240%23cm/QUChEU.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://lorenschmidt.itch.io/strawberrycubes",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjkzNzMvMTIyNTY4LmdpZg==/original/jxMQRJ.gif",
         "short_text": "Fossil moth slideshow",
         title: "STRAWBERRY CUBES",
         bundles: ["520", "902"]
@@ -11269,16 +11422,17 @@ const games = ({
     }, {
         id: 19887,
         "cover_color": "#d31846",
-        url: "https://kaiclavier.itch.io/hotel-paradise",
+        cover: "https://img.itch.zone/aW1hZ2UvMTk4ODcvODQ3MjQuZ2lm/300x240%23cm/SPts3v.gif",
+        classification: "game",
         user: {
             url: "https://kaiclavier.itch.io",
             name: "KaiClavier",
             id: 30749
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTk4ODcvODQ3MjQuZ2lm/300x240%23cm/SPts3v.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://kaiclavier.itch.io/hotel-paradise",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk4ODcvODQ3MjQuZ2lm/original/iYxBRn.gif",
         "short_text": "Come and stay awhile!",
         title: "Hotel Paradise",
         bundles: ["520"]
@@ -11469,32 +11623,34 @@ const games = ({
     }, {
         id: 378248,
         "cover_color": "#f2b5b0",
-        url: "https://whalesandgames.itch.io/whipped-and-steamy",
+        cover: "https://img.itch.zone/aW1nLzE5NzAxNTguZ2lm/300x240%23cm/I7Nze7.gif",
+        classification: "game",
         user: {
             url: "https://whalesandgames.itch.io",
             name: "Whales And Games",
             id: 101429
         },
-        cover: "https://img.itch.zone/aW1nLzE5NzAxNTguZ2lm/300x240%23cm/I7Nze7.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://whalesandgames.itch.io/whipped-and-steamy",
+        "gif_cover": "https://img.itch.zone/aW1nLzE5NzAxNTguZ2lm/original/%2FcwSQS.gif",
         "short_text": "In a town where adult media is the new best thing the Whipped and Steamy Café is the best fun for all cosplayers!",
         title: "Whipped And Steamy • Cosplay Café",
         bundles: ["520"]
     }, {
         id: 361626,
         "cover_color": "#F4B573",
-        url: "https://sharpedstonestudios.itch.io/hermit-the-sea-caterpillar",
+        cover: "https://img.itch.zone/aW1nLzE4MTIyOTAuZ2lm/300x240%23cm/yoMDAi.gif",
+        classification: "game",
         user: {
             url: "https://sharpedstonestudios.itch.io",
             name: "Sharped Stone Studios",
             id: 862519
         },
-        cover: "https://img.itch.zone/aW1nLzE4MTIyOTAuZ2lm/300x240%23cm/yoMDAi.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://sharpedstonestudios.itch.io/hermit-the-sea-caterpillar",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4MTIyOTAuZ2lm/original/Lhzx%2Fi.gif",
         "short_text": "Hermit the lone sluggish caterpillar of the Sea is fighting for his new home.",
         title: "Hermit the sluggish caterpillar of the sea",
         bundles: ["520"]
@@ -11627,17 +11783,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 305112,
-        platforms: ["windows", "osx", "android"],
-        title: "A Lullaby of Colors (now available for Oculus Quest too)",
+        cover: "https://img.itch.zone/aW1nLzE1NTU0OTMuZ2lm/300x240%23cm/iS%2Fjyn.gif",
         user: {
             url: "https://andyman404.itch.io",
             name: "andyman404",
             id: 54684
         },
-        url: "https://andyman404.itch.io/lullaby-of-colors",
-        cover: "https://img.itch.zone/aW1nLzE1NTU0OTMuZ2lm/300x240%23cm/iS%2Fjyn.gif",
-        "cover_color": "#512378",
         classification: "game",
+        title: "A Lullaby of Colors (now available for Oculus Quest too)",
+        "cover_color": "#512378",
+        platforms: ["windows", "osx", "android"],
+        url: "https://andyman404.itch.io/lullaby-of-colors",
+        "gif_cover": "https://img.itch.zone/aW1nLzE1NTU0OTMuZ2lm/original/62YxRo.gif",
         "short_text": "A blissful psychedelic relaxation experience",
         bundles: ["520"]
     }, {
@@ -11754,17 +11911,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 142659,
-        platforms: ["windows"],
-        title: "The Trans Zone",
+        cover: "https://img.itch.zone/aW1hZ2UvMTQyNjU5Lzk5NjM3Mi5naWY=/300x240%23cm/6ELJZ5.gif",
         user: {
             url: "https://glamow-research.itch.io",
             name: "Glamow Research",
             id: 504840
         },
-        url: "https://glamow-research.itch.io/the-trans-zone",
-        cover: "https://img.itch.zone/aW1hZ2UvMTQyNjU5Lzk5NjM3Mi5naWY=/300x240%23cm/6ELJZ5.gif",
-        "cover_color": "#29fff7",
         classification: "game",
+        title: "The Trans Zone",
+        "cover_color": "#29fff7",
+        platforms: ["windows"],
+        url: "https://glamow-research.itch.io/the-trans-zone",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTQyNjU5Lzk5NjM3Mi5naWY=/original/mQcUOI.gif",
         "short_text": "A Game about being trans made by 2 real 3d trans women",
         bundles: ["520"]
     }, {
@@ -11884,16 +12042,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 469038,
-        "cover_color": "#026bc6",
+        url: "https://guttykreum.itch.io/japanese-town",
         user: {
             url: "https://guttykreum.itch.io",
             name: "GuttyKreum",
             id: 1666346
         },
         title: "Japanese City Game Assets",
-        cover: "https://img.itch.zone/aW1nLzM0MjU0MTUuZ2lm/300x240%23cm/1sbfUm.gif",
-        url: "https://guttykreum.itch.io/japanese-town",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzM0MjU0MTUuZ2lm/300x240%23cm/1sbfUm.gif",
+        "cover_color": "#026bc6",
+        "gif_cover": "https://img.itch.zone/aW1nLzM0MjU0MTUuZ2lm/original/%2BFm0CB.gif",
         "short_text": "304 static tiles (32x32 in size) + 8 animations for use in your project!",
         bundles: ["520"]
     }, {
@@ -12483,17 +12642,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 35571,
-        platforms: ["windows", "osx"],
-        title: "Forever Lost: Episode 1",
+        cover: "https://img.itch.zone/aW1hZ2UvMzU1NzEvMTY1NzQwLmdpZg==/300x240%23cm/8h1V2Y.gif",
         user: {
             url: "https://glitchgames.itch.io",
             name: "Glitch Games",
             id: 73961
         },
-        url: "https://glitchgames.itch.io/forever-lost-episode-1",
-        cover: "https://img.itch.zone/aW1hZ2UvMzU1NzEvMTY1NzQwLmdpZg==/300x240%23cm/8h1V2Y.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Forever Lost: Episode 1",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://glitchgames.itch.io/forever-lost-episode-1",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzU1NzEvMTY1NzQwLmdpZg==/original/F%2BoPtH.gif",
         "short_text": "Awaken in a mind you don’t know to a world you can’t remember.",
         bundles: ["520"]
     }, {
@@ -12623,17 +12783,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 321312,
-        platforms: ["windows", "osx", "linux"],
-        title: "Eye of Ra",
+        cover: "https://img.itch.zone/aW1nLzE2OTYzMjMuZ2lm/300x240%23cm/qDtQ0C.gif",
         user: {
             url: "https://bearcabin.itch.io",
             name: "Bearcabin",
             id: 34616
         },
-        url: "https://bearcabin.itch.io/eye-of-ra",
-        cover: "https://img.itch.zone/aW1nLzE2OTYzMjMuZ2lm/300x240%23cm/qDtQ0C.gif",
-        "cover_color": "#000",
         classification: "game",
+        title: "Eye of Ra",
+        "cover_color": "#000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://bearcabin.itch.io/eye-of-ra",
+        "gif_cover": "https://img.itch.zone/aW1nLzE2OTYzMjMuZ2lm/original/qm5rk3.gif",
         "short_text": "Atmospheric space station simulation",
         bundles: ["520", "902"]
     }, {
@@ -12652,16 +12813,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 80261,
-        "cover_color": "#000000",
+        url: "https://devilsworkshop.itch.io/low-poly-auto-racing-car-pack",
         user: {
             url: "https://devilsworkshop.itch.io",
             name: "DevilsWork.shop",
             id: 43973
         },
         title: "Low Poly Auto Racing Car Pack - Devils Work.shop",
-        cover: "https://img.itch.zone/aW1hZ2UvODAyNjEvMzc3NTMyLmdpZg==/300x240%23cm/JvKOrS.gif",
-        url: "https://devilsworkshop.itch.io/low-poly-auto-racing-car-pack",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1hZ2UvODAyNjEvMzc3NTMyLmdpZg==/300x240%23cm/JvKOrS.gif",
+        "cover_color": "#000000",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvODAyNjEvMzc3NTMyLmdpZg==/original/ez5o6L.gif",
         "short_text": "Royalty free 3D Game Assets for Commercial, and Non-Commercial Use.",
         bundles: ["520"]
     }, {
@@ -12709,17 +12871,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 35577,
-        platforms: ["windows", "osx"],
-        title: "Forever Lost: Episode 3",
+        cover: "https://img.itch.zone/aW1hZ2UvMzU1NzcvMTU5NjcxLmdpZg==/300x240%23cm/BAhG3X.gif",
         user: {
             url: "https://glitchgames.itch.io",
             name: "Glitch Games",
             id: 73961
         },
-        url: "https://glitchgames.itch.io/forever-lost-episode-3",
-        cover: "https://img.itch.zone/aW1hZ2UvMzU1NzcvMTU5NjcxLmdpZg==/300x240%23cm/BAhG3X.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Forever Lost: Episode 3",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://glitchgames.itch.io/forever-lost-episode-3",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzU1NzcvMTU5NjcxLmdpZg==/original/8a%2BCyO.gif",
         "short_text": "The truth is near. Look inside.",
         bundles: ["520"]
     }, {
@@ -12794,16 +12957,17 @@ const games = ({
     }, {
         id: 59806,
         "cover_color": "#000000",
-        url: "https://dirigogames.itch.io/stowaway",
+        cover: "https://img.itch.zone/aW1hZ2UvNTk4MDYvMjY5NTA3LmdpZg==/300x240%23cm/10Znsj.gif",
+        classification: "game",
         user: {
             url: "https://dirigogames.itch.io",
             name: "DirigoGames",
             id: 103117
         },
-        cover: "https://img.itch.zone/aW1hZ2UvNTk4MDYvMjY5NTA3LmdpZg==/300x240%23cm/10Znsj.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://dirigogames.itch.io/stowaway",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTk4MDYvMjY5NTA3LmdpZg==/original/fHTJp5.gif",
         "short_text": "Cosmic horror",
         title: "STOWAWAY",
         bundles: ["520"]
@@ -12864,17 +13028,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 35574,
-        platforms: ["windows", "osx"],
-        title: "Forever Lost: Episode 2",
+        cover: "https://img.itch.zone/aW1hZ2UvMzU1NzQvMTU5NjQ3LmdpZg==/300x240%23cm/UWpNyI.gif",
         user: {
             url: "https://glitchgames.itch.io",
             name: "Glitch Games",
             id: 73961
         },
-        url: "https://glitchgames.itch.io/forever-lost-episode-2",
-        cover: "https://img.itch.zone/aW1hZ2UvMzU1NzQvMTU5NjQ3LmdpZg==/300x240%23cm/UWpNyI.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Forever Lost: Episode 2",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://glitchgames.itch.io/forever-lost-episode-2",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzU1NzQvMTU5NjQ3LmdpZg==/original/DO6pAb.gif",
         "short_text": "Explore what awaits in front of you and learn all you can about what you left behind.",
         bundles: ["520"]
     }, {
@@ -13164,17 +13329,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 64431,
-        platforms: ["windows", "osx"],
-        title: "Stage Fright",
+        cover: "https://img.itch.zone/aW1hZ2UvNjQ0MzEvMjk3MzQ4LmdpZg==/300x240%23cm/FTnTTR.gif",
         user: {
             url: "https://broangames.itch.io",
             name: "Brian Kang",
             id: 56083
         },
-        url: "https://broangames.itch.io/stage-fright",
-        cover: "https://img.itch.zone/aW1hZ2UvNjQ0MzEvMjk3MzQ4LmdpZg==/300x240%23cm/FTnTTR.gif",
-        "cover_color": "#a9a3a3",
         classification: "game",
+        title: "Stage Fright",
+        "cover_color": "#a9a3a3",
+        platforms: ["windows", "osx"],
+        url: "https://broangames.itch.io/stage-fright",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNjQ0MzEvMjk3MzQ4LmdpZg==/original/ROuvrG.gif",
         "short_text": "Rhythm horror game exploring anxiety on stage",
         bundles: ["520"]
     }, {
@@ -13673,17 +13839,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 544884,
-        platforms: ["windows"],
-        title: "CORPSE REVIVER",
+        cover: "https://img.itch.zone/aW1nLzI5MDg5MzcuZ2lm/300x240%23cm/XIAKwr.gif",
         user: {
             url: "https://prophetgoddess.itch.io",
             name: "prophet goddess",
             id: 23559
         },
-        url: "https://prophetgoddess.itch.io/corpse-reviver",
-        cover: "https://img.itch.zone/aW1nLzI5MDg5MzcuZ2lm/300x240%23cm/XIAKwr.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "CORPSE REVIVER",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://prophetgoddess.itch.io/corpse-reviver",
+        "gif_cover": "https://img.itch.zone/aW1nLzI5MDg5MzcuZ2lm/original/8kuoVf.gif",
         "short_text": "a nightmare psychedelic trash pixel vertical scrolling shooter",
         bundles: ["520"]
     }, {
@@ -14027,17 +14194,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 65770,
-        platforms: ["windows", "osx", "linux"],
-        title: "NO THING",
+        cover: "https://img.itch.zone/aW1hZ2UvNjU3NzAvMjk3NzU4LmdpZg==/300x240%23cm/JEKS9B.gif",
         user: {
             url: "https://evilindiegames.itch.io",
             name: "Evil Indie Games",
             id: 1007
         },
-        url: "https://evilindiegames.itch.io/no-thing",
-        cover: "https://img.itch.zone/aW1hZ2UvNjU3NzAvMjk3NzU4LmdpZg==/300x240%23cm/JEKS9B.gif",
-        "cover_color": "#a5a5ff",
         classification: "game",
+        title: "NO THING",
+        "cover_color": "#a5a5ff",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://evilindiegames.itch.io/no-thing",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNjU3NzAvMjk3NzU4LmdpZg==/original/FSvsA9.gif",
         "short_text": "NO THING - Surreal Arcade Trip",
         bundles: ["520"]
     }, {
@@ -14112,17 +14280,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 342814,
-        platforms: ["windows", "osx", "linux"],
-        title: "Brendan Keogh's Putting Challenge",
+        cover: "https://img.itch.zone/aW1nLzE3MDAwNzguZ2lm/300x240%23cm/h569G9.gif",
         user: {
             url: "https://brkeogh.itch.io",
             name: "Brendan Keogh",
             id: 31058
         },
-        url: "https://brkeogh.itch.io/brendan-keoghs-putting-challenge",
-        cover: "https://img.itch.zone/aW1nLzE3MDAwNzguZ2lm/300x240%23cm/h569G9.gif",
-        "cover_color": "#008751",
         classification: "game",
+        title: "Brendan Keogh's Putting Challenge",
+        "cover_color": "#008751",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://brkeogh.itch.io/brendan-keoghs-putting-challenge",
+        "gif_cover": "https://img.itch.zone/aW1nLzE3MDAwNzguZ2lm/original/N2Fgqk.gif",
         "short_text": "Golf with the boring bits left in",
         bundles: ["520"]
     }, {
@@ -14254,17 +14423,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 175763,
-        platforms: ["windows", "android"],
-        title: "Explobers",
+        cover: "https://img.itch.zone/aW1hZ2UvMTc1NzYzLzgyNTQ3Ni5naWY=/300x240%23cm/qGYQkE.gif",
         user: {
             url: "https://jdmgames.itch.io",
             name: "John D. Moore/Whatnot Studios",
             id: 29557
         },
-        url: "https://jdmgames.itch.io/explobers",
-        cover: "https://img.itch.zone/aW1hZ2UvMTc1NzYzLzgyNTQ3Ni5naWY=/300x240%23cm/qGYQkE.gif",
-        "cover_color": "#0d2d96",
         classification: "game",
+        title: "Explobers",
+        "cover_color": "#0d2d96",
+        platforms: ["windows", "android"],
+        url: "https://jdmgames.itch.io/explobers",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTc1NzYzLzgyNTQ3Ni5naWY=/original/WGztze.gif",
         "short_text": "Unique blast-and-build puzzle platforming!",
         bundles: ["520"]
     }, {
@@ -14397,17 +14567,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 293769,
-        platforms: ["windows"],
-        title: "PizzaBoy",
+        cover: "https://img.itch.zone/aW1hZ2UvMjkzNzY5LzE0MzM3NTIuZ2lm/300x240%23cm/NlVf4n.gif",
         user: {
             url: "https://extron.itch.io",
             name: "Extron",
             id: 27695
         },
-        url: "https://extron.itch.io/pizzaboy",
-        cover: "https://img.itch.zone/aW1hZ2UvMjkzNzY5LzE0MzM3NTIuZ2lm/300x240%23cm/NlVf4n.gif",
-        "cover_color": "#eeeeee",
         classification: "game",
+        title: "PizzaBoy",
+        "cover_color": "#eeeeee",
+        platforms: ["windows"],
+        url: "https://extron.itch.io/pizzaboy",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjkzNzY5LzE0MzM3NTIuZ2lm/original/3O00j%2B.gif",
         "short_text": "Live out your fantasy of delivering pizza as you embark into a strange new world",
         bundles: ["520"]
     }, {
@@ -14612,17 +14783,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 53187,
-        platforms: ["windows", "linux"],
-        title: "Pichon!",
+        cover: "https://img.itch.zone/aW1hZ2UvNTMxODcvMjQ1MDQ1LmdpZg==/300x240%23cm/BoW2EP.gif",
         user: {
             url: "https://redmagegames.itch.io",
             name: "Red Mage Games",
             id: 59185
         },
-        url: "https://redmagegames.itch.io/pichonfull",
-        cover: "https://img.itch.zone/aW1hZ2UvNTMxODcvMjQ1MDQ1LmdpZg==/300x240%23cm/BoW2EP.gif",
-        "cover_color": "#1d0c1a",
         classification: "game",
+        title: "Pichon!",
+        "cover_color": "#1d0c1a",
+        platforms: ["windows", "linux"],
+        url: "https://redmagegames.itch.io/pichonfull",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTMxODcvMjQ1MDQ1LmdpZg==/original/lh2Qiw.gif",
         "short_text": "Help Pichón bounce from platform to platform to get the gems and escape from the caves",
         bundles: ["520"]
     }, {
@@ -14711,17 +14883,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 217065,
-        platforms: ["windows", "osx"],
-        title: "Factory Hiro",
+        cover: "https://img.itch.zone/aW1hZ2UvMjE3MDY1LzEwNTA3OTQuZ2lm/300x240%23cm/6LpDM3.gif",
         user: {
             url: "https://radzone.itch.io",
             name: "Rad Zone",
             id: 954873
         },
-        url: "https://radzone.itch.io/factory-hiro",
-        cover: "https://img.itch.zone/aW1hZ2UvMjE3MDY1LzEwNTA3OTQuZ2lm/300x240%23cm/6LpDM3.gif",
-        "cover_color": "#d98b4d",
         classification: "game",
+        title: "Factory Hiro",
+        "cover_color": "#d98b4d",
+        platforms: ["windows", "osx"],
+        url: "https://radzone.itch.io/factory-hiro",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjE3MDY1LzEwNTA3OTQuZ2lm/original/QbHiOL.gif",
         "short_text": "You play as Hiro / He works at the factory / Work hard, Hiro-san!",
         bundles: ["520"]
     }, {
@@ -15039,17 +15212,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 59687,
-        platforms: ["windows", "osx"],
-        title: "Potato Thriller (Classic)",
+        cover: "https://img.itch.zone/aW1hZ2UvNTk2ODcvMjY4OTcwLmdpZg==/300x240%23cm/O2Y%2F4S.gif",
         user: {
             url: "https://snowconesolid.itch.io",
             name: "Samer Khatib (Snowconesolid Productions)",
             id: 138450
         },
-        url: "https://snowconesolid.itch.io/potatothrillerclassic",
-        cover: "https://img.itch.zone/aW1hZ2UvNTk2ODcvMjY4OTcwLmdpZg==/300x240%23cm/O2Y%2F4S.gif",
-        "cover_color": "#002d05",
         classification: "game",
+        title: "Potato Thriller (Classic)",
+        "cover_color": "#002d05",
+        platforms: ["windows", "osx"],
+        url: "https://snowconesolid.itch.io/potatothrillerclassic",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTk2ODcvMjY4OTcwLmdpZg==/original/VFvSMO.gif",
         "short_text": "Known for deep frying his victims, Potato Man is the most notorious serial killer out there.",
         bundles: ["520"]
     }, {
@@ -15169,17 +15343,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 632309,
-        platforms: ["windows", "osx"],
-        title: "ring ring",
+        cover: "https://img.itch.zone/aW1nLzMzNzY0MjAuZ2lm/300x240%23cm/6jRSMk.gif",
         user: {
             url: "https://hiloqo.itch.io",
             name: "h i l o q o",
             id: 595444
         },
-        url: "https://hiloqo.itch.io/ring-ring",
-        cover: "https://img.itch.zone/aW1nLzMzNzY0MjAuZ2lm/300x240%23cm/6jRSMk.gif",
-        "cover_color": "#080808",
         classification: "game",
+        title: "ring ring",
+        "cover_color": "#080808",
+        platforms: ["windows", "osx"],
+        url: "https://hiloqo.itch.io/ring-ring",
+        "gif_cover": "https://img.itch.zone/aW1nLzMzNzY0MjAuZ2lm/original/iX7%2F0L.gif",
         "short_text": "You found a strange phone on the beach. Who will you call?",
         bundles: ["520"]
     }, {
@@ -15355,17 +15530,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 641686,
-        platforms: ["windows"],
-        title: "Swung",
+        cover: "https://img.itch.zone/aW1nLzM0NTQ1OTguZ2lm/300x240%23cm/4RpfiD.gif",
         user: {
             url: "https://extra-nice.itch.io",
             name: "Extra Nice",
             id: 963660
         },
-        url: "https://extra-nice.itch.io/swung",
-        cover: "https://img.itch.zone/aW1nLzM0NTQ1OTguZ2lm/300x240%23cm/4RpfiD.gif",
-        "cover_color": "#8cbaec",
         classification: "game",
+        title: "Swung",
+        "cover_color": "#8cbaec",
+        platforms: ["windows"],
+        url: "https://extra-nice.itch.io/swung",
+        "gif_cover": "https://img.itch.zone/aW1nLzM0NTQ1OTguZ2lm/original/DFObFx.gif",
         "short_text": "Be the SWORD!",
         bundles: ["520"]
     }, {
@@ -15794,16 +15970,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 612970,
-        cover: "https://img.itch.zone/aW1nLzMyNjA4MTIuZ2lm/300x240%23cm/3cimnb.gif",
+        platforms: ["windows"],
         user: {
             url: "https://cannibalinteractive.itch.io",
             name: "CannibalInteractive",
             id: 34984
         },
         title: "Labyrinth of Wild Abyss",
-        platforms: ["windows"],
-        url: "https://cannibalinteractive.itch.io/labyrinth-of-wild-abyss",
         classification: "game",
+        cover: "https://img.itch.zone/aW1nLzMyNjA4MTIuZ2lm/300x240%23cm/3cimnb.gif",
+        url: "https://cannibalinteractive.itch.io/labyrinth-of-wild-abyss",
+        "gif_cover": "https://img.itch.zone/aW1nLzMyNjA4MTIuZ2lm/original/ONQKzy.gif",
         "short_text": "A 50 floor labyrinth of nonsense",
         bundles: ["520"]
     }, {
@@ -15862,17 +16039,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 216142,
-        platforms: ["windows"],
-        title: "Bold Blade",
+        cover: "https://img.itch.zone/aW1hZ2UvMjE2MTQyLzEwMjkwMjkuZ2lm/300x240%23cm/lMBjXi.gif",
         user: {
             url: "https://ultrarunaway.itch.io",
             name: "Ultra Runaway Games",
             id: 706
         },
-        url: "https://ultrarunaway.itch.io/bold-blade",
-        cover: "https://img.itch.zone/aW1hZ2UvMjE2MTQyLzEwMjkwMjkuZ2lm/300x240%23cm/lMBjXi.gif",
-        "cover_color": "#0301A2",
         classification: "game",
+        title: "Bold Blade",
+        "cover_color": "#0301A2",
+        platforms: ["windows"],
+        url: "https://ultrarunaway.itch.io/bold-blade",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjE2MTQyLzEwMjkwMjkuZ2lm/original/Da%2BhpX.gif",
         "short_text": "the bitesize pixel art action RPG where your sword keeps getting bigger!",
         bundles: ["520"]
     }, {
@@ -15994,31 +16172,33 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 95644,
-        cover: "https://img.itch.zone/aW1hZ2UvOTU2NDQvNDQ3ODQ3LmdpZg==/300x240%23cm/%2BoajXU.gif",
+        platforms: ["windows", "linux"],
         user: {
             url: "https://hungrybear.itch.io",
             name: "HungryBear",
             id: 103079
         },
         title: "Dogurai",
-        platforms: ["windows", "linux"],
-        url: "https://hungrybear.itch.io/dogurai",
         classification: "game",
+        cover: "https://img.itch.zone/aW1hZ2UvOTU2NDQvNDQ3ODQ3LmdpZg==/300x240%23cm/%2BoajXU.gif",
+        url: "https://hungrybear.itch.io/dogurai",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvOTU2NDQvNDQ3ODQ3LmdpZg==/original/fvctNo.gif",
         "short_text": "Dogurai is a 2D platformer packed with fast-paced action, dogs, robots and pure retro goodness.",
         bundles: ["520"]
     }, {
         id: 512974,
-        platforms: ["windows"],
-        title: "Anomalies",
+        cover: "https://img.itch.zone/aW1nLzI2NjM4NDkuZ2lm/300x240%23cm/HztRyf.gif",
         user: {
             url: "https://schmidt-workshops.itch.io",
             name: "Schmidt Workshops",
             id: 776815
         },
-        url: "https://schmidt-workshops.itch.io/anomalies",
-        cover: "https://img.itch.zone/aW1nLzI2NjM4NDkuZ2lm/300x240%23cm/HztRyf.gif",
-        "cover_color": "#f31d1d",
         classification: "game",
+        title: "Anomalies",
+        "cover_color": "#f31d1d",
+        platforms: ["windows"],
+        url: "https://schmidt-workshops.itch.io/anomalies",
+        "gif_cover": "https://img.itch.zone/aW1nLzI2NjM4NDkuZ2lm/original/Vv0Bx3.gif",
         "short_text": "The Generative Art Game",
         bundles: ["520"]
     }, {
@@ -16207,18 +16387,19 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 121955,
-        title: "Zak",
-        "cover_color": "#151823",
-        url: "https://skslucher.itch.io/zak",
         user: {
             url: "https://skslucher.itch.io",
             name: "Scott Slucher",
             id: 35141
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTIxOTU1LzU2ODAzOC5naWY=/300x240%23cm/WyJ5l7.gif",
-        platforms: ["web"],
-        flag: "web",
+        url: "https://skslucher.itch.io/zak",
         classification: "game",
+        flag: "web",
+        title: "Zak",
+        platforms: ["web"],
+        cover: "https://img.itch.zone/aW1hZ2UvMTIxOTU1LzU2ODAzOC5naWY=/300x240%23cm/WyJ5l7.gif",
+        "cover_color": "#151823",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTIxOTU1LzU2ODAzOC5naWY=/original/bvuVtq.gif",
         "short_text": "They say they're protecting us, but from what?",
         bundles: ["520"]
     }, {
@@ -16266,17 +16447,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 283494,
-        platforms: ["windows", "osx", "linux"],
-        title: "Color Jumper",
+        cover: "https://img.itch.zone/aW1hZ2UvMjgzNDk0LzEzNzg3OTEuZ2lm/300x240%23cm/dZEDiZ.gif",
         user: {
             url: "https://tallbeard.itch.io",
             name: "Tallbeard Studios",
             id: 51099
         },
-        url: "https://tallbeard.itch.io/color-jumper",
-        cover: "https://img.itch.zone/aW1hZ2UvMjgzNDk0LzEzNzg3OTEuZ2lm/300x240%23cm/dZEDiZ.gif",
-        "cover_color": "#505050",
         classification: "game",
+        title: "Color Jumper",
+        "cover_color": "#505050",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://tallbeard.itch.io/color-jumper",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjgzNDk0LzEzNzg3OTEuZ2lm/original/qBd1rl.gif",
         "short_text": "An abstract, color-based puzzle platformer.",
         bundles: ["520", "902"]
     }, {
@@ -16410,16 +16592,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 604202,
-        "cover_color": "#02162b",
+        url: "https://lapointe-joints.itch.io/gunpig",
         user: {
             url: "https://lapointe-joints.itch.io",
             name: "LaPointe Joints",
             id: 132474
         },
         title: "GUNPIG: Firepower For Hire",
-        cover: "https://img.itch.zone/aW1nLzMyMTgxNjQuZ2lm/300x240%23cm/KKIIpA.gif",
-        url: "https://lapointe-joints.itch.io/gunpig",
         classification: "game",
+        cover: "https://img.itch.zone/aW1nLzMyMTgxNjQuZ2lm/300x240%23cm/KKIIpA.gif",
+        "cover_color": "#02162b",
+        "gif_cover": "https://img.itch.zone/aW1nLzMyMTgxNjQuZ2lm/original/XHWbhz.gif",
         "short_text": "Top-down twin-stick arcade-style shoot 'em up action!",
         bundles: ["520"]
     }, {
@@ -16848,17 +17031,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 295467,
-        platforms: ["windows"],
-        title: "Stars Die",
+        cover: "https://img.itch.zone/aW1nLzI5MjE1MTcuZ2lm/300x240%23cm/IAPBuI.gif",
         user: {
             url: "https://yorkeegj.itch.io",
             name: "Eric Juvi",
             id: 1226891
         },
-        url: "https://yorkeegj.itch.io/stars-die",
-        cover: "https://img.itch.zone/aW1nLzI5MjE1MTcuZ2lm/300x240%23cm/IAPBuI.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Stars Die",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://yorkeegj.itch.io/stars-die",
+        "gif_cover": "https://img.itch.zone/aW1nLzI5MjE1MTcuZ2lm/original/23%2FpLW.gif",
         "short_text": "A haunting, dying world foreshadowing rebirth.",
         bundles: ["520"]
     }, {
@@ -16949,17 +17133,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 7061,
-        platforms: ["windows", "osx"],
-        title: "SHNIPERS",
+        cover: "https://img.itch.zone/aW1hZ2UvNzA2MS8xMTc4OTAxLmdpZg==/300x240%23cm/ddvq07.gif",
         user: {
             url: "https://brenden-cameron.itch.io",
             name: "Brenden Cameron",
             id: 25732
         },
-        url: "https://brenden-cameron.itch.io/shnipers",
-        cover: "https://img.itch.zone/aW1hZ2UvNzA2MS8xMTc4OTAxLmdpZg==/300x240%23cm/ddvq07.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "SHNIPERS",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://brenden-cameron.itch.io/shnipers",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNzA2MS8xMTc4OTAxLmdpZg==/original/7fuwDM.gif",
         "short_text": "A competitive multiplayer game for 2-4 players where you fire bullets that bounce off everything!",
         bundles: ["520"]
     }, {
@@ -17595,16 +17780,17 @@ const games = ({
     }, {
         id: 397045,
         "cover_color": "#9ccbd7",
-        url: "https://aaronmakesgames.itch.io/clouds-of-fire",
+        cover: "https://img.itch.zone/aW1nLzI1MzUzODQuZ2lm/300x240%23cm/ZBAPUr.gif",
+        classification: "game",
         user: {
             url: "https://aaronmakesgames.itch.io",
             name: "AaronMakesGames",
             id: 1124663
         },
-        cover: "https://img.itch.zone/aW1nLzI1MzUzODQuZ2lm/300x240%23cm/ZBAPUr.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://aaronmakesgames.itch.io/clouds-of-fire",
+        "gif_cover": "https://img.itch.zone/aW1nLzI1MzUzODQuZ2lm/original/7kaptO.gif",
         "short_text": "Complete Chaos in this Shoot-em up meets Rouge-like with Physics!",
         title: "Clouds of Fire: Blazing Skies",
         bundles: ["520"]
@@ -17667,17 +17853,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 63016,
-        platforms: ["windows", "osx"],
-        title: "IGEO",
+        cover: "https://img.itch.zone/aW1hZ2UvNjMwMTYvNDAxNzkzLmdpZg==/300x240%23cm/yyYsOj.gif",
         user: {
             url: "https://mindnumb.itch.io",
             name: "Mindnumb Interactive",
             id: 28889
         },
-        url: "https://mindnumb.itch.io/igeo",
-        cover: "https://img.itch.zone/aW1hZ2UvNjMwMTYvNDAxNzkzLmdpZg==/300x240%23cm/yyYsOj.gif",
-        "cover_color": "#07292F",
         classification: "game",
+        title: "IGEO",
+        "cover_color": "#07292F",
+        platforms: ["windows", "osx"],
+        url: "https://mindnumb.itch.io/igeo",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNjMwMTYvNDAxNzkzLmdpZg==/original/MdYFVX.gif",
         "short_text": "Colorful puzzler where you eliminate blocks by pushing them together.",
         bundles: ["520", "902"]
     }, {
@@ -18348,17 +18535,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 362358,
-        platforms: ["windows"],
-        title: "Fantom Feast",
+        cover: "https://img.itch.zone/aW1nLzE4MTA5MzUuZ2lm/300x240%23cm/Pu1JCS.gif",
         user: {
             url: "https://prettysmart.itch.io",
             name: "prettysmart",
             id: 228501
         },
-        url: "https://prettysmart.itch.io/fantom-feast",
-        cover: "https://img.itch.zone/aW1nLzE4MTA5MzUuZ2lm/300x240%23cm/Pu1JCS.gif",
-        "cover_color": "#ffffff",
         classification: "game",
+        title: "Fantom Feast",
+        "cover_color": "#ffffff",
+        platforms: ["windows"],
+        url: "https://prettysmart.itch.io/fantom-feast",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4MTA5MzUuZ2lm/original/WmZCSG.gif",
         "short_text": "Help Fantom eat enemies and grow big and strong!",
         bundles: ["520"]
     }, {
@@ -18389,16 +18577,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 514837,
-        "cover_color": "#b8a985",
+        url: "https://glaiveguisarme.itch.io/by-the-author-of-lady-windermeres-fan",
         user: {
             url: "https://glaiveguisarme.itch.io",
             name: "Glaive Guisarme Games",
             id: 1546588
         },
         title: "By the Author of Lady Windermere's Fan",
-        cover: "https://img.itch.zone/aW1nLzI2NzQwMzYuZ2lm/300x240%23cmb/E4z708.gif",
-        url: "https://glaiveguisarme.itch.io/by-the-author-of-lady-windermeres-fan",
         classification: "physical_game",
+        cover: "https://img.itch.zone/aW1nLzI2NzQwMzYuZ2lm/300x240%23cmb/E4z708.gif",
+        "cover_color": "#b8a985",
+        "gif_cover": "https://img.itch.zone/aW1nLzI2NzQwMzYuZ2lm/original/8cBAPW.gif",
         "short_text": "Desperate improvisation and egregious theatricality",
         bundles: ["520"]
     }, {
@@ -18627,17 +18816,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 413205,
-        platforms: ["windows", "android"],
-        title: "Fools Fortune",
+        cover: "https://img.itch.zone/aW1nLzIxNDMxNzcuZ2lm/300x240%23cm/pQKDLa.gif",
         user: {
             url: "https://gearsteak.itch.io",
             name: "GearSteak",
             id: 1557642
         },
-        url: "https://gearsteak.itch.io/fools-fortune",
-        cover: "https://img.itch.zone/aW1nLzIxNDMxNzcuZ2lm/300x240%23cm/pQKDLa.gif",
-        "cover_color": "#eeeeee",
         classification: "game",
+        title: "Fools Fortune",
+        "cover_color": "#eeeeee",
+        platforms: ["windows", "android"],
+        url: "https://gearsteak.itch.io/fools-fortune",
+        "gif_cover": "https://img.itch.zone/aW1nLzIxNDMxNzcuZ2lm/original/oEyAMe.gif",
         "short_text": "Fortune has the potential to make fools of us all.",
         bundles: ["520"]
     }, {
@@ -18952,17 +19142,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 236400,
-        platforms: ["windows"],
-        title: "Hidden Paws",
+        cover: "https://img.itch.zone/aW1hZ2UvMjM2NDAwLzExMjYwMDcuZ2lm/300x240%23cm/4RVgi4.gif",
         user: {
             url: "https://manichyena.itch.io",
             name: "Manic Hyena",
             id: 1017865
         },
-        url: "https://manichyena.itch.io/hidden-paws",
-        cover: "https://img.itch.zone/aW1hZ2UvMjM2NDAwLzExMjYwMDcuZ2lm/300x240%23cm/4RVgi4.gif",
-        "cover_color": "#6d80e9",
         classification: "game",
+        title: "Hidden Paws",
+        "cover_color": "#6d80e9",
+        platforms: ["windows"],
+        url: "https://manichyena.itch.io/hidden-paws",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjM2NDAwLzExMjYwMDcuZ2lm/original/Kzdj0c.gif",
         "short_text": "It's winter and cats are still outside. Cold and alone. Find them and bring them home.",
         bundles: ["520"]
     }, {
@@ -19134,17 +19325,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 14754,
-        platforms: ["windows"],
-        title: "iZBOT",
+        cover: "https://img.itch.zone/aW1hZ2UvMTQ3NTQvNTEwODEuZ2lm/300x240%23cm/0hUPIM.gif",
         user: {
             url: "https://ruxar.itch.io",
             name: "Ruxar",
             id: 358
         },
-        url: "https://ruxar.itch.io/izbot",
-        cover: "https://img.itch.zone/aW1hZ2UvMTQ3NTQvNTEwODEuZ2lm/300x240%23cm/0hUPIM.gif",
-        "cover_color": "#0d0019",
         classification: "game",
+        title: "iZBOT",
+        "cover_color": "#0d0019",
+        platforms: ["windows"],
+        url: "https://ruxar.itch.io/izbot",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTQ3NTQvNTEwODEuZ2lm/original/9fTQ%2Fp.gif",
         "short_text": "Fast paced platformer",
         bundles: ["520"]
     }, {
@@ -19217,17 +19409,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 438331,
-        platforms: ["windows"],
-        title: "Goopty Goo",
+        cover: "https://img.itch.zone/aW1nLzIyNDM2OTYuZ2lm/300x240%23cm/4UmvkH.gif",
         user: {
             url: "https://dylanbrowngames.itch.io",
             name: "Dylan Brown",
             id: 805437
         },
-        url: "https://dylanbrowngames.itch.io/gooptygoo",
-        cover: "https://img.itch.zone/aW1nLzIyNDM2OTYuZ2lm/300x240%23cm/4UmvkH.gif",
-        "cover_color": "#b04537",
         classification: "game",
+        title: "Goopty Goo",
+        "cover_color": "#b04537",
+        platforms: ["windows"],
+        url: "https://dylanbrowngames.itch.io/gooptygoo",
+        "gif_cover": "https://img.itch.zone/aW1nLzIyNDM2OTYuZ2lm/original/0IqIKj.gif",
         "short_text": "Stomp goop cubes and avoid the floor.",
         bundles: ["520", "902"]
     }, {
@@ -19534,17 +19727,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 73442,
-        platforms: ["windows", "osx", "linux"],
-        title: "MONUMENTAL FAILURE",
+        cover: "https://img.itch.zone/aW1hZ2UvNzM0NDIvNDk4MTcxLmdpZg==/300x240%23cm/XfzhKm.gif",
         user: {
             url: "https://scary-wizard.itch.io",
             name: "Scary Wizard Games",
             id: 192318
         },
-        url: "https://scary-wizard.itch.io/monumental-failure",
-        cover: "https://img.itch.zone/aW1hZ2UvNzM0NDIvNDk4MTcxLmdpZg==/300x240%23cm/XfzhKm.gif",
-        "cover_color": "#282828",
         classification: "game",
+        title: "MONUMENTAL FAILURE",
+        "cover_color": "#282828",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://scary-wizard.itch.io/monumental-failure",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNzM0NDIvNDk4MTcxLmdpZg==/original/4L24ew.gif",
         "short_text": "A historically (in)accurate, physics-based, monument construction simulator!",
         bundles: ["520"]
     }, {
@@ -19667,16 +19861,17 @@ const games = ({
     }, {
         id: 151591,
         "cover_color": "#000000",
-        url: "https://josephquested.itch.io/ball-buster",
+        cover: "https://img.itch.zone/aW1hZ2UvMTUxNTkxLzY5NDE3OS5naWY=/300x240%23cm/3hF7dO.gif",
+        classification: "game",
         user: {
             url: "https://josephquested.itch.io",
             name: "JOSEPH QUESTED",
             id: 161028
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTUxNTkxLzY5NDE3OS5naWY=/300x240%23cm/3hF7dO.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://josephquested.itch.io/ball-buster",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTUxNTkxLzY5NDE3OS5naWY=/original/2RNwXY.gif",
         "short_text": "\"QUITE FUN!\" - Joseph Quested",
         title: "BALL BUSTER 2.0",
         bundles: ["520"]
@@ -19766,17 +19961,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 226973,
-        platforms: ["windows"],
-        title: "GRAVITY FIGHTERS",
+        cover: "https://img.itch.zone/aW1hZ2UvMjI2OTczLzEwODEzMzIuZ2lm/300x240%23cm/c6nBAp.gif",
         user: {
             url: "https://wychwaystudios.itch.io",
             name: "Wych Way Studios",
             id: 578514
         },
-        url: "https://wychwaystudios.itch.io/gravityfighters",
-        cover: "https://img.itch.zone/aW1hZ2UvMjI2OTczLzEwODEzMzIuZ2lm/300x240%23cm/c6nBAp.gif",
-        "cover_color": "#041733",
         classification: "game",
+        title: "GRAVITY FIGHTERS",
+        "cover_color": "#041733",
+        platforms: ["windows"],
+        url: "https://wychwaystudios.itch.io/gravityfighters",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjI2OTczLzEwODEzMzIuZ2lm/original/SEMwiv.gif",
         "short_text": "Physics-based space battles for 1-4 players.  Harness the power of gravity!",
         bundles: ["520"]
     }, {
@@ -20094,16 +20290,17 @@ const games = ({
     }, {
         id: 589847,
         "cover_color": "#000000",
-        url: "https://not-fun-games.itch.io/metaware-high-school",
+        cover: "https://img.itch.zone/aW1nLzMxMTU2NTkuZ2lm/300x240%23cm/vJ8dLV.gif",
+        classification: "game",
         user: {
             url: "https://not-fun-games.itch.io",
             name: "Not Fun Games",
             id: 2165360
         },
-        cover: "https://img.itch.zone/aW1nLzMxMTU2NTkuZ2lm/300x240%23cm/vJ8dLV.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://not-fun-games.itch.io/metaware-high-school",
+        "gif_cover": "https://img.itch.zone/aW1nLzMxMTU2NTkuZ2lm/original/rO3NmI.gif",
         "short_text": "How do you see the world when nothing is real?",
         title: "MetaWare High School (Demo)",
         bundles: ["520"]
@@ -20292,16 +20489,17 @@ const games = ({
     }, {
         id: 595548,
         "cover_color": "#000000",
-        url: "https://tjern.itch.io/perfect-park",
+        cover: "https://img.itch.zone/aW1nLzMxNTIzOTAuZ2lm/300x240%23cm/QRU0aj.gif",
+        classification: "game",
         user: {
             url: "https://tjern.itch.io",
             name: "tjern",
             id: 8651
         },
-        cover: "https://img.itch.zone/aW1nLzMxNTIzOTAuZ2lm/300x240%23cm/QRU0aj.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://tjern.itch.io/perfect-park",
+        "gif_cover": "https://img.itch.zone/aW1nLzMxNTIzOTAuZ2lm/original/jb%2BUq8.gif",
         "short_text": "Race against strangers and friends, only the TOP rocket drifter has the chance to perform a PERFECT PARK.",
         title: "perfect park",
         bundles: ["520"]
@@ -20322,32 +20520,34 @@ const games = ({
     }, {
         id: 477223,
         "cover_color": "#5d7232",
-        url: "https://zwizausch.itch.io/oddytree",
+        cover: "https://img.itch.zone/aW1nLzI0NTc1NTcuZ2lm/300x240%23cm/im1yGb.gif",
+        classification: "game",
         user: {
             url: "https://zwizausch.itch.io",
             name: "Zwi Zausch",
             id: 1610256
         },
-        cover: "https://img.itch.zone/aW1nLzI0NTc1NTcuZ2lm/300x240%23cm/im1yGb.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://zwizausch.itch.io/oddytree",
+        "gif_cover": "https://img.itch.zone/aW1nLzI0NTc1NTcuZ2lm/original/S55num.gif",
         "short_text": "A tree odyssey, keep your balance and reach the edge of the birch-forest!",
         title: "OddyTree",
         bundles: ["520"]
     }, {
         id: 254104,
         "cover_color": "#000000",
-        url: "https://thatguynm.itch.io/explore-mall",
+        cover: "https://img.itch.zone/aW1hZ2UvMjU0MTA0LzEyMTY4NzUuZ2lm/300x240%23cm/zmYAK9.gif",
+        classification: "game",
         user: {
             url: "https://thatguynm.itch.io",
             name: "thatguynm",
             id: 29823
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjU0MTA0LzEyMTY4NzUuZ2lm/300x240%23cm/zmYAK9.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://thatguynm.itch.io/explore-mall",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjU0MTA0LzEyMTY4NzUuZ2lm/original/LGpBIU.gif",
         "short_text": "A short game about hanging out and wandering a mall",
         title: "I'm Bored, Let's Explore (Mall)",
         bundles: ["520"]
@@ -20501,16 +20701,17 @@ const games = ({
     }, {
         id: 545267,
         "cover_color": "#eeeeee",
-        url: "https://digitaldaydream.itch.io/conversations-with-my-anxiety",
+        cover: "https://img.itch.zone/aW1nLzM2MDkxNjUuZ2lm/300x240%23cm/VR2e3O.gif",
+        classification: "game",
         user: {
             url: "https://digitaldaydream.itch.io",
             name: "Digital Daydream",
             id: 929162
         },
-        cover: "https://img.itch.zone/aW1nLzM2MDkxNjUuZ2lm/300x240%23cm/VR2e3O.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://digitaldaydream.itch.io/conversations-with-my-anxiety",
+        "gif_cover": "https://img.itch.zone/aW1nLzM2MDkxNjUuZ2lm/original/B93MO1.gif",
         "short_text": "A short visual novel about a first date where the player must come face to face with their anxiety.",
         title: "Conversations With My Anxiety",
         bundles: ["520", "902"]
@@ -20620,17 +20821,18 @@ const games = ({
     }, {
         id: 533489,
         "cover_color": "#000000",
+        title: "Life In Captivity",
         user: {
             url: "https://ergman.itch.io",
             name: "JohnLee Cooper",
             id: 33738
         },
-        url: "https://ergman.itch.io/life-in-captivity",
+        classification: "game",
         cover: "https://img.itch.zone/aW1nLzI3NzM3NDUuZ2lm/300x240%23cm/Di9080.gif",
         flag: "free",
-        classification: "game",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3NzM3NDUuZ2lm/original/rVgTjV.gif",
         "short_text": "Sokoban meets Game Of Life meets a wormhole",
-        title: "Life In Captivity",
+        url: "https://ergman.itch.io/life-in-captivity",
         bundles: ["520"]
     }, {
         id: 532140,
@@ -20770,16 +20972,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 522913,
-        "cover_color": "#212a33",
+        url: "https://glaiveguisarme.itch.io/flintlock",
         user: {
             url: "https://glaiveguisarme.itch.io",
             name: "Glaive Guisarme Games",
             id: 1546588
         },
         title: "Flintlock",
-        cover: "https://img.itch.zone/aW1nLzI3MTYwMDkuZ2lm/300x240%23cmb/fXyAzm.gif",
-        url: "https://glaiveguisarme.itch.io/flintlock",
         classification: "physical_game",
+        cover: "https://img.itch.zone/aW1nLzI3MTYwMDkuZ2lm/300x240%23cmb/fXyAzm.gif",
+        "cover_color": "#212a33",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3MTYwMDkuZ2lm/original/0Q4rs%2B.gif",
         "short_text": "Swashbuckling and Sea Monsters",
         bundles: ["520", "902"]
     }, {
@@ -20813,17 +21016,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 522367,
-        platforms: ["windows"],
-        title: "Cluster Gun",
+        cover: "https://img.itch.zone/aW1nLzI3MTI2MjkuZ2lm/300x240%23cm/SGwN5x.gif",
         user: {
             url: "https://princess-hype.itch.io",
             name: "Princess HYPE",
             id: 46010
         },
-        url: "https://princess-hype.itch.io/cluster-gun",
-        cover: "https://img.itch.zone/aW1nLzI3MTI2MjkuZ2lm/300x240%23cm/SGwN5x.gif",
-        "cover_color": "#7CC371",
         classification: "game",
+        title: "Cluster Gun",
+        "cover_color": "#7CC371",
+        platforms: ["windows"],
+        url: "https://princess-hype.itch.io/cluster-gun",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3MTI2MjkuZ2lm/original/Axt%2FXE.gif",
         "short_text": "Physical puzzle platformer with GUNZ",
         bundles: ["520"]
     }, {
@@ -20908,16 +21112,17 @@ const games = ({
     }, {
         id: 519591,
         "cover_color": "#140c1c",
-        url: "https://borbware.itch.io/emuurom",
+        cover: "https://img.itch.zone/aW1nLzM2MTM1MjcuZ2lm/300x240%23cm/kBVpa1.gif",
+        classification: "game",
         user: {
             url: "https://borbware.itch.io",
             name: "borbware",
             id: 355763
         },
-        cover: "https://img.itch.zone/aW1nLzM2MTM1MjcuZ2lm/300x240%23cm/kBVpa1.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://borbware.itch.io/emuurom",
+        "gif_cover": "https://img.itch.zone/aW1nLzM2MTM1MjcuZ2lm/original/pwT0FW.gif",
         "short_text": "Befriend creatures in a lost ecosystem",
         title: "EMUUROM",
         bundles: ["520", "902"]
@@ -21184,16 +21389,17 @@ const games = ({
     }, {
         id: 517235,
         "cover_color": "#3f0707",
-        url: "https://akselmo.itch.io/penance",
+        cover: "https://img.itch.zone/aW1nLzI2ODYxNjUuZ2lm/300x240%23cm/4MtGZF.gif",
+        classification: "game",
         user: {
             url: "https://akselmo.itch.io",
             name: "Akselmo / Skale Games",
             id: 228848
         },
-        cover: "https://img.itch.zone/aW1nLzI2ODYxNjUuZ2lm/300x240%23cm/4MtGZF.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://akselmo.itch.io/penance",
+        "gif_cover": "https://img.itch.zone/aW1nLzI2ODYxNjUuZ2lm/original/QmrPtZ.gif",
         "short_text": "Destroy sin, earn your Peace. Oldschool FPS with procedural levels and a campaign mode",
         title: "Penance",
         bundles: ["520"]
@@ -21228,17 +21434,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 570980,
-        platforms: ["windows", "osx", "linux"],
-        title: "DROID7",
+        cover: "https://img.itch.zone/aW1nLzQ0MDMxOTQuZ2lm/300x240%23cm/bG3Pcy.gif",
         user: {
             url: "https://juancolacelli.itch.io",
             name: "Juan Colacelli",
             id: 1656620
         },
-        url: "https://juancolacelli.itch.io/droid7",
-        cover: "https://img.itch.zone/aW1nLzQ0MDMxOTQuZ2lm/300x240%23cm/bG3Pcy.gif",
-        "cover_color": "#16171a",
         classification: "game",
+        title: "DROID7",
+        "cover_color": "#16171a",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://juancolacelli.itch.io/droid7",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ0MDMxOTQuZ2lm/original/JTBY83.gif",
         "short_text": "Escape or die, it's your choice",
         bundles: ["520"]
     }, {
@@ -21594,16 +21801,17 @@ const games = ({
     }, {
         id: 419614,
         "cover_color": "#e7d397",
-        url: "https://zwizausch.itch.io/clash-of-coins",
+        cover: "https://img.itch.zone/aW1nLzIwOTczNDkuZ2lm/300x240%23cm/61lnyP.gif",
+        classification: "game",
         user: {
             url: "https://zwizausch.itch.io",
             name: "Zwi Zausch",
             id: 1610256
         },
-        cover: "https://img.itch.zone/aW1nLzIwOTczNDkuZ2lm/300x240%23cm/61lnyP.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://zwizausch.itch.io/clash-of-coins",
+        "gif_cover": "https://img.itch.zone/aW1nLzIwOTczNDkuZ2lm/original/LMBMb2.gif",
         "short_text": "Local 2 player brawler fun on a shapeshifting arena in the clouds!",
         title: "Clash of Coins",
         bundles: ["520"]
@@ -21762,32 +21970,34 @@ const games = ({
     }, {
         id: 332626,
         "cover_color": "#000000",
-        url: "https://sebastianscaini.itch.io/he-plays-the-piano",
+        cover: "https://img.itch.zone/aW1nLzE2NDY4MjUuZ2lm/300x240%23cm/3N%2BClq.gif",
+        classification: "game",
         user: {
             url: "https://sebastianscaini.itch.io",
             name: "Sebastian Scaini",
             id: 31163
         },
-        cover: "https://img.itch.zone/aW1nLzE2NDY4MjUuZ2lm/300x240%23cm/3N%2BClq.gif",
-        platforms: ["windows", "linux", "android"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "linux", "android"],
+        url: "https://sebastianscaini.itch.io/he-plays-the-piano",
+        "gif_cover": "https://img.itch.zone/aW1nLzE2NDY4MjUuZ2lm/original/7EWOoM.gif",
         "short_text": "Play the piano.",
         title: "He Plays the Piano",
         bundles: ["520"]
     }, {
         id: 647265,
-        platforms: ["windows", "osx", "linux"],
-        title: "Magic Trick",
+        cover: "https://img.itch.zone/aW1nLzM1OTUyMDAuZ2lm/300x240%23cm/RyNVlf.gif",
         user: {
             url: "https://magictrick.itch.io",
             name: "MagicTrick",
             id: 2134685
         },
-        url: "https://magictrick.itch.io/magic-trick",
-        cover: "https://img.itch.zone/aW1nLzM1OTUyMDAuZ2lm/300x240%23cm/RyNVlf.gif",
-        "cover_color": "#aa8cfd",
         classification: "game",
+        title: "Magic Trick",
+        "cover_color": "#aa8cfd",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://magictrick.itch.io/magic-trick",
+        "gif_cover": "https://img.itch.zone/aW1nLzM1OTUyMDAuZ2lm/original/UmUorb.gif",
         "short_text": "magical skating game about community!",
         bundles: ["520", "902"]
     }, {
@@ -21943,16 +22153,17 @@ const games = ({
     }, {
         id: 348095,
         "cover_color": "#161616",
-        url: "https://dirigogames.itch.io/syscrusher",
+        cover: "https://img.itch.zone/aW1nLzE3NDU0MjkuZ2lm/300x240%23cm/qZCkZY.gif",
+        classification: "game",
         user: {
             url: "https://dirigogames.itch.io",
             name: "DirigoGames",
             id: 103117
         },
-        cover: "https://img.itch.zone/aW1nLzE3NDU0MjkuZ2lm/300x240%23cm/qZCkZY.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://dirigogames.itch.io/syscrusher",
+        "gif_cover": "https://img.itch.zone/aW1nLzE3NDU0MjkuZ2lm/original/KnHfvk.gif",
         "short_text": "Sci-fi first person shooter.  The system is corrupt, a human touch is needed",
         title: "SYSCRUSHER",
         bundles: ["520"]
@@ -21984,17 +22195,18 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 350317,
-        platforms: ["windows"],
-        title: "Served",
+        cover: "https://img.itch.zone/aW1nLzE3NDQxNzkuZ2lm/300x240%23cm/7keteH.gif",
         user: {
             url: "https://tippedchair.itch.io",
             name: "tippedchair",
             id: 732527
         },
-        url: "https://tippedchair.itch.io/served",
-        cover: "https://img.itch.zone/aW1nLzE3NDQxNzkuZ2lm/300x240%23cm/7keteH.gif",
-        "cover_color": "#eeeeee",
         classification: "game",
+        title: "Served",
+        "cover_color": "#eeeeee",
+        platforms: ["windows"],
+        url: "https://tippedchair.itch.io/served",
+        "gif_cover": "https://img.itch.zone/aW1nLzE3NDQxNzkuZ2lm/original/Y5NWX1.gif",
         "short_text": "Food Dunking Game for Windows",
         bundles: ["520"]
     }, {
@@ -22103,17 +22315,18 @@ const games = ({
     }, {
         id: 658190,
         "cover_color": "#00555a",
+        title: "Zoom Scouts",
         user: {
             url: "https://glaiveguisarme.itch.io",
             name: "Glaive Guisarme Games",
             id: 1546588
         },
-        url: "https://glaiveguisarme.itch.io/zoom-scouts",
+        classification: "physical_game",
         cover: "https://img.itch.zone/aW1nLzM1Mzk1NjAuZ2lm/300x240%23cmb/bohPW%2B.gif",
         flag: "free",
-        classification: "physical_game",
+        "gif_cover": "https://img.itch.zone/aW1nLzM1Mzk1NjAuZ2lm/original/BmXOz6.gif",
         "short_text": "A game about what I think Power Rangers was probably like.",
-        title: "Zoom Scouts",
+        url: "https://glaiveguisarme.itch.io/zoom-scouts",
         bundles: ["520"]
     }, {
         id: 658237,
@@ -22253,16 +22466,17 @@ const games = ({
     }, {
         id: 361033,
         "cover_color": "#2d1fd7",
-        url: "https://alchiggins.itch.io/danger-zone-friends",
+        cover: "https://img.itch.zone/aW1nLzE4MDUzMzUuZ2lm/300x240%23cm/SwgpqE.gif",
+        classification: "game",
         user: {
             url: "https://alchiggins.itch.io",
             name: "Alexandra Higgins",
             id: 30121
         },
-        cover: "https://img.itch.zone/aW1nLzE4MDUzMzUuZ2lm/300x240%23cm/SwgpqE.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://alchiggins.itch.io/danger-zone-friends",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4MDUzMzUuZ2lm/original/B2xhyp.gif",
         "short_text": "Grocery Run JRPG",
         title: "Danger Zone Friends",
         bundles: ["520"]
@@ -22555,17 +22769,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 606747,
-        platforms: ["windows", "linux"],
-        title: "Meditation 5",
+        cover: "https://img.itch.zone/aW1nLzQ3MTA4OTMuZ2lm/300x240%23cm/7e%2B5iH.gif",
         user: {
             url: "https://thunderperfectwitchcraft.itch.io",
             name: "Thunder Perfect Witchcraft",
             id: 2287261
         },
-        url: "https://thunderperfectwitchcraft.itch.io/meditation-5",
-        cover: "https://img.itch.zone/aW1nLzQ3MTA4OTMuZ2lm/300x240%23cm/7e%2B5iH.gif",
-        "cover_color": "#ffffff",
         classification: "game",
+        title: "Meditation 5",
+        "cover_color": "#ffffff",
+        platforms: ["windows", "linux"],
+        url: "https://thunderperfectwitchcraft.itch.io/meditation-5",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ3MTA4OTMuZ2lm/original/5Xg5qK.gif",
         "short_text": "a game about balance, concentration and strategy with abstract graphics",
         bundles: ["520", "902"]
     }, {
@@ -22718,16 +22933,17 @@ const games = ({
     }, {
         id: 272816,
         "cover_color": "#9df5fb",
-        url: "https://alexgarbus.itch.io/flewberry",
+        cover: "https://img.itch.zone/aW1hZ2UvMjcyODE2LzEzNzU5MzIuZ2lm/300x240%23cm/K40PoU.gif",
+        classification: "game",
         user: {
             url: "https://alexgarbus.itch.io",
             name: "Alex Garbus",
             id: 751739
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjcyODE2LzEzNzU5MzIuZ2lm/300x240%23cm/K40PoU.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://alexgarbus.itch.io/flewberry",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjcyODE2LzEzNzU5MzIuZ2lm/original/9ufWNn.gif",
         "short_text": "Adopt a Birb and help it reach new heights!",
         title: "Flewberry",
         bundles: ["520", "902"]
@@ -22855,16 +23071,17 @@ const games = ({
     }, {
         id: 55718,
         "cover_color": "#000000",
-        url: "https://sophieh.itch.io/dusk-child",
+        cover: "https://img.itch.zone/aW1hZ2UvNTU3MTgvMjQ5NTgzLmdpZg==/300x240%23cm/JmBnze.gif",
+        classification: "game",
         user: {
             url: "https://sophieh.itch.io",
             name: "Sophie Houlden",
             id: 143
         },
-        cover: "https://img.itch.zone/aW1hZ2UvNTU3MTgvMjQ5NTgzLmdpZg==/300x240%23cm/JmBnze.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://sophieh.itch.io/dusk-child",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTU3MTgvMjQ5NTgzLmdpZg==/original/SYfnn7.gif",
         "short_text": "You have been drawn to a mysterious place, what secrets does it hold?",
         title: "Dusk Child",
         bundles: ["520"]
@@ -22919,16 +23136,17 @@ const games = ({
     }, {
         id: 297835,
         "cover_color": "#198ca1",
-        url: "https://thatguynm.itch.io/im-bored-lets-explore-ruins",
+        cover: "https://img.itch.zone/aW1hZ2UvMjk3ODM1LzE0NTU3MDcuZ2lm/300x240%23cm/xkr7vx.gif",
+        classification: "game",
         user: {
             url: "https://thatguynm.itch.io",
             name: "thatguynm",
             id: 29823
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjk3ODM1LzE0NTU3MDcuZ2lm/300x240%23cm/xkr7vx.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://thatguynm.itch.io/im-bored-lets-explore-ruins",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjk3ODM1LzE0NTU3MDcuZ2lm/original/EtNxBl.gif",
         "short_text": "A short game about hanging out and wandering around an ancient building.",
         title: "I'm Bored, Let's Explore (Ruins)",
         bundles: ["520"]
@@ -23040,32 +23258,34 @@ const games = ({
     }, {
         id: 44905,
         "cover_color": "#7dfdf8",
-        url: "https://ludonaut.itch.io/borb-the-birb",
+        cover: "https://img.itch.zone/aW1hZ2UvNDQ5MDUvMjEwMTAyLmdpZg==/300x240%23cm/XGwYML.gif",
+        classification: "game",
         user: {
             url: "https://ludonaut.itch.io",
             name: "Ludonaut",
             id: 2720
         },
-        cover: "https://img.itch.zone/aW1hZ2UvNDQ5MDUvMjEwMTAyLmdpZg==/300x240%23cm/XGwYML.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://ludonaut.itch.io/borb-the-birb",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNDQ5MDUvMjEwMTAyLmdpZg==/original/Y6w6%2BO.gif",
         "short_text": "borb loves u",
         title: "Borb the Birb",
         bundles: ["520", "902"]
     }, {
         id: 302002,
-        platforms: ["windows", "osx", "linux", "android"],
-        title: "Mole",
+        cover: "https://img.itch.zone/aW1nLzE1OTE5ODIuZ2lm/300x240%23cm/mzk79G.gif",
         user: {
             url: "https://badjano.itch.io",
             name: "Badjano Entertainment",
             id: 1084801
         },
-        url: "https://badjano.itch.io/mole",
-        cover: "https://img.itch.zone/aW1nLzE1OTE5ODIuZ2lm/300x240%23cm/mzk79G.gif",
-        "cover_color": "#5da2ff",
         classification: "game",
+        title: "Mole",
+        "cover_color": "#5da2ff",
+        platforms: ["windows", "osx", "linux", "android"],
+        url: "https://badjano.itch.io/mole",
+        "gif_cover": "https://img.itch.zone/aW1nLzE1OTE5ODIuZ2lm/original/blTfIr.gif",
         "short_text": "Whack a mole!",
         bundles: ["520"]
     }, {
@@ -23087,16 +23307,17 @@ const games = ({
     }, {
         id: 438373,
         "cover_color": "#999a83",
-        url: "https://nylepudding.itch.io/tv-guide",
+        cover: "https://img.itch.zone/aW1nLzIyMTg0MjkuZ2lm/300x240%23cm/FxtVx9.gif",
+        classification: "game",
         user: {
             url: "https://nylepudding.itch.io",
             name: "Llewelyn 'NylePudding' Griffiths",
             id: 2335
         },
-        cover: "https://img.itch.zone/aW1nLzIyMTg0MjkuZ2lm/300x240%23cm/FxtVx9.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://nylepudding.itch.io/tv-guide",
+        "gif_cover": "https://img.itch.zone/aW1nLzIyMTg0MjkuZ2lm/original/9iqzZG.gif",
         "short_text": "You'll never watch boring TV again",
         title: "TV Guide",
         bundles: ["520"]
@@ -23406,16 +23627,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 66185,
-        title: "Dual Pong",
         cover: "https://img.itch.zone/aW1nLzMzNjE2NzIuZ2lm/300x240%23cm/v6b0Pt.gif",
-        platforms: ["windows"],
-        url: "https://randomess-dj-p.itch.io/dual-pong",
-        classification: "game",
         user: {
             url: "https://randomess-dj-p.itch.io",
             name: "randomess_dj_p",
             id: 161375
         },
+        "gif_cover": "https://img.itch.zone/aW1nLzMzNjE2NzIuZ2lm/original/hl9g0p.gif",
+        platforms: ["windows"],
+        url: "https://randomess-dj-p.itch.io/dual-pong",
+        classification: "game",
+        title: "Dual Pong",
         bundles: ["520"]
     }, {
         id: 611475,
@@ -23451,17 +23673,18 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 453495,
-        platforms: ["windows", "osx"],
-        title: "The Political Compass: Devil's Labyrinth",
+        cover: "https://img.itch.zone/aW1nLzIyOTk1OTguZ2lm/300x240%23cm/AWo%2BYF.gif",
         user: {
             url: "https://majestic12.itch.io",
             name: "majestic12",
             id: 1722577
         },
-        url: "https://majestic12.itch.io/the-political-compass-deaths-labyrinth",
-        cover: "https://img.itch.zone/aW1nLzIyOTk1OTguZ2lm/300x240%23cm/AWo%2BYF.gif",
-        "cover_color": "#fd6716",
         classification: "game",
+        title: "The Political Compass: Devil's Labyrinth",
+        "cover_color": "#fd6716",
+        platforms: ["windows", "osx"],
+        url: "https://majestic12.itch.io/the-political-compass-deaths-labyrinth",
+        "gif_cover": "https://img.itch.zone/aW1nLzIyOTk1OTguZ2lm/original/FeUqgZ.gif",
         "short_text": "See where you fall on the political compass spectrums",
         bundles: ["520"]
     }, {
@@ -23512,31 +23735,33 @@ const games = ({
     }, {
         id: 173375,
         title: "no secrets",
+        cover: "https://img.itch.zone/aW1hZ2UvMTczMzc1LzgwNzk0OC5naWY=/300x240%23cm/ctY1tJ.gif",
         user: {
             url: "https://quasiotter.itch.io",
             name: "quasiotter",
             id: 101889
         },
-        url: "https://quasiotter.itch.io/no-secrets",
-        cover: "https://img.itch.zone/aW1hZ2UvMTczMzc1LzgwNzk0OC5naWY=/300x240%23cm/ctY1tJ.gif",
-        flag: "web",
         classification: "game",
-        "short_text": "internal dialogue on 4 sept 2017",
         platforms: ["web"],
+        flag: "web",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTczMzc1LzgwNzk0OC5naWY=/original/z%2FthCa.gif",
+        "short_text": "internal dialogue on 4 sept 2017",
+        url: "https://quasiotter.itch.io/no-secrets",
         bundles: ["520"]
     }, {
         id: 48038,
         "cover_color": "#000033",
-        url: "https://princemarioone.itch.io/thesparkofone",
+        cover: "https://img.itch.zone/aW1hZ2UvNDgwMzgvMjIzODU5LmdpZg==/300x240%23cm/T6eGBS.gif",
+        classification: "game",
         user: {
             url: "https://princemarioone.itch.io",
             name: "Princemarioone",
             id: 48736
         },
-        cover: "https://img.itch.zone/aW1hZ2UvNDgwMzgvMjIzODU5LmdpZg==/300x240%23cm/T6eGBS.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://princemarioone.itch.io/thesparkofone",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNDgwMzgvMjIzODU5LmdpZg==/original/mDrlqd.gif",
         "short_text": "A game for Dr. Martin Luther King Jr.",
         title: "The Spark of One",
         bundles: ["520"]
@@ -23750,16 +23975,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 508,
-        "cover_color": "#eeeeee",
+        url: "https://spookycat.itch.io/snake-blocks",
         user: {
             url: "https://spookycat.itch.io",
             name: "Spooky Cat",
             id: 795
         },
         title: "Snake Blocks",
-        cover: "https://img.itch.zone/aW1hZ2UvNTA4LzI0MzYuZ2lm/300x240%23cm/9tBbGA.gif",
-        url: "https://spookycat.itch.io/snake-blocks",
         classification: "game",
+        cover: "https://img.itch.zone/aW1hZ2UvNTA4LzI0MzYuZ2lm/300x240%23cm/9tBbGA.gif",
+        "cover_color": "#eeeeee",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNTA4LzI0MzYuZ2lm/original/SiMJ3n.gif",
         "short_text": "A 3D puzzle game about snakes!",
         bundles: ["520"]
     }, {
@@ -23922,18 +24148,19 @@ const games = ({
         bundles: ["520", "902"]
     }, {
         id: 19632,
-        "cover_color": "#0d1017",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk2MzIvNzYxNjMuZ2lm/original/Qr33dv.gif",
+        url: "https://catoverlord.itch.io/eizoku",
         user: {
             url: "https://catoverlord.itch.io",
             name: "catoverlord",
             id: 41870
         },
-        url: "https://catoverlord.itch.io/eizoku",
         cover: "https://img.itch.zone/aW1hZ2UvMTk2MzIvNzYxNjMuZ2lm/300x240%23cm/9UtH%2BW.gif",
+        platforms: ["windows"],
         flag: "free",
         classification: "game",
+        "cover_color": "#0d1017",
         title: "Eizoku",
-        platforms: ["windows"],
         bundles: ["520"]
     }, {
         id: 643262,
@@ -24510,16 +24737,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 262401,
-        cover: "https://img.itch.zone/aW1hZ2UvMjYyNDAxLzEyNjE2OTMuZ2lm/300x240%23cm/215xI2.gif",
+        platforms: ["windows"],
         user: {
             url: "https://maddestudios.itch.io",
             name: "mMcFab",
             id: 30993
         },
         title: "mMcFabs's Texture to SkyBox Converter",
-        platforms: ["windows"],
-        url: "https://maddestudios.itch.io/mms-skybox-generator",
         classification: "tool",
+        cover: "https://img.itch.zone/aW1hZ2UvMjYyNDAxLzEyNjE2OTMuZ2lm/300x240%23cm/215xI2.gif",
+        url: "https://maddestudios.itch.io/mms-skybox-generator",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjYyNDAxLzEyNjE2OTMuZ2lm/original/6yWgWI.gif",
         "short_text": "Convert flat horizontal tiling textures to convincing skyboxes with relative ease!",
         bundles: ["520"]
     }, {
@@ -24665,18 +24893,19 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 218604,
-        "cover_color": "#040604",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjE4NjA0LzEwMzUwNTkuZ2lm/original/rxPPNR.gif",
+        url: "https://alexkalopsia.itch.io/1977-radio-aut",
         user: {
             url: "https://alexkalopsia.itch.io",
             name: "Alex Camilleri",
             id: 673
         },
-        url: "https://alexkalopsia.itch.io/1977-radio-aut",
         cover: "https://img.itch.zone/aW1hZ2UvMjE4NjA0LzEwMzUwNTkuZ2lm/300x240%23cm/NHB8F9.gif",
+        platforms: ["web"],
         flag: "web",
         classification: "game",
+        "cover_color": "#040604",
         title: "1977: Radio Aut",
-        platforms: ["web"],
         bundles: ["520"]
     }, {
         id: 606632,
@@ -24765,16 +24994,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 522775,
-        "cover_color": "#141414",
+        url: "https://shapeforms.itch.io/cassette",
         user: {
             url: "https://shapeforms.itch.io",
             name: "Shapeforms",
             id: 1601734
         },
         title: "Cassette",
-        cover: "https://img.itch.zone/aW1nLzI3NDEzMTYuZ2lm/300x240%23cm/1SgHui.gif",
-        url: "https://shapeforms.itch.io/cassette",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzI3NDEzMTYuZ2lm/300x240%23cm/1SgHui.gif",
+        "cover_color": "#141414",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3NDEzMTYuZ2lm/original/uRx%2But.gif",
         "short_text": "Play. Pause. Rewind. A library of tape sounds.",
         bundles: ["520"]
     }, {
@@ -25254,16 +25484,17 @@ const games = ({
     }, {
         id: 392429,
         "cover_color": "#ffffff",
-        url: "https://dicey.itch.io/mr-mayor",
+        cover: "https://img.itch.zone/aW1nLzE5NDM0MjUuZ2lm/300x240%23cm/5UFPLl.gif",
+        classification: "game",
         user: {
             url: "https://dicey.itch.io",
             name: "dicey",
             id: 45369
         },
-        cover: "https://img.itch.zone/aW1nLzE5NDM0MjUuZ2lm/300x240%23cm/5UFPLl.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://dicey.itch.io/mr-mayor",
+        "gif_cover": "https://img.itch.zone/aW1nLzE5NDM0MjUuZ2lm/original/PL0ybP.gif",
         "short_text": "have a nice time with Mr Mayor",
         title: "mr mayor tells your fortune recounts a story and offers you snacks",
         bundles: ["520"]
@@ -25326,16 +25557,17 @@ const games = ({
         bundles: ["520"]
     }, {
         id: 667367,
-        "cover_color": "#000000",
+        url: "https://ledoux.itch.io/forest-zone-bitsy-tile-pack",
         user: {
             url: "https://ledoux.itch.io",
             name: "Adam Le Doux",
             id: 56078
         },
         title: "forest zone bitsy tile pack",
-        cover: "https://img.itch.zone/aW1nLzM2MTM0OTQuZ2lm/300x240%23cm/UZtRnK.gif",
-        url: "https://ledoux.itch.io/forest-zone-bitsy-tile-pack",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzM2MTM0OTQuZ2lm/300x240%23cm/UZtRnK.gif",
+        "cover_color": "#000000",
+        "gif_cover": "https://img.itch.zone/aW1nLzM2MTM0OTQuZ2lm/original/NswtTg.gif",
         "short_text": "make your own forest zone!",
         bundles: ["520"]
     }, {
@@ -25357,7 +25589,7 @@ const games = ({
         title: "Did I Fall Asleep?",
         user: {
             url: "https://memethief.itch.io",
-            name: "Robin Leaman",
+            name: "Dana Leaman",
             id: 1461011
         },
         cover: "https://img.itch.zone/aW1nLzM2MTU0NTYuanBn/300x240%23cb/ju%2Fk5q.jpg",
@@ -25673,16 +25905,17 @@ const games = ({
     }, {
         id: 940033,
         "cover_color": "#116162",
-        url: "https://linhtropy.itch.io/con-rong-chau-tien-seafolk-bitsy-jam",
+        cover: "https://img.itch.zone/aW1nLzUzMjU2MjkuZ2lm/300x240%23cm/zZQzFN.gif",
+        classification: "game",
         user: {
             url: "https://linhtropy.itch.io",
             name: "linhtropy",
             id: 1368410
         },
-        cover: "https://img.itch.zone/aW1nLzUzMjU2MjkuZ2lm/300x240%23cm/zZQzFN.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://linhtropy.itch.io/con-rong-chau-tien-seafolk-bitsy-jam",
+        "gif_cover": "https://img.itch.zone/aW1nLzUzMjU2MjkuZ2lm/original/w2UB0o.gif",
         "short_text": "Loose bitsy retelling of the Vietnamese origin myth",
         title: "Con Rồng Cháu Tiên",
         bundles: ["902"]
@@ -25806,17 +26039,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 668187,
-        platforms: ["windows", "osx", "linux"],
-        title: "Textreme 2",
+        cover: "https://img.itch.zone/aW1nLzM5MTg2ODUuZ2lm/300x240%23cm/%2BLT7H1.gif",
         user: {
             url: "https://ash-k.itch.io",
             name: "Ash K",
             id: 929170
         },
-        url: "https://ash-k.itch.io/textreme-2",
-        cover: "https://img.itch.zone/aW1nLzM5MTg2ODUuZ2lm/300x240%23cm/%2BLT7H1.gif",
-        "cover_color": "#FFCBB5",
         classification: "tool",
+        title: "Textreme 2",
+        "cover_color": "#FFCBB5",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://ash-k.itch.io/textreme-2",
+        "gif_cover": "https://img.itch.zone/aW1nLzM5MTg2ODUuZ2lm/original/kawP%2F5.gif",
         "short_text": "a text editor that looks and feels like a game",
         bundles: ["902"]
     }, {
@@ -25895,16 +26129,17 @@ const games = ({
     }, {
         id: 117114,
         "cover_color": "#eeeeee",
-        url: "https://fauwf.itch.io/running-askew-vn",
+        cover: "https://img.itch.zone/aW1hZ2UvMTE3MTE0LzU0MTMxOS5naWY=/300x240%23cm/zx%2F7ll.gif",
+        classification: "game",
         user: {
             url: "https://fauwf.itch.io",
             name: "Kay H",
             id: 224579
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMTE3MTE0LzU0MTMxOS5naWY=/300x240%23cm/zx%2F7ll.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://fauwf.itch.io/running-askew-vn",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTE3MTE0LzU0MTMxOS5naWY=/original/93Khkn.gif",
         "short_text": "You’re late! Embark on a quick journey across town while soaking in some ASCII visuals.",
         title: "Running Askew",
         bundles: ["902"]
@@ -26038,16 +26273,17 @@ const games = ({
     }, {
         id: 608573,
         "cover_color": "#000000",
-        url: "https://iwilliams.itch.io/releveler",
+        cover: "https://img.itch.zone/aW1nLzMyNzQ4NzIuZ2lm/300x240%23cm/sC%2BB3A.gif",
+        classification: "game",
         user: {
             url: "https://iwilliams.itch.io",
             name: "iwilliams",
             id: 1897628
         },
-        cover: "https://img.itch.zone/aW1nLzMyNzQ4NzIuZ2lm/300x240%23cm/sC%2BB3A.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://iwilliams.itch.io/releveler",
+        "gif_cover": "https://img.itch.zone/aW1nLzMyNzQ4NzIuZ2lm/original/5LevjI.gif",
         "short_text": "24 Levels of hardcore platforming. Controller recommended.",
         title: "​RELEVƎ⅃ƎЯ",
         bundles: ["902"]
@@ -26245,17 +26481,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 23145,
-        platforms: ["windows"],
-        title: "Solar Danmaku",
+        cover: "https://img.itch.zone/aW1hZ2UvMjMxNDUvOTE4NjkuZ2lm/300x240%23cm/%2FD3bnm.gif",
         user: {
             url: "https://brokenbunnystudios.itch.io",
             name: "BrokenBunnyStudios",
             id: 48879
         },
-        url: "https://brokenbunnystudios.itch.io/solar-danmaku",
-        cover: "https://img.itch.zone/aW1hZ2UvMjMxNDUvOTE4NjkuZ2lm/300x240%23cm/%2FD3bnm.gif",
-        "cover_color": "#0b0a0a",
         classification: "game",
+        title: "Solar Danmaku",
+        "cover_color": "#0b0a0a",
+        platforms: ["windows"],
+        url: "https://brokenbunnystudios.itch.io/solar-danmaku",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjMxNDUvOTE4NjkuZ2lm/original/qUx9bA.gif",
         "short_text": "A beautiful danmaku or bullet hell",
         bundles: ["902"]
     }, {
@@ -26460,16 +26697,17 @@ const games = ({
     }, {
         id: 910309,
         "cover_color": "#222222",
-        url: "https://gingercakegames.itch.io/wander-the-cosmos",
+        cover: "https://img.itch.zone/aW1nLzUxNDQ2ODkuZ2lm/300x240%23cm/oX887a.gif",
+        classification: "game",
         user: {
             url: "https://gingercakegames.itch.io",
             name: "GingerCake Games",
             id: 3703013
         },
-        cover: "https://img.itch.zone/aW1nLzUxNDQ2ODkuZ2lm/300x240%23cm/oX887a.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://gingercakegames.itch.io/wander-the-cosmos",
+        "gif_cover": "https://img.itch.zone/aW1nLzUxNDQ2ODkuZ2lm/original/xzO9Zg.gif",
         "short_text": "You are on an observation mission to wander the cosmos, gathering data on all celestial objects you come across.",
         title: "Wander the Cosmos",
         bundles: ["902"]
@@ -26536,18 +26774,19 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 504625,
-        "cover_color": "#161616",
+        "gif_cover": "https://img.itch.zone/aW1nLzI2MTQxNTcuZ2lm/original/0fa6aT.gif",
+        url: "https://noahlseymour.itch.io/new-spirits",
         user: {
             url: "https://noahlseymour.itch.io",
             name: "NoahlSeymour",
             id: 216097
         },
-        url: "https://noahlseymour.itch.io/new-spirits",
         cover: "https://img.itch.zone/aW1nLzI2MTQxNTcuZ2lm/300x240%23cm/SE%2BjMI.gif",
+        platforms: ["windows", "osx"],
         flag: "free",
         classification: "game",
+        "cover_color": "#161616",
         title: "New Spirits",
-        platforms: ["windows", "osx"],
         bundles: ["902"]
     }, {
         id: 1059650,
@@ -26854,16 +27093,17 @@ const games = ({
     }, {
         id: 1011660,
         "cover_color": "#578670",
-        url: "https://riker.itch.io/sangwich",
+        cover: "https://img.itch.zone/aW1nLzU3Njg1OTYuZ2lm/300x240%23cm/e5Q5%2Bf.gif",
+        classification: "game",
         user: {
             url: "https://riker.itch.io",
             name: "Riker",
             id: 151058
         },
-        cover: "https://img.itch.zone/aW1nLzU3Njg1OTYuZ2lm/300x240%23cm/e5Q5%2Bf.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://riker.itch.io/sangwich",
+        "gif_cover": "https://img.itch.zone/aW1nLzU3Njg1OTYuZ2lm/original/KanCCb.gif",
         "short_text": "Make yourself a sandwich! You know you want to.",
         title: "Sangwich",
         bundles: ["902"]
@@ -27143,16 +27383,17 @@ const games = ({
     }, {
         id: 1008318,
         "cover_color": "#BF4EFF",
-        url: "https://whalesandgames.itch.io/vast-trivia",
+        cover: "https://img.itch.zone/aW1nLzU4MjA5NDUuZ2lm/300x240%23cm/62XYXd.gif",
+        classification: "game",
         user: {
             url: "https://whalesandgames.itch.io",
             name: "Whales And Games",
             id: 101429
         },
-        cover: "https://img.itch.zone/aW1nLzU4MjA5NDUuZ2lm/300x240%23cm/62XYXd.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://whalesandgames.itch.io/vast-trivia",
+        "gif_cover": "https://img.itch.zone/aW1nLzU4MjA5NDUuZ2lm/original/4pz7ro.gif",
         "short_text": "What would an omniscient creature do with all that knowledge? Well, host a trivia game, of course!",
         title: "Vast Trivia Of The Void",
         bundles: ["902"]
@@ -27308,16 +27549,17 @@ const games = ({
     }, {
         id: 918604,
         "cover_color": "#301967",
-        url: "https://shallow-lagoon.itch.io/letters-long-lost",
+        cover: "https://img.itch.zone/aW1nLzUxOTM3NDUuZ2lm/300x240%23cm/eIMHjj.gif",
+        classification: "game",
         user: {
             url: "https://shallow-lagoon.itch.io",
             name: "Shallow Lagoon",
             id: 97117
         },
-        cover: "https://img.itch.zone/aW1nLzUxOTM3NDUuZ2lm/300x240%23cm/eIMHjj.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://shallow-lagoon.itch.io/letters-long-lost",
+        "gif_cover": "https://img.itch.zone/aW1nLzUxOTM3NDUuZ2lm/original/XlMqGS.gif",
         "short_text": "Mail Tampering Existential Horror",
         title: "Letters Long Lost",
         bundles: ["902"]
@@ -27556,17 +27798,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 121614,
-        platforms: ["windows", "osx", "linux"],
-        title: "Cosmic Express",
+        cover: "https://img.itch.zone/aW1hZ2UvMTIxNjE0LzcwMjQ3NS5naWY=/300x240%23cm/Z5KraS.gif",
         user: {
             url: "https://draknek.itch.io",
             name: "Draknek & Friends",
             id: 1744
         },
-        url: "https://draknek.itch.io/cosmic-express",
-        cover: "https://img.itch.zone/aW1hZ2UvMTIxNjE0LzcwMjQ3NS5naWY=/300x240%23cm/Z5KraS.gif",
-        "cover_color": "#161B34",
         classification: "game",
+        title: "Cosmic Express",
+        "cover_color": "#161B34",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://draknek.itch.io/cosmic-express",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTIxNjE0LzcwMjQ3NS5naWY=/original/Dh7tYb.gif",
         "short_text": "A puzzle game about planning the train route for the world's most awkward space colony",
         bundles: ["902"]
     }, {
@@ -27601,17 +27844,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 225997,
-        platforms: ["windows", "osx", "linux"],
-        title: "Dépanneur Nocturne",
+        cover: "https://img.itch.zone/aW1nLzM0MDY3MjEuZ2lm/300x240%23cm/91R55j.gif",
         user: {
             url: "https://ko-op.itch.io",
             name: "KO_OP",
             id: 1280
         },
-        url: "https://ko-op.itch.io/dep-nocturne",
-        cover: "https://img.itch.zone/aW1nLzM0MDY3MjEuZ2lm/300x240%23cm/91R55j.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Dépanneur Nocturne",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://ko-op.itch.io/dep-nocturne",
+        "gif_cover": "https://img.itch.zone/aW1nLzM0MDY3MjEuZ2lm/original/xVNZLk.gif",
         "short_text": "◇ a late-night shopping adventure ◇",
         bundles: ["902"]
     }, {
@@ -27809,16 +28053,17 @@ const games = ({
     }, {
         id: 758451,
         "cover_color": "#281414",
-        url: "https://immaturetony.itch.io/cairn",
+        cover: "https://img.itch.zone/aW1nLzQyNDQ2NTcuZ2lm/300x240%23cm/Iwjkfc.gif",
+        classification: "game",
         user: {
             url: "https://immaturetony.itch.io",
             name: "ImMatureTony",
             id: 2552
         },
-        cover: "https://img.itch.zone/aW1nLzQyNDQ2NTcuZ2lm/300x240%23cm/Iwjkfc.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://immaturetony.itch.io/cairn",
+        "gif_cover": "https://img.itch.zone/aW1nLzQyNDQ2NTcuZ2lm/original/eXNpc3.gif",
         "short_text": "~ a ritual ~",
         title: "Cairn",
         bundles: ["902"]
@@ -27840,32 +28085,34 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 606236,
-        platforms: ["windows", "osx", "linux"],
-        title: "Code Dungeon",
+        cover: "https://img.itch.zone/aW1nLzQyMDgyMzEuZ2lm/300x240%23cm/oUfUVx.gif",
         user: {
             url: "https://stealcase.itch.io",
             name: "Stealcase",
             id: 1018586
         },
-        url: "https://stealcase.itch.io/codedungeon",
-        cover: "https://img.itch.zone/aW1nLzQyMDgyMzEuZ2lm/300x240%23cm/oUfUVx.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Code Dungeon",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://stealcase.itch.io/codedungeon",
+        "gif_cover": "https://img.itch.zone/aW1nLzQyMDgyMzEuZ2lm/original/DIgMSh.gif",
         "short_text": "Fight your way through an audibly immersive dungeon. Blind Accessible.",
         bundles: ["902"]
     }, {
         id: 778569,
         "cover_color": "#39b3cc",
-        url: "https://triger-mountain.itch.io/knights-of-the-round-torus",
+        cover: "https://img.itch.zone/aW1nLzQzNTUyMTAuZ2lm/300x240%23cm/KMFNaR.gif",
+        classification: "game",
         user: {
             url: "https://triger-mountain.itch.io",
             name: "Triger Mountain",
             id: 140430
         },
-        cover: "https://img.itch.zone/aW1nLzQzNTUyMTAuZ2lm/300x240%23cm/KMFNaR.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://triger-mountain.itch.io/knights-of-the-round-torus",
+        "gif_cover": "https://img.itch.zone/aW1nLzQzNTUyMTAuZ2lm/original/PoH%2B8M.gif",
         "short_text": "Meteor launching team building arcade action!",
         title: "Knights of the Round Torus",
         bundles: ["902"]
@@ -27963,18 +28210,19 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 910821,
-        "cover_color": "#43523d",
+        "gif_cover": "https://img.itch.zone/aW1nLzUxNDc5NTMuZ2lm/original/I3Jg6Q.gif",
+        url: "https://eyes8.itch.io/nokia-world",
         user: {
             url: "https://eyes8.itch.io",
             name: "Eyes 8",
             id: 2060964
         },
-        url: "https://eyes8.itch.io/nokia-world",
         cover: "https://img.itch.zone/aW1nLzUxNDc5NTMuZ2lm/300x240%23cm/BmSlP8.gif",
+        platforms: ["windows", "osx"],
         flag: "free",
         classification: "game",
+        "cover_color": "#43523d",
         title: "Nokia World",
-        platforms: ["windows", "osx"],
         bundles: ["902"]
     }, {
         id: 1039647,
@@ -28037,48 +28285,51 @@ const games = ({
     }, {
         id: 1052021,
         "cover_color": "#737373",
-        url: "https://nonsensearts.itch.io/walkerwall",
+        cover: "https://img.itch.zone/aW1nLzYwNDE3MTYuZ2lm/300x240%23cm/1KLh8j.gif",
+        classification: "game",
         user: {
             url: "https://nonsensearts.itch.io",
             name: "Nonsense Arts",
             id: 1465433
         },
-        cover: "https://img.itch.zone/aW1nLzYwNDE3MTYuZ2lm/300x240%23cm/1KLh8j.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://nonsensearts.itch.io/walkerwall",
+        "gif_cover": "https://img.itch.zone/aW1nLzYwNDE3MTYuZ2lm/original/A25a47.gif",
         "short_text": "mini-exploration-puzzle-platformer",
         title: "Walkerwall",
         bundles: ["902"]
     }, {
         id: 752116,
         "cover_color": "#aaaaaa",
-        url: "https://dim3.itch.io/pixels-out-of-space",
+        cover: "https://img.itch.zone/aW1nLzQ1OTQ0OTQuZ2lm/300x240%23cm/HnIwk4.gif",
+        classification: "game",
         user: {
             url: "https://dim3.itch.io",
             name: "dim3",
             id: 1016903
         },
-        cover: "https://img.itch.zone/aW1nLzQ1OTQ0OTQuZ2lm/300x240%23cm/HnIwk4.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://dim3.itch.io/pixels-out-of-space",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ1OTQ0OTQuZ2lm/original/nWY7uV.gif",
         "short_text": "A 2D action/platformer game inspired by the short novel and movie 'Color Out of Space'",
         title: "Pixels Out of Space",
         bundles: ["902"]
     }, {
         id: 1020983,
         "cover_color": "#212123",
-        url: "https://henriforshort.itch.io/tetrible",
+        cover: "https://img.itch.zone/aW1nLzYxMDI2NDcuZ2lm/300x240%23cm/PhKRvj.gif",
+        classification: "game",
         user: {
             url: "https://henriforshort.itch.io",
             name: "henriforshort",
             id: 965201
         },
-        cover: "https://img.itch.zone/aW1nLzYxMDI2NDcuZ2lm/300x240%23cm/PhKRvj.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://henriforshort.itch.io/tetrible",
+        "gif_cover": "https://img.itch.zone/aW1nLzYxMDI2NDcuZ2lm/original/aqkkEd.gif",
         "short_text": "a terrible spin on a very good arcade puzzler",
         title: "Tetrible",
         bundles: ["902"]
@@ -28219,32 +28470,34 @@ const games = ({
     }, {
         id: 937834,
         "cover_color": "#0370d1",
-        url: "https://easy.itch.io/hungry",
+        cover: "https://img.itch.zone/aW1nLzUzMTM3MTQuZ2lm/300x240%23cm/UpS%2FMp.gif",
+        classification: "game",
         user: {
             url: "https://easy.itch.io",
             name: "Continew",
             id: 40154
         },
-        cover: "https://img.itch.zone/aW1nLzUzMTM3MTQuZ2lm/300x240%23cm/UpS%2FMp.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://easy.itch.io/hungry",
+        "gif_cover": "https://img.itch.zone/aW1nLzUzMTM3MTQuZ2lm/original/xmpIFa.gif",
         "short_text": "No time to explain l'm a hungry dolphin",
         title: "🐬​ HUNGRY - (Bitsy)",
         bundles: ["902"]
     }, {
         id: 464572,
         "cover_color": "#071821",
-        url: "https://taylormccue.itch.io/do-i-pass",
+        cover: "https://img.itch.zone/aW1nLzI1MTgwMTIuZ2lm/300x240%23cm/S7XZCg.gif",
+        classification: "game",
         user: {
             url: "https://taylormccue.itch.io",
             name: "Taylor McCue",
             id: 1750662
         },
-        cover: "https://img.itch.zone/aW1nLzI1MTgwMTIuZ2lm/300x240%23cm/S7XZCg.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://taylormccue.itch.io/do-i-pass",
+        "gif_cover": "https://img.itch.zone/aW1nLzI1MTgwMTIuZ2lm/original/xOty%2BH.gif",
         "short_text": "Do you Pass?",
         title: "Do I Pass?",
         bundles: ["902"]
@@ -28563,17 +28816,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 688535,
-        platforms: ["windows"],
-        title: "Shrinespark",
+        cover: "https://img.itch.zone/aW1nLzQ2MzU1MjcuZ2lm/300x240%23cm/4g2TbH.gif",
         user: {
             url: "https://homieboon.itch.io",
             name: "HomieBoon",
             id: 847362
         },
-        url: "https://homieboon.itch.io/shrinespark",
-        cover: "https://img.itch.zone/aW1nLzQ2MzU1MjcuZ2lm/300x240%23cm/4g2TbH.gif",
-        "cover_color": "#ffffff",
         classification: "game",
+        title: "Shrinespark",
+        "cover_color": "#ffffff",
+        platforms: ["windows"],
+        url: "https://homieboon.itch.io/shrinespark",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ2MzU1MjcuZ2lm/original/onT09l.gif",
         "short_text": "Surreal Space Station Prisonbreak RPG",
         bundles: ["902"]
     }, {
@@ -28593,18 +28847,19 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 946186,
-        "cover_color": "#2d2323",
+        "gif_cover": "https://img.itch.zone/aW1nLzUzNjM0NjIuZ2lm/original/uZ4LfJ.gif",
+        url: "https://bryanrollins.itch.io/cosmic-courier-trapped-in-limbo",
         user: {
             url: "https://bryanrollins.itch.io",
             name: "Bryanrollins",
             id: 899479
         },
-        url: "https://bryanrollins.itch.io/cosmic-courier-trapped-in-limbo",
         cover: "https://img.itch.zone/aW1nLzUzNjM0NjIuZ2lm/300x240%23cm/dSP%2Fua.gif",
+        platforms: ["web"],
         flag: "web",
         classification: "game",
+        "cover_color": "#2d2323",
         title: "Cosmic Courier: Trapped in Limbo",
-        platforms: ["web"],
         bundles: ["902"]
     }, {
         id: 720210,
@@ -28681,16 +28936,17 @@ const games = ({
     }, {
         id: 411676,
         "cover_color": "#fab2d0",
-        url: "https://thebonesbrothers.itch.io/sticky-cats",
+        cover: "https://img.itch.zone/aW1nLzIxOTA4MTUuZ2lm/300x240%23cm/wulITp.gif",
+        classification: "game",
         user: {
             url: "https://thebonesbrothers.itch.io",
             name: "The Bones Brothers",
             id: 1592336
         },
-        cover: "https://img.itch.zone/aW1nLzIxOTA4MTUuZ2lm/300x240%23cm/wulITp.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://thebonesbrothers.itch.io/sticky-cats",
+        "gif_cover": "https://img.itch.zone/aW1nLzIxOTA4MTUuZ2lm/original/u%2Bmx0O.gif",
         "short_text": "A 2-4 player competitive cat fishing game",
         title: "Sticky Cats",
         bundles: ["902"]
@@ -28757,32 +29013,34 @@ const games = ({
     }, {
         id: 305268,
         "cover_color": "#eeeeee",
-        url: "https://lowpolis.itch.io/good-morning-drifter",
+        cover: "https://img.itch.zone/aW1hZ2UvMzA1MjY4LzE1MTI5NTkuZ2lm/300x240%23cm/DTxMcw.gif",
+        classification: "game",
         user: {
             url: "https://lowpolis.itch.io",
             name: "lowpolis",
             id: 71049
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMzA1MjY4LzE1MTI5NTkuZ2lm/300x240%23cm/DTxMcw.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://lowpolis.itch.io/good-morning-drifter",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMzA1MjY4LzE1MTI5NTkuZ2lm/original/JSlpZ1.gif",
         "short_text": "the racing club meeting is about to start, so please come.",
         title: "Good Morning Drifter",
         bundles: ["902"]
     }, {
         id: 708083,
-        platforms: ["windows", "osx", "linux"],
-        title: "A Forgetful Loop",
+        cover: "https://img.itch.zone/aW1nLzQwNTcwMzYuZ2lm/300x240%23cm/VASmjr.gif",
         user: {
             url: "https://bighandinsky.itch.io",
             name: "BigHandInSky",
             id: 71799
         },
-        url: "https://bighandinsky.itch.io/forgetful-loop",
-        cover: "https://img.itch.zone/aW1nLzQwNTcwMzYuZ2lm/300x240%23cm/VASmjr.gif",
-        "cover_color": "#411506",
         classification: "game",
+        title: "A Forgetful Loop",
+        "cover_color": "#411506",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://bighandinsky.itch.io/forgetful-loop",
+        "gif_cover": "https://img.itch.zone/aW1nLzQwNTcwMzYuZ2lm/original/4kEHrP.gif",
         "short_text": "A time-looping worker-placement puzzle game",
         bundles: ["902"]
     }, {
@@ -28923,17 +29181,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 83360,
-        platforms: ["windows"],
-        title: "Eatvolve",
+        cover: "https://img.itch.zone/aW1hZ2UvODMzNjAvNTIyNDQzLmdpZg==/300x240%23cm/N3D7KB.gif",
         user: {
             url: "https://papadar.itch.io",
             name: "papadar",
             id: 127245
         },
-        url: "https://papadar.itch.io/eatvolve",
-        cover: "https://img.itch.zone/aW1hZ2UvODMzNjAvNTIyNDQzLmdpZg==/300x240%23cm/N3D7KB.gif",
-        "cover_color": "#000",
         classification: "game",
+        title: "Eatvolve",
+        "cover_color": "#000",
+        platforms: ["windows"],
+        url: "https://papadar.itch.io/eatvolve",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvODMzNjAvNTIyNDQzLmdpZg==/original/GC6k1c.gif",
         "short_text": "Eatvolve is a playful eat-em-up evolution game.",
         bundles: ["902"]
     }, {
@@ -29106,17 +29365,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 298279,
-        platforms: ["windows", "osx"],
-        title: "Tapioca Rider",
+        cover: "https://img.itch.zone/aW1hZ2UvMjk4Mjc5LzE0NTg2NDkuZ2lm/300x240%23cm/0K6mWx.gif",
         user: {
             url: "https://st33d.itch.io",
             name: "st33d",
             id: 44864
         },
-        url: "https://st33d.itch.io/tapioca-rider",
-        cover: "https://img.itch.zone/aW1hZ2UvMjk4Mjc5LzE0NTg2NDkuZ2lm/300x240%23cm/0K6mWx.gif",
-        "cover_color": "#F8E9C3",
         classification: "game",
+        title: "Tapioca Rider",
+        "cover_color": "#F8E9C3",
+        platforms: ["windows", "osx"],
+        url: "https://st33d.itch.io/tapioca-rider",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjk4Mjc5LzE0NTg2NDkuZ2lm/original/IFi6eV.gif",
         "short_text": "A 2D dessert driving game.",
         bundles: ["902"]
     }, {
@@ -29165,16 +29425,17 @@ const games = ({
     }, {
         id: 361657,
         "cover_color": "#09213a",
-        url: "https://khamelot.itch.io/jardin",
+        cover: "https://img.itch.zone/aW1nLzE4MDgzNjIuZ2lm/300x240%23cm/9IwBRX.gif",
+        classification: "game",
         user: {
             url: "https://khamelot.itch.io",
             name: "Khamelot",
             id: 595999
         },
-        cover: "https://img.itch.zone/aW1nLzE4MDgzNjIuZ2lm/300x240%23cm/9IwBRX.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://khamelot.itch.io/jardin",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4MDgzNjIuZ2lm/original/hSAcoR.gif",
         "short_text": "Procedural walk on an endless lake",
         title: "Jardin",
         bundles: ["902"]
@@ -29257,32 +29518,34 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 98192,
-        platforms: ["windows", "osx", "linux"],
-        title: "SOLITUNE",
+        cover: "https://img.itch.zone/aW1hZ2UvOTgxOTIvNDU5ODI2LmdpZg==/300x240%23cm/yHqOce.gif",
         user: {
             url: "https://ratking.itch.io",
             name: "Rat King",
             id: 7787
         },
-        url: "https://ratking.itch.io/solitude",
-        cover: "https://img.itch.zone/aW1hZ2UvOTgxOTIvNDU5ODI2LmdpZg==/300x240%23cm/yHqOce.gif",
-        "cover_color": "#f21762",
         classification: "game",
+        title: "SOLITUNE",
+        "cover_color": "#f21762",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://ratking.itch.io/solitude",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvOTgxOTIvNDU5ODI2LmdpZg==/original/BRCES7.gif",
         "short_text": "A short escapist game about shepherding.",
         bundles: ["902"]
     }, {
         id: 72714,
         "cover_color": "#3c4f46",
-        url: "https://evyatron.itch.io/there-you-go",
+        cover: "https://img.itch.zone/aW1hZ2UvNzI3MTQvMzM2NzE2LmdpZg==/300x240%23cm/ACTTOb.gif",
+        classification: "game",
         user: {
             url: "https://evyatron.itch.io",
             name: "octogear games",
             id: 110344
         },
-        cover: "https://img.itch.zone/aW1hZ2UvNzI3MTQvMzM2NzE2LmdpZg==/300x240%23cm/ACTTOb.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://evyatron.itch.io/there-you-go",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNzI3MTQvMzM2NzE2LmdpZg==/original/%2Bathgt.gif",
         "short_text": "A short quirky puzzle game",
         title: "There You Go",
         bundles: ["902"]
@@ -29460,16 +29723,17 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 790886,
-        "cover_color": "#000000",
+        url: "https://ivandashsmith.itch.io/notebook-artillery",
         user: {
             url: "https://ivandashsmith.itch.io",
             name: "Austin Ivansmith Games",
             id: 2412
         },
         title: "Notebook Artillery",
-        cover: "https://img.itch.zone/aW1nLzQ0Mjc5NTIuZ2lm/300x240%23cm/qhedNg.gif",
-        url: "https://ivandashsmith.itch.io/notebook-artillery",
         classification: "game",
+        cover: "https://img.itch.zone/aW1nLzQ0Mjc5NTIuZ2lm/300x240%23cm/qhedNg.gif",
+        "cover_color": "#000000",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ0Mjc5NTIuZ2lm/original/46acxM.gif",
         "short_text": "Hand-drawn cannonball strategy!",
         bundles: ["902"]
     }, {
@@ -29532,16 +29796,17 @@ const games = ({
     }, {
         id: 451701,
         "cover_color": "#291d0e",
-        url: "https://aarre.itch.io/aarre-safari-ride",
+        cover: "https://img.itch.zone/aW1nLzIyOTE5NzAuZ2lm/300x240%23cm/%2BXqgtm.gif",
+        classification: "game",
         user: {
             url: "https://aarre.itch.io",
             name: "aarre",
             id: 1708649
         },
-        cover: "https://img.itch.zone/aW1nLzIyOTE5NzAuZ2lm/300x240%23cm/%2BXqgtm.gif",
-        platforms: ["windows", "osx", "linux", "android"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux", "android"],
+        url: "https://aarre.itch.io/aarre-safari-ride",
+        "gif_cover": "https://img.itch.zone/aW1nLzIyOTE5NzAuZ2lm/original/8F02ks.gif",
         "short_text": "Safari driving game with unlockable stickers for kids (early access)",
         title: "Aarre Safari Ride",
         bundles: ["902"]
@@ -29639,17 +29904,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 935681,
-        platforms: ["windows", "osx"],
-        title: "Lonely People Potion Shop",
+        cover: "https://img.itch.zone/aW1nLzUzMDEwOTguZ2lm/300x240%23cm/BMRnGJ.gif",
         user: {
             url: "https://kultisti.itch.io",
             name: "Kultisti",
             id: 706839
         },
-        url: "https://kultisti.itch.io/lonely-people-potion-shop",
-        cover: "https://img.itch.zone/aW1nLzUzMDEwOTguZ2lm/300x240%23cm/BMRnGJ.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "Lonely People Potion Shop",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx"],
+        url: "https://kultisti.itch.io/lonely-people-potion-shop",
+        "gif_cover": "https://img.itch.zone/aW1nLzUzMDEwOTguZ2lm/original/KNsn8r.gif",
         "short_text": "it's time to make some potions!",
         bundles: ["902"]
     }, {
@@ -29753,16 +30019,17 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 1040849,
-        "cover_color": "#0e1014",
+        url: "https://zapchi.itch.io/fantasy-top-down-pixel-art-tileset",
         user: {
             url: "https://zapchi.itch.io",
             name: "Zapchi",
             id: 2392072
         },
         title: "Fantasy Top Down Pixel Art Tileset",
-        cover: "https://img.itch.zone/aW1nLzU5NDQ4NjEuZ2lm/300x240%23cm/NW%2BhNX.gif",
-        url: "https://zapchi.itch.io/fantasy-top-down-pixel-art-tileset",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzU5NDQ4NjEuZ2lm/300x240%23cm/NW%2BhNX.gif",
+        "cover_color": "#0e1014",
+        "gif_cover": "https://img.itch.zone/aW1nLzU5NDQ4NjEuZ2lm/original/2QoFVV.gif",
         "short_text": "8-Pixel 2-Bit Fantasy Tileset",
         bundles: ["902"]
     }, {
@@ -29884,16 +30151,17 @@ const games = ({
     }, {
         id: 727946,
         "cover_color": "#eeeeee",
-        url: "https://ergman.itch.io/and-other-stories",
+        cover: "https://img.itch.zone/aW1nLzQwNDIyNTMuZ2lm/300x240%23cm/Gzg3AO.gif",
+        classification: "game",
         user: {
             url: "https://ergman.itch.io",
             name: "JohnLee Cooper",
             id: 33738
         },
-        cover: "https://img.itch.zone/aW1nLzQwNDIyNTMuZ2lm/300x240%23cm/Gzg3AO.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://ergman.itch.io/and-other-stories",
+        "gif_cover": "https://img.itch.zone/aW1nLzQwNDIyNTMuZ2lm/original/cs%2Br9N.gif",
         "short_text": "live four stories at once, as the mind does",
         title: "And Other Stories",
         bundles: ["902"]
@@ -29975,16 +30243,17 @@ const games = ({
     }, {
         id: 219907,
         "cover_color": "#333333",
-        url: "https://amicianthony.itch.io/ace-baker",
+        cover: "https://img.itch.zone/aW1hZ2UvMjE5OTA3LzEwMzgyMTEuZ2lm/300x240%23cm/GcXMHT.gif",
+        classification: "game",
         user: {
             url: "https://amicianthony.itch.io",
             name: "*AAmici",
             id: 197999
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjE5OTA3LzEwMzgyMTEuZ2lm/300x240%23cm/GcXMHT.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://amicianthony.itch.io/ace-baker",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjE5OTA3LzEwMzgyMTEuZ2lm/original/Wf4slO.gif",
         "short_text": "A cyberpunk cake-baking game about an asexual couple... in the future!",
         title: "Ace Baker",
         bundles: ["902"]
@@ -30020,17 +30289,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 733689,
-        platforms: ["windows"],
-        title: "TORO",
+        cover: "https://img.itch.zone/aW1nLzQwODE4MDMuZ2lm/300x240%23cm/ahLCNW.gif",
         user: {
             url: "https://flyover-games.itch.io",
             name: "Flyover Games",
             id: 68936
         },
-        url: "https://flyover-games.itch.io/toro",
-        cover: "https://img.itch.zone/aW1nLzQwODE4MDMuZ2lm/300x240%23cm/ahLCNW.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "TORO",
+        "cover_color": "#000000",
+        platforms: ["windows"],
+        url: "https://flyover-games.itch.io/toro",
+        "gif_cover": "https://img.itch.zone/aW1nLzQwODE4MDMuZ2lm/original/PEvCRJ.gif",
         "short_text": "A music toy about an orange matador and a blue bull.",
         bundles: ["902"]
     }, {
@@ -30242,16 +30512,17 @@ const games = ({
     }, {
         id: 367439,
         "cover_color": "#8f7cc3",
-        url: "https://visager.itch.io/flirting",
+        cover: "https://img.itch.zone/aW1nLzE4NDA5MTQuZ2lm/300x240%23cm/DxBWy0.gif",
+        classification: "game",
         user: {
             url: "https://visager.itch.io",
             name: "Visager",
             id: 378316
         },
-        cover: "https://img.itch.zone/aW1nLzE4NDA5MTQuZ2lm/300x240%23cm/DxBWy0.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://visager.itch.io/flirting",
+        "gif_cover": "https://img.itch.zone/aW1nLzE4NDA5MTQuZ2lm/original/CLBkfR.gif",
         "short_text": "Enbies flirting in mechs in the afternoon",
         title: "Flirting",
         bundles: ["902"]
@@ -30285,17 +30556,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 558708,
-        platforms: ["windows", "osx"],
-        title: "The Machine's Garden",
+        cover: "https://img.itch.zone/aW1nLzMzMjY2NDcuZ2lm/300x240%23cm/3vF15j.gif",
         user: {
             url: "https://toomuchtomato.itch.io",
             name: "Too Much Tomato",
             id: 473667
         },
-        url: "https://toomuchtomato.itch.io/the-machines-garden",
-        cover: "https://img.itch.zone/aW1nLzMzMjY2NDcuZ2lm/300x240%23cm/3vF15j.gif",
-        "cover_color": "#1e1814",
         classification: "game",
+        title: "The Machine's Garden",
+        "cover_color": "#1e1814",
+        platforms: ["windows", "osx"],
+        url: "https://toomuchtomato.itch.io/the-machines-garden",
+        "gif_cover": "https://img.itch.zone/aW1nLzMzMjY2NDcuZ2lm/original/KlpoWR.gif",
         "short_text": "solve puzzles & unravel the mystery of the Machine's garden",
         bundles: ["902"]
     }, {
@@ -30510,16 +30782,17 @@ const games = ({
     }, {
         id: 272841,
         "cover_color": "#000000",
-        url: "https://nilson.itch.io/boys-work",
+        cover: "https://img.itch.zone/aW1hZ2UvMjcyODQxLzEzMTk3MTguZ2lm/300x240%23cm/SHV6ay.gif",
+        classification: "game",
         user: {
             url: "https://nilson.itch.io",
             name: "nilson",
             id: 69584
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjcyODQxLzEzMTk3MTguZ2lm/300x240%23cm/SHV6ay.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://nilson.itch.io/boys-work",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjcyODQxLzEzMTk3MTguZ2lm/original/Jmk0zU.gif",
         "short_text": "Dream Diary Jam 2018",
         title: "Boys Work",
         bundles: ["902"]
@@ -30656,16 +30929,17 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 28560,
-        cover: "https://img.itch.zone/aW1hZ2UvMjg1NjAvMTMyNzk2LmdpZg==/300x240%23cm/VkOyEF.gif",
+        platforms: ["windows", "osx"],
         user: {
             url: "https://blunderboffins.itch.io",
             name: "Blunderboffins",
             id: 31292
         },
         title: "Shu's Garden",
-        platforms: ["windows", "osx"],
-        url: "https://blunderboffins.itch.io/shus-garden",
         classification: "game",
+        cover: "https://img.itch.zone/aW1hZ2UvMjg1NjAvMTMyNzk2LmdpZg==/300x240%23cm/VkOyEF.gif",
+        url: "https://blunderboffins.itch.io/shus-garden",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjg1NjAvMTMyNzk2LmdpZg==/original/nSidNU.gif",
         "short_text": "Explore and experiment in this space-garden full of friends, foliage, and fun.",
         bundles: ["902"]
     }, {
@@ -30728,16 +31002,17 @@ const games = ({
     }, {
         id: 204905,
         "cover_color": "#3f2832",
-        url: "https://astralore.itch.io/monstrata-fracture",
+        cover: "https://img.itch.zone/aW1nLzE5NDIzMjcuZ2lm/300x240%23cm/Gaa3qb.gif",
+        classification: "game",
         user: {
             url: "https://astralore.itch.io",
             name: "Astralore",
             id: 850462
         },
-        cover: "https://img.itch.zone/aW1nLzE5NDIzMjcuZ2lm/300x240%23cm/Gaa3qb.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://astralore.itch.io/monstrata-fracture",
+        "gif_cover": "https://img.itch.zone/aW1nLzE5NDIzMjcuZ2lm/original/kL%2F1oR.gif",
         "short_text": "Don't date monsters. Your mother would be disappointed.",
         title: "Monstrata Fracture",
         bundles: ["902"]
@@ -30772,16 +31047,17 @@ const games = ({
     }, {
         id: 656496,
         "cover_color": "#ABDDE7",
-        url: "https://jacobfdunbar.itch.io/procrastityper",
+        cover: "https://img.itch.zone/aW1nLzM1Mjg1MDIuZ2lm/300x240%23cm/omeKOs.gif",
+        classification: "game",
         user: {
             url: "https://jacobfdunbar.itch.io",
             name: "Jacob Dunbar",
             id: 65603
         },
-        cover: "https://img.itch.zone/aW1nLzM1Mjg1MDIuZ2lm/300x240%23cm/omeKOs.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://jacobfdunbar.itch.io/procrastityper",
+        "gif_cover": "https://img.itch.zone/aW1nLzM1Mjg1MDIuZ2lm/original/%2FSD0Ib.gif",
         "short_text": "You forgot to do your essay... type to save your grade!",
         title: "ProcrastiTyper",
         bundles: ["902"]
@@ -31030,17 +31306,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 930763,
-        platforms: ["windows"],
-        title: "FroggieChat",
+        cover: "https://img.itch.zone/aW1nLzUyOTg3NjEuZ2lm/300x240%23cm/u5cuUm.gif",
         user: {
             url: "https://stupidplusplus.itch.io",
             name: "Stupidplusplus",
             id: 3194465
         },
-        url: "https://stupidplusplus.itch.io/froggychat",
-        cover: "https://img.itch.zone/aW1nLzUyOTg3NjEuZ2lm/300x240%23cm/u5cuUm.gif",
-        "cover_color": "#272736",
         classification: "game",
+        title: "FroggieChat",
+        "cover_color": "#272736",
+        platforms: ["windows"],
+        url: "https://stupidplusplus.itch.io/froggychat",
+        "gif_cover": "https://img.itch.zone/aW1nLzUyOTg3NjEuZ2lm/original/tpw670.gif",
         "short_text": "A faithful remake of Pictochat for Windows and Android.",
         bundles: ["902"]
     }, {
@@ -31119,16 +31396,17 @@ const games = ({
     }, {
         id: 828323,
         "cover_color": "#161617",
-        url: "https://robustgames.itch.io/loco-motive",
+        cover: "https://img.itch.zone/aW1nLzQ3Mjg5MTYuZ2lm/300x240%23cm/4GCCUW.gif",
+        classification: "game",
         user: {
             url: "https://robustgames.itch.io",
             name: "Robust Games",
             id: 3269907
         },
-        cover: "https://img.itch.zone/aW1nLzQ3Mjg5MTYuZ2lm/300x240%23cm/4GCCUW.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://robustgames.itch.io/loco-motive",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ3Mjg5MTYuZ2lm/original/yAmjcr.gif",
         "short_text": "A short murder mystery-comedy adventure!",
         title: "Loco Motive",
         bundles: ["902"]
@@ -31339,16 +31617,17 @@ const games = ({
     }, {
         id: 848421,
         "cover_color": "#3E6029",
-        url: "https://pancelor.itch.io/chickenswamp",
+        cover: "https://img.itch.zone/aW1nLzQ3NTc5MjMuZ2lm/300x240%23cm/CLyHfH.gif",
+        classification: "game",
         user: {
             url: "https://pancelor.itch.io",
             name: "pancelor",
             id: 780677
         },
-        cover: "https://img.itch.zone/aW1nLzQ3NTc5MjMuZ2lm/300x240%23cm/CLyHfH.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://pancelor.itch.io/chickenswamp",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ3NTc5MjMuZ2lm/original/QwTN2A.gif",
         "short_text": "chicken in a swamp",
         title: "chickenswamp (5/10)",
         bundles: ["902"]
@@ -31543,17 +31822,18 @@ const games = ({
     }, {
         id: 1027545,
         title: "Mop Boy Demo but better",
+        cover: "https://img.itch.zone/aW1nLzU4NjA5MDEuZ2lm/300x240%23cm/3L3Yuw.gif",
         user: {
             url: "https://mopboystudios.itch.io",
             name: "MopBoyStudios",
             id: 1503822
         },
-        url: "https://mopboystudios.itch.io/mop-boy-demo-but-better",
-        cover: "https://img.itch.zone/aW1nLzU4NjA5MDEuZ2lm/300x240%23cm/3L3Yuw.gif",
-        flag: "free",
         classification: "game",
-        "short_text": "Mop until drOP",
         platforms: ["windows"],
+        flag: "free",
+        "gif_cover": "https://img.itch.zone/aW1nLzU4NjA5MDEuZ2lm/original/3pa5RS.gif",
+        "short_text": "Mop until drOP",
+        url: "https://mopboystudios.itch.io/mop-boy-demo-but-better",
         bundles: ["902"]
     }, {
         id: 856030,
@@ -31807,16 +32087,17 @@ const games = ({
     }, {
         id: 966258,
         "cover_color": "#200000",
-        url: "https://lorenschmidt.itch.io/soup",
+        cover: "https://img.itch.zone/aW1nLzU1MzU5MDMuZ2lm/300x240%23cm/TNGS76.gif",
+        classification: "game",
         user: {
             url: "https://lorenschmidt.itch.io",
             name: "loren schmidt",
             id: 39474
         },
-        cover: "https://img.itch.zone/aW1nLzU1MzU5MDMuZ2lm/300x240%23cm/TNGS76.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://lorenschmidt.itch.io/soup",
+        "gif_cover": "https://img.itch.zone/aW1nLzU1MzU5MDMuZ2lm/original/kyfwp2.gif",
         "short_text": "local multiplayer worm simulator",
         title: "the worm game (SOUP 1.0)",
         bundles: ["902"]
@@ -31924,16 +32205,17 @@ const games = ({
     }, {
         id: 231709,
         "cover_color": "#191919",
-        url: "https://radicaldreamland.itch.io/esc",
+        cover: "https://img.itch.zone/aW1hZ2UvMjMxNzA5LzEwOTg1MjguZ2lm/300x240%23cm/77gDfq.gif",
+        classification: "game",
         user: {
             url: "https://radicaldreamland.itch.io",
             name: "Radical Dreamland",
             id: 171254
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjMxNzA5LzEwOTg1MjguZ2lm/300x240%23cm/77gDfq.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://radicaldreamland.itch.io/esc",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjMxNzA5LzEwOTg1MjguZ2lm/original/03d1U6.gif",
         "short_text": "an interactive novel about identity, roleplay, and dreams",
         title: "ESC",
         bundles: ["902"]
@@ -32308,17 +32590,18 @@ const games = ({
     }, {
         id: 1746,
         "cover_color": "#000",
+        title: "Gardenia",
         user: {
             url: "https://enricllagostera.itch.io",
             name: "Enric Llagostera",
             id: 144
         },
-        url: "https://enricllagostera.itch.io/gardenia",
+        classification: "game",
         cover: "https://img.itch.zone/aW1nLzI3ODA2NDUuZ2lm/300x240%23cm/9oztID.gif",
         flag: "free",
-        classification: "game",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3ODA2NDUuZ2lm/original/ZbIcoE.gif",
         "short_text": "A contemplative world-building game.",
-        title: "Gardenia",
+        url: "https://enricllagostera.itch.io/gardenia",
         bundles: ["902"]
     }, {
         id: 773883,
@@ -32586,16 +32869,17 @@ const games = ({
     }, {
         id: 64762,
         "cover_color": "#020101",
-        url: "https://drskipper.itch.io/watchlist",
+        cover: "https://img.itch.zone/aW1hZ2UvNjQ3NjIvMjk4MTY3LmdpZg==/300x240%23cm/5qq5Yp.gif",
+        classification: "game",
         user: {
             url: "https://drskipper.itch.io",
             name: "Fletcher",
             id: 740
         },
-        cover: "https://img.itch.zone/aW1hZ2UvNjQ3NjIvMjk4MTY3LmdpZg==/300x240%23cm/5qq5Yp.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://drskipper.itch.io/watchlist",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNjQ3NjIvMjk4MTY3LmdpZg==/original/LPIUmp.gif",
         "short_text": "You must prove to have realigned yourself with our prioritization above all of self and nation.",
         title: "Watchlist",
         bundles: ["902"]
@@ -33027,17 +33311,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 119886,
-        platforms: ["windows", "osx", "linux"],
-        title: "Soul Searching",
+        cover: "https://img.itch.zone/aW1hZ2UvMTE5ODg2LzU1MzIxMy5naWY=/300x240%23cm/Bc6Za8.gif",
         user: {
             url: "https://kayabros.itch.io",
             name: "Kayabros",
             id: 2132
         },
-        url: "https://kayabros.itch.io/ss",
-        cover: "https://img.itch.zone/aW1hZ2UvMTE5ODg2LzU1MzIxMy5naWY=/300x240%23cm/Bc6Za8.gif",
-        "cover_color": "#222222",
         classification: "game",
+        title: "Soul Searching",
+        "cover_color": "#222222",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://kayabros.itch.io/ss",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMTE5ODg2LzU1MzIxMy5naWY=/original/9Tio19.gif",
         "short_text": "A narrative survival game about sailing away from your homeland",
         bundles: ["902"]
     }, {
@@ -33163,31 +33448,33 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 871192,
-        "cover_color": "#0f0d22",
+        url: "https://admurin.itch.io/pixel-character",
         user: {
             url: "https://admurin.itch.io",
             name: "Admurin",
             id: 1659415
         },
         title: "200+ Pixel Character Animations",
-        cover: "https://img.itch.zone/aW1nLzYxMzQ4MTcuZ2lm/300x240%23cm/oKf9je.gif",
-        url: "https://admurin.itch.io/pixel-character",
         classification: "assets",
+        cover: "https://img.itch.zone/aW1nLzYxMzQ4MTcuZ2lm/300x240%23cm/oKf9je.gif",
+        "cover_color": "#0f0d22",
+        "gif_cover": "https://img.itch.zone/aW1nLzYxMzQ4MTcuZ2lm/original/1VoYQH.gif",
         "short_text": "Pixel character with 200+ animations, 1000+ frames",
         bundles: ["902"]
     }, {
         id: 626776,
-        platforms: ["windows"],
-        title: "JRNL",
+        cover: "https://img.itch.zone/aW1nLzM3NTc4NTQuZ2lm/300x240%23cm/mo6lO5.gif",
         user: {
             url: "https://blarfnip.itch.io",
             name: "Blarfnip",
             id: 41066
         },
-        url: "https://blarfnip.itch.io/jrnl",
-        cover: "https://img.itch.zone/aW1nLzM3NTc4NTQuZ2lm/300x240%23cm/mo6lO5.gif",
-        "cover_color": "#bf8989",
         classification: "tool",
+        title: "JRNL",
+        "cover_color": "#bf8989",
+        platforms: ["windows"],
+        url: "https://blarfnip.itch.io/jrnl",
+        "gif_cover": "https://img.itch.zone/aW1nLzM3NTc4NTQuZ2lm/original/RoDLTG.gif",
         "short_text": "A Simple Journaling Software for Keeping Track of Daily Thoughts",
         bundles: ["902"]
     }, {
@@ -33315,16 +33602,17 @@ const games = ({
     }, {
         id: 744476,
         "cover_color": "#102533",
-        url: "https://bokonon-yossarian.itch.io/blue-bayou",
+        cover: "https://img.itch.zone/aW1nLzQxOTkwODIuZ2lm/300x240%23cm/daLaT7.gif",
+        classification: "game",
         user: {
             url: "https://bokonon-yossarian.itch.io",
             name: "bokoyoss",
             id: 3086988
         },
-        cover: "https://img.itch.zone/aW1nLzQxOTkwODIuZ2lm/300x240%23cm/daLaT7.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://bokonon-yossarian.itch.io/blue-bayou",
+        "gif_cover": "https://img.itch.zone/aW1nLzQxOTkwODIuZ2lm/original/%2Fmy8Ai.gif",
         "short_text": "Embody a crawdad caught in a web of usury. Defend yourself from sinister swamp things as you fight to erase your debts.",
         title: "Blue Bayou",
         bundles: ["902"]
@@ -33451,16 +33739,17 @@ const games = ({
     }, {
         id: 1018475,
         "cover_color": "#4444ff",
-        url: "https://whydoisay.itch.io/when-there-is-no-more-snow",
+        cover: "https://img.itch.zone/aW1nLzU4MDI2MTEuZ2lm/300x240%23cm/5zUvlh.gif",
+        classification: "game",
         user: {
             url: "https://whydoisay.itch.io",
             name: "Jeremy W. Kaufmann",
             id: 608934
         },
-        cover: "https://img.itch.zone/aW1nLzU4MDI2MTEuZ2lm/300x240%23cm/5zUvlh.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://whydoisay.itch.io/when-there-is-no-more-snow",
+        "gif_cover": "https://img.itch.zone/aW1nLzU4MDI2MTEuZ2lm/original/Dwpxow.gif",
         "short_text": "HYPER LOW RES SUPER RETRO visual novel made in ZZT with teen angst, saxophones, and UFOs.",
         title: "When There Is No More Snow",
         bundles: ["902"]
@@ -33481,17 +33770,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 796734,
-        platforms: ["windows", "osx", "linux"],
-        title: "Pushamo",
+        cover: "https://img.itch.zone/aW1nLzQ1OTAyOTMuZ2lm/300x240%23cm/hunNN%2F.gif",
         user: {
             url: "https://beanborg.itch.io",
             name: "bean borg",
             id: 146277
         },
-        url: "https://beanborg.itch.io/pushamo",
-        cover: "https://img.itch.zone/aW1nLzQ1OTAyOTMuZ2lm/300x240%23cm/hunNN%2F.gif",
-        "cover_color": "#1d2b53",
         classification: "game",
+        title: "Pushamo",
+        "cover_color": "#1d2b53",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://beanborg.itch.io/pushamo",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ1OTAyOTMuZ2lm/original/TLmIG7.gif",
         "short_text": "shape-clearing tetromino push-em-up",
         bundles: ["902"]
     }, {
@@ -33588,16 +33878,17 @@ const games = ({
     }, {
         id: 1046303,
         "cover_color": "#743f39",
-        url: "https://marafrass.itch.io/good-dog",
+        cover: "https://img.itch.zone/aW1nLzU5ODA0NTAuZ2lm/300x240%23cm/8wlckZ.gif",
+        classification: "game",
         user: {
             url: "https://marafrass.itch.io",
             name: "Marafrass",
             id: 1242714
         },
-        cover: "https://img.itch.zone/aW1nLzU5ODA0NTAuZ2lm/300x240%23cm/8wlckZ.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://marafrass.itch.io/good-dog",
+        "gif_cover": "https://img.itch.zone/aW1nLzU5ODA0NTAuZ2lm/original/ImRsBj.gif",
         "short_text": "A therapy dog game for charity!",
         title: "Good Dog",
         bundles: ["902"]
@@ -33903,17 +34194,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 782238,
-        platforms: ["windows", "osx", "linux"],
-        title: "Luck be a Landlord",
+        cover: "https://img.itch.zone/aW1nLzQ4NzkyMDYuZ2lm/300x240%23cm/nJsbT%2F.gif",
         user: {
             url: "https://trampolinetales.itch.io",
             name: "TrampolineTales",
             id: 2244
         },
-        url: "https://trampolinetales.itch.io/luck-be-a-landlord",
-        cover: "https://img.itch.zone/aW1nLzQ4NzkyMDYuZ2lm/300x240%23cm/nJsbT%2F.gif",
-        "cover_color": "#1E001E",
         classification: "game",
+        title: "Luck be a Landlord",
+        "cover_color": "#1E001E",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://trampolinetales.itch.io/luck-be-a-landlord",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ4NzkyMDYuZ2lm/original/r9jgqH.gif",
         "short_text": "Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism.",
         bundles: ["902"]
     }, {
@@ -34002,32 +34294,34 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 811899,
-        platforms: ["windows", "osx"],
-        title: "The Change Architect",
+        cover: "https://img.itch.zone/aW1nLzQ1OTEwMzAuZ2lm/300x240%23cm/Th7X4M.gif",
         user: {
             url: "https://farfewgiants.itch.io",
             name: "Far Few Giants",
             id: 2232
         },
-        url: "https://farfewgiants.itch.io/change-architect",
-        cover: "https://img.itch.zone/aW1nLzQ1OTEwMzAuZ2lm/300x240%23cm/Th7X4M.gif",
-        "cover_color": "#139a86",
         classification: "game",
+        title: "The Change Architect",
+        "cover_color": "#139a86",
+        platforms: ["windows", "osx"],
+        url: "https://farfewgiants.itch.io/change-architect",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ1OTEwMzAuZ2lm/original/1XFKa3.gif",
         "short_text": "A choice-driven protest simulator",
         bundles: ["902"]
     }, {
         id: 703194,
-        platforms: ["windows", "osx"],
-        title: "The Outcast Lovers",
+        cover: "https://img.itch.zone/aW1nLzM5MTMxMzcuZ2lm/300x240%23cm/oV39G%2F.gif",
         user: {
             url: "https://farfewgiants.itch.io",
             name: "Far Few Giants",
             id: 2232
         },
-        url: "https://farfewgiants.itch.io/the-outcast-lovers",
-        cover: "https://img.itch.zone/aW1nLzM5MTMxMzcuZ2lm/300x240%23cm/oV39G%2F.gif",
-        "cover_color": "#ffffff",
         classification: "game",
+        title: "The Outcast Lovers",
+        "cover_color": "#ffffff",
+        platforms: ["windows", "osx"],
+        url: "https://farfewgiants.itch.io/the-outcast-lovers",
+        "gif_cover": "https://img.itch.zone/aW1nLzM5MTMxMzcuZ2lm/original/LuV7JP.gif",
         "short_text": "A chance encounter for a couple",
         bundles: ["902"]
     }, {
@@ -34300,32 +34594,34 @@ const games = ({
     }, {
         id: 213430,
         "cover_color": "#360730",
-        url: "https://mokka.itch.io/skuiggle",
+        cover: "https://img.itch.zone/aW1hZ2UvMjEzNDMwLzEwNDUxNDIuZ2lm/300x240%23cm/TrWsiS.gif",
+        classification: "game",
         user: {
             url: "https://mokka.itch.io",
             name: "MOKKA",
             id: 31549
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjEzNDMwLzEwNDUxNDIuZ2lm/300x240%23cm/TrWsiS.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://mokka.itch.io/skuiggle",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjEzNDMwLzEwNDUxNDIuZ2lm/original/%2BLSXl5.gif",
         "short_text": "Everyone can do the Arts!",
         title: "Skuiggle",
         bundles: ["902"]
     }, {
         id: 428597,
         "cover_color": "#eeeeee",
-        url: "https://mokka.itch.io/faiser",
+        cover: "https://img.itch.zone/aW1nLzIxNDQ5MTIuZ2lm/300x240%23cm/RFp5%2FX.gif",
+        classification: "game",
         user: {
             url: "https://mokka.itch.io",
             name: "MOKKA",
             id: 31549
         },
-        cover: "https://img.itch.zone/aW1nLzIxNDQ5MTIuZ2lm/300x240%23cm/RFp5%2FX.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://mokka.itch.io/faiser",
+        "gif_cover": "https://img.itch.zone/aW1nLzIxNDQ5MTIuZ2lm/original/xPY4iv.gif",
         "short_text": "Fight the past!",
         title: "Fäiser",
         bundles: ["902"]
@@ -34425,16 +34721,17 @@ const games = ({
     }, {
         id: 242651,
         "cover_color": "#910303",
-        url: "https://overmolo.itch.io/dystopicon",
+        cover: "https://img.itch.zone/aW1hZ2UvMjQyNjUxLzExNzU2OTAuZ2lm/300x240%23cm/s2oozw.gif",
+        classification: "game",
         user: {
             url: "https://overmolo.itch.io",
             name: "OveR-Software",
             id: 158265
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjQyNjUxLzExNzU2OTAuZ2lm/300x240%23cm/s2oozw.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://overmolo.itch.io/dystopicon",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjQyNjUxLzExNzU2OTAuZ2lm/original/3zEAoW.gif",
         "short_text": "A dystopian life simulator",
         title: "Dystopicon",
         bundles: ["902"]
@@ -34483,16 +34780,17 @@ const games = ({
     }, {
         id: 733145,
         "cover_color": "#f9a875",
-        url: "https://mattlawr.itch.io/harvesterado",
+        cover: "https://img.itch.zone/aW1nLzQxMTM5MDUuZ2lm/300x240%23cm/WS1KUf.gif",
+        classification: "game",
         user: {
             url: "https://mattlawr.itch.io",
             name: "Matthew Lawrence",
             id: 89166
         },
-        cover: "https://img.itch.zone/aW1nLzQxMTM5MDUuZ2lm/300x240%23cm/WS1KUf.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://mattlawr.itch.io/harvesterado",
+        "gif_cover": "https://img.itch.zone/aW1nLzQxMTM5MDUuZ2lm/original/1Dwle%2B.gif",
         "short_text": "Defend your farm with your six shooter in the old west",
         title: "Harvesterado",
         bundles: ["902"]
@@ -34571,17 +34869,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 45184,
-        platforms: ["windows"],
-        title: "Khronos-X",
+        cover: "https://img.itch.zone/aW1hZ2UvNDUxODQvNDExODk3LmdpZg==/300x240%23cm/U7W2nF.gif",
         user: {
             url: "https://beebush.itch.io",
             name: "Bee Bush",
             id: 62587
         },
-        url: "https://beebush.itch.io/khronos-x",
-        cover: "https://img.itch.zone/aW1hZ2UvNDUxODQvNDExODk3LmdpZg==/300x240%23cm/U7W2nF.gif",
-        "cover_color": "#00020f",
         classification: "game",
+        title: "Khronos-X",
+        "cover_color": "#00020f",
+        platforms: ["windows"],
+        url: "https://beebush.itch.io/khronos-x",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvNDUxODQvNDExODk3LmdpZg==/original/UXHMVx.gif",
         "short_text": "NOW INCLUDES THE SOURCE-CODE! Twin-stick, time-bending shooter. Get a high-score before time runs out.",
         bundles: ["902"]
     }, {
@@ -34810,16 +35109,17 @@ const games = ({
     }, {
         id: 924997,
         "cover_color": "#08000F",
-        url: "https://celechii.itch.io/blood-void-mass",
+        cover: "https://img.itch.zone/aW1nLzUzMTUwOTguZ2lm/300x240%23cm/%2B3DtYN.gif",
+        classification: "game",
         user: {
             url: "https://celechii.itch.io",
             name: "Noé",
             id: 259154
         },
-        cover: "https://img.itch.zone/aW1nLzUzMTUwOTguZ2lm/300x240%23cm/%2B3DtYN.gif",
-        platforms: ["windows", "osx"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx"],
+        url: "https://celechii.itch.io/blood-void-mass",
+        "gif_cover": "https://img.itch.zone/aW1nLzUzMTUwOTguZ2lm/original/0IfCrl.gif",
         "short_text": "mysterious........... what game is this........",
         title: "BLOOD VOID MASS",
         bundles: ["902"]
@@ -34927,16 +35227,17 @@ const games = ({
     }, {
         id: 231534,
         "cover_color": "#695733",
-        url: "https://james-shipp.itch.io/zip",
+        cover: "https://img.itch.zone/aW1hZ2UvMjMxNTM0LzExMDY5NjMuZ2lm/300x240%23cm/7IG99V.gif",
+        classification: "game",
         user: {
             url: "https://james-shipp.itch.io",
             name: "James Shipp",
             id: 52764
         },
-        cover: "https://img.itch.zone/aW1hZ2UvMjMxNTM0LzExMDY5NjMuZ2lm/300x240%23cm/7IG99V.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://james-shipp.itch.io/zip",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjMxNTM0LzExMDY5NjMuZ2lm/original/6lTF7w.gif",
         "short_text": "Hard as shit blend of maze, puzzle, and timed action",
         title: "zip: set one",
         bundles: ["902"]
@@ -35465,16 +35766,17 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 741088,
-        "cover_color": "#3438b8",
+        url: "https://johnvanderhoef.itch.io/bat-lizard-bonanza",
         user: {
             url: "https://johnvanderhoef.itch.io",
             name: "John Vanderhoef",
             id: 52063
         },
         title: "Bat Lizard Bonanza",
-        cover: "https://img.itch.zone/aW1nLzQyNzYxNjcuZ2lm/300x240%23cm/dq2V5B.gif",
-        url: "https://johnvanderhoef.itch.io/bat-lizard-bonanza",
         classification: "game",
+        cover: "https://img.itch.zone/aW1nLzQyNzYxNjcuZ2lm/300x240%23cm/dq2V5B.gif",
+        "cover_color": "#3438b8",
+        "gif_cover": "https://img.itch.zone/aW1nLzQyNzYxNjcuZ2lm/original/ZS45hb.gif",
         "short_text": "An arcade shooter (shmup) for the NES.",
         bundles: ["902"]
     }, {
@@ -35682,17 +35984,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 807727,
-        platforms: ["windows", "osx", "linux"],
-        title: "The Crystal Golem",
+        cover: "https://img.itch.zone/aW1nLzQ1MzE5NjAuZ2lm/300x240%23cm/OHayab.gif",
         user: {
             url: "https://luis-s.itch.io",
             name: "Luis S.",
             id: 225153
         },
-        url: "https://luis-s.itch.io/crystal-golem",
-        cover: "https://img.itch.zone/aW1nLzQ1MzE5NjAuZ2lm/300x240%23cm/OHayab.gif",
-        "cover_color": "#050505",
         classification: "game",
+        title: "The Crystal Golem",
+        "cover_color": "#050505",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://luis-s.itch.io/crystal-golem",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ1MzE5NjAuZ2lm/original/EgBhAi.gif",
         "short_text": "Descend into the Earth and face the Void.",
         bundles: ["902"]
     }, {
@@ -35759,17 +36062,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 517571,
-        platforms: ["windows"],
-        title: "SlipSpeed",
+        cover: "https://img.itch.zone/aW1nLzI3MzM0MjIuZ2lm/300x240%23cm/Z4F2JX.gif",
         user: {
             url: "https://voxel.itch.io",
             name: "voxel",
             id: 2641
         },
-        url: "https://voxel.itch.io/slipspeed",
-        cover: "https://img.itch.zone/aW1nLzI3MzM0MjIuZ2lm/300x240%23cm/Z4F2JX.gif",
-        "cover_color": "#491115",
         classification: "game",
+        title: "SlipSpeed",
+        "cover_color": "#491115",
+        platforms: ["windows"],
+        url: "https://voxel.itch.io/slipspeed",
+        "gif_cover": "https://img.itch.zone/aW1nLzI3MzM0MjIuZ2lm/original/GVLrXu.gif",
         "short_text": "Inertial drifting for DOS",
         bundles: ["902"]
     }, {
@@ -35957,31 +36261,33 @@ const games = ({
     }, {
         id: 757864,
         "cover_color": "#35364d",
-        url: "https://tanatb.itch.io/building-relationships",
+        cover: "https://img.itch.zone/aW1nLzQyMzc3ODIuZ2lm/300x240%23cm/%2FFhXMM.gif",
+        classification: "game",
         user: {
             url: "https://tanatb.itch.io",
             name: "tanatb",
             id: 145078
         },
-        cover: "https://img.itch.zone/aW1nLzQyMzc3ODIuZ2lm/300x240%23cm/%2FFhXMM.gif",
-        platforms: ["windows", "osx", "linux"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://tanatb.itch.io/building-relationships",
+        "gif_cover": "https://img.itch.zone/aW1nLzQyMzc3ODIuZ2lm/original/BP%2Bjpa.gif",
         "short_text": "A game featuring buildings and relationship(s) and also fishing and exploration?",
         title: "Building Relationships",
         bundles: ["902"]
     }, {
         id: 786350,
-        "cover_color": "#5a0033",
+        url: "https://adilgamedev.itch.io/noseq",
         user: {
             url: "https://adilgamedev.itch.io",
             name: "Adil S",
             id: 1620881
         },
         title: "NoSeq",
-        cover: "https://img.itch.zone/aW1nLzQ5ODI3MTkuZ2lm/300x240%23cm/BRVK7z.gif",
-        url: "https://adilgamedev.itch.io/noseq",
         classification: "game",
+        cover: "https://img.itch.zone/aW1nLzQ5ODI3MTkuZ2lm/300x240%23cm/BRVK7z.gif",
+        "cover_color": "#5a0033",
+        "gif_cover": "https://img.itch.zone/aW1nLzQ5ODI3MTkuZ2lm/original/m9fbxw.gif",
         "short_text": "Like dreams only in low poly!",
         bundles: ["902"]
     }, {
@@ -36207,16 +36513,17 @@ const games = ({
     }, {
         id: 991833,
         "cover_color": "#0310da",
-        url: "https://saintlystu.itch.io/adrift-in-turbulent-waters",
+        cover: "https://img.itch.zone/aW1nLzU2NDMwODkuZ2lm/300x240%23cm/Vd7ZUf.gif",
+        classification: "game",
         user: {
             url: "https://saintlystu.itch.io",
             name: "SaintlyStu",
             id: 39646
         },
-        cover: "https://img.itch.zone/aW1nLzU2NDMwODkuZ2lm/300x240%23cm/Vd7ZUf.gif",
-        platforms: ["web"],
         flag: "web",
-        classification: "game",
+        platforms: ["web"],
+        url: "https://saintlystu.itch.io/adrift-in-turbulent-waters",
+        "gif_cover": "https://img.itch.zone/aW1nLzU2NDMwODkuZ2lm/original/Uufy9A.gif",
         "short_text": "We are all at sea, but not under the same circumstances",
         title: "Adrift in Turbulent Waters",
         bundles: ["902"]
@@ -36743,17 +37050,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 1023527,
-        platforms: ["windows", "osx", "linux"],
-        title: "StarBoy",
+        cover: "https://img.itch.zone/aW1nLzU4NDY1MjIuZ2lm/300x240%23cm/1V3Ss7.gif",
         user: {
             url: "https://mrkdji.itch.io",
             name: "mrkdji",
             id: 473324
         },
-        url: "https://mrkdji.itch.io/starboy",
-        cover: "https://img.itch.zone/aW1nLzU4NDY1MjIuZ2lm/300x240%23cm/1V3Ss7.gif",
-        "cover_color": "#000000",
         classification: "game",
+        title: "StarBoy",
+        "cover_color": "#000000",
+        platforms: ["windows", "osx", "linux"],
+        url: "https://mrkdji.itch.io/starboy",
+        "gif_cover": "https://img.itch.zone/aW1nLzU4NDY1MjIuZ2lm/original/6BkThe.gif",
         "short_text": "A light-hearted platforming experience",
         bundles: ["902"]
     }, {
@@ -36788,16 +37096,17 @@ const games = ({
     }, {
         id: 875340,
         "cover_color": "#0b072a",
-        url: "https://thebittersoul.itch.io/fuzzy-road-home",
+        cover: "https://img.itch.zone/aW1nLzU4NTA2NDkuZ2lm/300x240%23cm/ow3oq4.gif",
+        classification: "game",
         user: {
             url: "https://thebittersoul.itch.io",
             name: "bitter",
             id: 3275623
         },
-        cover: "https://img.itch.zone/aW1nLzU4NTA2NDkuZ2lm/300x240%23cm/ow3oq4.gif",
-        platforms: ["windows"],
         flag: "free",
-        classification: "game",
+        platforms: ["windows"],
+        url: "https://thebittersoul.itch.io/fuzzy-road-home",
+        "gif_cover": "https://img.itch.zone/aW1nLzU4NTA2NDkuZ2lm/original/dEZm1g.gif",
         "short_text": "A short rpg about a buncha gay furs just tryin to get home!",
         title: "Fuzzy Road Home",
         bundles: ["902"]
@@ -36967,17 +37276,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 599966,
-        platforms: ["windows", "linux"],
-        title: "Oneons: Prisoners",
+        cover: "https://img.itch.zone/aW1nLzQxOTU5NjIuZ2lm/300x240%23cm/gBrxJz.gif",
         user: {
             url: "https://deengames.itch.io",
             name: "NightBlade",
             id: 837532
         },
-        url: "https://deengames.itch.io/oneons",
-        cover: "https://img.itch.zone/aW1nLzQxOTU5NjIuZ2lm/300x240%23cm/gBrxJz.gif",
-        "cover_color": "#302c2e",
         classification: "game",
+        title: "Oneons: Prisoners",
+        "cover_color": "#302c2e",
+        platforms: ["windows", "linux"],
+        url: "https://deengames.itch.io/oneons",
+        "gif_cover": "https://img.itch.zone/aW1nLzQxOTU5NjIuZ2lm/original/Bwxzqo.gif",
         "short_text": "Oneons is an experimental, short, difficult sci-fi roguelite. Fight through 12 floors of tactical combat and enemies.",
         bundles: ["902"]
     }, {
@@ -37013,17 +37323,18 @@ const games = ({
         bundles: ["902"]
     }, {
         id: 281927,
-        platforms: ["windows"],
-        title: "Commune Corvidae",
+        cover: "https://img.itch.zone/aW1hZ2UvMjgxOTI3LzE0MTM0MzIuZ2lm/300x240%23cm/xgDF0M.gif",
         user: {
             url: "https://magresta.itch.io",
             name: "Mike Agresta",
             id: 34383
         },
-        url: "https://magresta.itch.io/commune-corvidae",
-        cover: "https://img.itch.zone/aW1hZ2UvMjgxOTI3LzE0MTM0MzIuZ2lm/300x240%23cm/xgDF0M.gif",
-        "cover_color": "#96ffff",
         classification: "game",
+        title: "Commune Corvidae",
+        "cover_color": "#96ffff",
+        platforms: ["windows"],
+        url: "https://magresta.itch.io/commune-corvidae",
+        "gif_cover": "https://img.itch.zone/aW1hZ2UvMjgxOTI3LzE0MTM0MzIuZ2lm/original/rF%2F3DB.gif",
         "short_text": "Glide above the clouds and explore a rebuilding community",
         bundles: ["902"]
     }, {
@@ -37128,7 +37439,23 @@ const games = ({
         classification: "game",
         "short_text": "A wholesome story about working your dream job with your best friend.",
         bundles: ["902"]
-    }]
+    }],
+    bundles: {
+        "520": {
+            id: "520",
+            name: "Bundle for Racial Justice and Equality",
+            url: "https://itch.io/b/520/bundle-for-racial-justice-and-equality",
+            abbr: "RJE",
+            color: "#808000"
+        },
+        "902": {
+            id: "902",
+            name: "Indie bundle for Palestinian Aid",
+            url: "https://itch.io/b/902/indie-bundle-for-palestinian-aid",
+            abbr: "PA",
+            color: "#008000"
+        }
+    }
 });
 
 export default games;

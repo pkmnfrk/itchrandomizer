@@ -29,3 +29,17 @@
     text-align: center;
     padding: 0px 5px;
 }
+
+h2 {
+    display: inline-block;
+}
+#tags {
+    margin-left: 5px;
+}
+.tag {
+    display: inline-block;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    padding: 0 8px;
+}
