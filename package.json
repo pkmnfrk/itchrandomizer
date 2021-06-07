@@ -7,7 +7,9 @@
     "js-beautify": "^1.13.13",
     "json-literal": "^1.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "got": "^11.8.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
