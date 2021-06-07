@@ -7,7 +7,7 @@ Well, don't worry, let a random number generator choose for you!
 https://pkmnfrk.github.io/itchrandomizer/
 
 ## Features
- * Randomly choose a game from a list of 1700+
+ * Randomly choose a game from a list of 2500+
  * Filter based on the supposed platforms
  * Input your own bundle URL and it'll link you as close to the download as possible
  * Support for the [Bundle for Racial Justice and Equality](https://itch.io/b/520/bundle-for-racial-justice-and-equality)

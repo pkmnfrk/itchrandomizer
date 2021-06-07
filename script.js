@@ -281,7 +281,7 @@ function defaultSettings() {
     for(let classification in classifications) {
         ret[`clas_${classification}`] = true;
     }
-    for(let bundle in Object.keys(allGames.bundles)) {
+    for(let bundle of Object.keys(allGames.bundles)) {
         ret[`bundle_${bundle}`] = true;
     }
     return ret;
