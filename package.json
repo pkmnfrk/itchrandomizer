@@ -4,7 +4,7 @@
   "description": "",
   "main": "games.js",
   "dependencies": {
-    "js-beautify": "^1.11.0",
+    "js-beautify": "^1.13.13",
     "json-literal": "^1.1.0"
   },
   "devDependencies": {},
