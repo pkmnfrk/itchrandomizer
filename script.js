@@ -176,6 +176,9 @@ function platform(game) {
 
 function matchesFilter(game) {
     if(settings.ignoreFilter && settings.played.indexOf(game.id) !== -1) return false;
+    
+    if(game.bundles.indexOf("520") !== -1) return false;
+
     let platformFilter = false;
     let classFilter = false;
 
