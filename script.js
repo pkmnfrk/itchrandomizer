@@ -55,7 +55,7 @@ $(() => {
     createPlatforms();
     createClassifications();
 
-    for(const bundle of Object.keys(settings.bundleUrl)) {
+    for(const bundle of Object.keys(allGames.bundles)) {
         $("#bundle_url_" + bundle).val(settings.bundleUrl[bundle]);
         $("#bundle_url_" + bundle).on('change', function() {
             settings.bundleUrl[bundle] = $("#bundle_url_" + bundle).val();
