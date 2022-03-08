@@ -133,6 +133,7 @@ function getTags(game) {
         const tag = $("<span/>");
         tag.text(allGames.bundles[bundle].abbr);
         tag.addClass("tag");
+        tag.addClass("b" + allGames.bundles[bundle].id);
         tag.attr("title", allGames.bundles[bundle].name);
         tag.css("background-color", allGames.bundles[bundle].color);
         ret.push(tag);
