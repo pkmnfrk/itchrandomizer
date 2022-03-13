@@ -1,8 +1,19 @@
 //const https = require('https');
-const got = require("got");
-const fs = require('fs');
-const JSONL = require('json-literal');
-const jsBeautify = require('js-beautify').js;
+//const got = require("got");
+import got from "got";
+//const fs = require('fs');
+import fs from "fs";
+// const JSONL = require('json-literal');
+import JSONL from "json-literal";
+// const jsBeautify = require('js-beautify').js;
+import jsPkg from "js-beautify";
+const {js: jsBeautify} = jsPkg;
+
+import pLimit from "p-limit";
+import { fetchMetadata } from "./metadata.mjs";
+
+import * as readline from "node:readline";
+import process from 'node:process';
 
 const urls = {
     '520': 'https://itch.io/bundle/520/games.json',
@@ -69,7 +80,37 @@ async function doStuff() {
         }
     }
 
-    json = JSONL.stringify(games, null, 2);
+    const limit = pLimit(4);
+
+    let stopFetching = false;
+    const seenTags = {};
+    const fetchMetadataWrapper = async (url) => {
+        if(stopFetching) {
+            return null;
+        }
+        const result = await fetchMetadata(url);
+
+        if(result) {
+            for(let i = 0; i < result.tags.length; i++) {
+                if(!seenTags[result.tags[i]]) {
+                    console.log(result.tags[i], result.tag_urls[i]);
+                    seenTags[result.tags[i]] = true;
+                }
+            }
+            
+        }
+        return result;
+    }
+
+    const fetchJobs = games.games.map(g => limit(fetchMetadataWrapper, g.url));
+
+    console.log("Fetching metadata...");
+
+    const metadatas = await Promise.allSettled(fetchJobs);
+
+    console.log("Done fetching");
+
+    const json = JSONL.stringify(games, null, 2);
     let js = `${attribution}\r\nconst games = ${json};\r\n\r\n export default games;`;
     js = jsBeautify(js, {
         indent_size: 4,
