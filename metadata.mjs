@@ -32,7 +32,7 @@ function isBlacklisted(tag) {
 
 export async function fetchMetadata(url) {
 
-    if(cache[url]) {
+    if(typeof cache[url] !== "undefined") {
         return cache[url];
     }
 

@@ -110,6 +110,12 @@ async function doStuff() {
 
     console.log("Done fetching");
 
+    for(let i = 0; i < games.games.length; i++) {
+        if(metadatas[i].status === "fulfilled" && metadatas[i].value) {
+            games.games[i].tags = metadatas[i].value.tags;
+        }
+    }
+
     const json = JSONL.stringify(games, null, 2);
     let js = `${attribution}\r\nconst games = ${json};\r\n\r\n export default games;`;
     js = jsBeautify(js, {
