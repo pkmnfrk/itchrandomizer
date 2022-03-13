@@ -90,15 +90,14 @@ async function doStuff() {
         }
         const result = await fetchMetadata(url);
 
-        if(result) {
-            for(let i = 0; i < result.tags.length; i++) {
-                if(!seenTags[result.tags[i]]) {
-                    console.log(result.tags[i], result.tag_urls[i]);
-                    seenTags[result.tags[i]] = true;
-                }
-            }
-            
-        }
+        // if(result) {
+        //     for(let i = 0; i < result.tags.length; i++) {
+        //         if(!seenTags[result.tags[i]]) {
+        //             console.log(result.tags[i], result.tag_urls[i]);
+        //             seenTags[result.tags[i]] = true;
+        //         }
+        //     }
+        // }
         return result;
     }
 
