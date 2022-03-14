@@ -13,7 +13,7 @@
   },
   "scripts": {
     "update": "node update.mjs",
-    "run": "static-server"
+    "server": "static-server"
   },
   "repository": {
     "type": "git",
