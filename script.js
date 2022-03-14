@@ -135,8 +135,13 @@ function getTags(game) {
         tag.addClass("tag");
         tag.addClass("b" + allGames.bundles[bundle].id);
         tag.attr("title", allGames.bundles[bundle].name);
-        tag.css("background-color", allGames.bundles[bundle].color);
         ret.push(tag);
+    }
+    for(const tag of game.tags) {
+        const element = $("<span/>");
+        element.text(tag);
+        element.addClass("tag");
+        ret.push(element);
     }
     return ret;
 }

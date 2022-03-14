@@ -39,9 +39,21 @@ h2 {
 .tag {
     display: inline-block;
     border-radius: 15px;
-    background-color: black;
-    color: white;
+    background-color: lightblue;
+    color: black;
     padding: 0 8px;
+}
+
+.tag.b520 {
+    background: #808000;
+    color: white;
+}
+
+.tag.b902 {
+    background: rgb(0, 87, 183);
+    background: linear-gradient(0deg, #21811f 33%, white 34%, white 65%, black 66%);
+    color: red;
+    text-shadow: 2px 2px 2px white;
 }
 
 .tag.b1316 {
